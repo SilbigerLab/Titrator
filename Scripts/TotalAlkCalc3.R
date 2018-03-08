@@ -1,11 +1,13 @@
 #Calculate total alkalinity using potentiometric titrations
-#Uses a for loop to read in data exported as a titration file and calculated TA
-#Need one csv file with all you ID numbers (how you named the titration files) and
-#your mass of each sample
-#at the end it exports your data as a .csv file. Comment the last line out if your don't want that.
+#Uses a for loop to read in data exported as a titration file and calculate Total alkalinity
+#At the end it exports your data as a .csv file. Comment the last line out if your don't want that.
 
-#You must have a folder for each set. In that folder there is the mass file for your run and
-#and a subfolder named "TitrationFiles" (where all of your titration files are). Mass file and titration files are exported directly from LabX
+### Files needed ######
+# 1. pHCalibration.csv in your "Data" folder
+#Inside the Data folder You must have a subfolder for each data set. In each subfolder there is:
+#2. the mass file for your run  (exported directly from labx)
+#3. a subfolder named "TitrationFiles" (where all of your titration files are) directly exported from LabX.
+# 
 
 #Created by Nyssa Silbiger 03/28/2014
 #modified 08/18/2018 - N Silbiger
