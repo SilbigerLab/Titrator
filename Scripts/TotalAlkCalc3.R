@@ -21,11 +21,11 @@ main<-getwd()
 library(seacarb) #used to calculate TA
 
 #CHANGE THESE VALUES EVERY DAY----------------------------------------------
-path<-"Data/TestData2" #the location of all your titration files
+path<-"Data/CRMTest" #the location of all your titration files
 massfile<-"Mass-3_8_2018.csv" # name of your file with masses
 
 # Date that the data were run
-date<-'3/7/2018'
+date<-'3/8/2018'
 
 
 #DO NOT CHANGE ANYTHING BELOW THIS LINE UNLESS A NEW BOTTLE OF ACID IS USED
@@ -116,7 +116,7 @@ for(i in 1: length(file.names)) {
   TA[i,1]<-name
   TA[i,2]<-10000000*at(S=s,T=mean(Data$Temperature[mV], na.rm=T), C=c, d=d, pHTris=NULL, ETris=NULL, weight=mass, E=Data$mV[mV], volume=Data$Volume[mV])
   TA[i,3]<-mass
-  TA[4,4]<-sample.index
+  TA[i,4]<-sample.index
 }
 
 #exports your data as a CSV file
