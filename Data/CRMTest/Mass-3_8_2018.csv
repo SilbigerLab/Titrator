@@ -6,9 +6,4 @@ Sample Index In Scope,Sample ID1,Sample start time,Overall State,Excluded,Correc
 3,CRM3,3/8/2018 11:40,OK,Unchecked,1,,25,°C,,2.684,mL,,67.184,g,,67.1835,g,,1,g/mL
 4,CRM4,3/8/2018 11:53,OK,Unchecked,1,,25,°C,,2.44,mL,,60.953,g,,60.9532,g,,1,g/mL
 5,CRM5,3/8/2018 12:06,OK,Unchecked,1,,25,°C,,2.461,mL,,61.906,g,,61.9062,g,,1,g/mL
-6,CRM6,,OK,Unchecked,1,,25,°C,,,,,60.4807,,,60.4807,,,,
-7,CRM7,,OK,Unchecked,1,,25,°C,,,,,61.089,,,61.089,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
 SystemInternal3/8/2018 3:02:04 PM,,,,,,,,,,,,,,,,,,1-Jan,,
