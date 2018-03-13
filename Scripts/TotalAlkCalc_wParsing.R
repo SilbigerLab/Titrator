@@ -10,7 +10,7 @@
 # 
 
 #Created by Nyssa Silbiger 03/28/2014
-#modified 08/18/2018 - N Silbiger
+#modified 03/18/2018 - N Silbiger
 #------------------------------------------------------------
 rm(list=ls())
 
@@ -94,9 +94,9 @@ for(i in 1:nrows) {
  # colnames(Data) <-  c("Volume","Time",	"mV",	"Temperature",	"dV/dt")
   Data<-sample_names_list[[i]]
   # everything was brought in as a character because of the second line, converts back to numeric
-  Data$mV<-as.numeric(Data$mV)
-  Data$Temperature<-as.numeric(Data$Temperature)
-  Data$Volume<-as.numeric(Data$Volume)
+  Data$mV<-suppressWarnings(as.numeric(Data$mV)) ## supress the warnings since NA will be produced
+  Data$Temperature<-suppressWarnings(as.numeric(Data$Temperature))
+  Data$Volume<-suppressWarnings(as.numeric(Data$Volume))
   #name of the file without .csv
   #name<-unlist(strsplit(file.names[i], split='.', fixed=TRUE))[1]
   name<-sample_names[i]
@@ -108,7 +108,9 @@ for(i in 1:nrows) {
   #Bottle #26 , 
   #density of your titrant: change every time acid is changed
   
-  d<-100*(-0.00000410*mean(Data$Temperature[mV], na.rm=T)^2-0.0001067*mean(Data$Temperature[mV], na.rm=T)+1.02882)/1000 #03/8/18
+  #d<-100*(-0.00000410*mean(Data$Temperature[mV], na.rm=T)^2-0.0001067*mean(Data$Temperature[mV], na.rm=T)+1.02882)/1000 #03/8/18
+  d<-(-0.00000410*mean(Data$Temperature[mV], na.rm=T)^2-0.0001067*mean(Data$Temperature[mV], na.rm=T)+1.02882) #03/8/18
+  
   #7/15/2016 batch A10
   
   #concentration of your titrant: CHANGE EVERYTIME ACID IS CHANGED 
@@ -128,11 +130,11 @@ for(i in 1:nrows) {
   
   #at function is based on code in saecarb package by Steeve Comeau, Heloise Lavigne and Jean-Pierre Gattuso
   TA[i,1]<-name
-  TA[i,2]<-10000000*at(S=s,T=mean(Data$Temperature[mV], na.rm=T), C=c, d=d, pHTris=NULL, ETris=NULL, weight=mass, E=Data$mV[mV], volume=Data$Volume[mV])
+  TA[i,2]<-1000000*at(S=s,T=mean(Data$Temperature[mV], na.rm=T), C=c, d=d, pHTris=NULL, ETris=NULL, weight=mass, E=Data$mV[mV], volume=Data$Volume[mV])
   TA[i,3]<-mass
   TA[i,4]<-sample.index
 }
-TA[,2:4]<-sapply(TA[,2:4], as.numeric)
+TA[,2:4]<-sapply(TA[,2:4], as.numeric) # make sure the appropriate columns are numeric
 #exports your data as a CSV file
 write.table(TA,paste0(path,"/TA",Sys.Date(),".csv"),sep=",", row.names=FALSE)
 
