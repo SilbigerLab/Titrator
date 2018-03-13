@@ -1,0 +1,24 @@
+Results Editor,,,,,,,,,,,,,,,,,,,,
+Result Overview,,,,,,,,,,,,,,,,,,,,
+Sample Index In Scope,Sample ID1,Sample start time,Overall State,Excluded,Correction factor,Unit of Correction factor,Temperature [°C],Unit of Temperature [°C],Comment,Content (R3),Unit of Content (R3),Data markings of Content (R3),Content (R1),Unit of Content (R1),Data markings of Content (R1),Weight [g],Unit of Weight [g],,Density [g/m L],Unit of Density [g/m L]
+1,T1,3/12/2018 11:03,OK,Unchecked,1,,25,°C,,2.93,mL,,69.777,g,,69.7773,g,,1,g/mL
+2,T2,3/12/2018 11:17,OK,Unchecked,1,,25,°C,,2.805,mL,,69.615,g,,69.6153,g,,1,g/mL
+3,T3,3/12/2018 11:31,OK,Unchecked,1,,25,°C,,2.812,mL,,70.229,g,,70.2288,g,,1,g/mL
+4,T4,3/12/2018 11:45,OK,Unchecked,1,,25,°C,,2.822,mL,,70.242,g,,70.2419,g,,1,g/mL
+5,T5,3/12/2018 11:58,OK,Unchecked,1,,25,°C,,2.796,mL,,69.922,g,,69.9222,g,,1,g/mL
+6,T6,3/12/2018 12:12,OK,Unchecked,1,,25,°C,,2.811,mL,,70.278,g,,70.2779,g,,1,g/mL
+7,T7,3/12/2018 12:26,OK,Unchecked,1,,25,°C,,2.804,mL,,70.156,g,,70.1557,g,,1,g/mL
+8,T8,3/12/2018 12:40,OK,Unchecked,1,,25,°C,,2.828,mL,,70.314,g,,70.314,g,,1,g/mL
+9,T9,3/12/2018 12:54,OK,Unchecked,1,,25,°C,,2.808,mL,,70.128,g,,70.1285,g,,1,g/mL
+10,T10,3/12/2018 13:07,OK,Unchecked,1,,25,°C,,2.83,mL,,70.303,g,,70.3027,g,,1,g/mL
+11,T11,3/12/2018 13:21,OK,Unchecked,1,,25,°C,,2.817,mL,,70.217,g,,70.2168,g,,1,g/mL
+12,T12,3/12/2018 13:35,OK,Unchecked,1,,25,°C,,2.828,mL,,70.275,g,,70.2751,g,,1,g/mL
+13,T13,3/12/2018 13:49,OK,Unchecked,1,,25,°C,,2.85,mL,,70.365,g,,70.3653,g,,1,g/mL
+14,T14,3/12/2018 14:03,OK,Unchecked,1,,25,°C,,2.824,mL,,69.9,g,,69.8996,g,,1,g/mL
+15,T15,3/12/2018 14:17,OK,Unchecked,1,,25,°C,,2.838,mL,,70.102,g,,70.1018,g,,1,g/mL
+16,T16,3/12/2018 14:30,OK,Unchecked,1,,25,°C,,2.843,mL,,69.931,g,,69.9311,g,,1,g/mL
+17,T17,3/12/2018 14:44,OK,Unchecked,1,,25,°C,,2.82,mL,,70.054,g,,70.0536,g,,1,g/mL
+18,T18,3/12/2018 14:58,OK,Unchecked,1,,25,°C,,2.821,mL,,70.025,g,,70.0252,g,,1,g/mL
+19,T19,3/12/2018 15:12,OK,Unchecked,1,,25,°C,,2.8,mL,,69.986,g,,69.9859,g,,1,g/mL
+20,T20,3/12/2018 15:26,OK,Unchecked,1,,25,°C,,2.808,mL,,69.954,g,,69.9535,g,,1,g/mL
+3/12/2018 4:01:55 PMSystemInternal,,,,,,,,,,,,,,,,,,1-Jan,,
