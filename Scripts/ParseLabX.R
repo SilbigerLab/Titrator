@@ -47,13 +47,12 @@ data1 <- read.table(data_file, header = FALSE,
                     sep = ",", 
                     col.names = paste0("V",seq_len(max(count.fields(data_file, sep = ',')) - 1)), fill = TRUE)
 
-data1<-read.csv(data_file, header=T, sep=",", na.string="NA",as.is=T, skip=4)[ ,1:5] 
-
+data1<-read.csv(data_file, header=F, sep=",", na.string="NA",as.is=T)[ ,1:5] 
+colnames(data1)<-c('V',	't',	'E',	'T',	'dV/dt')
 # Pulls total sample number from Row 2, Col. 2, position 11.
 # Converts from string to number.
 # Data export must be Raw Data & Total Measured Values.
-total_samples <- as.numeric(data1[2,2] %>% substr(11,11))
-
+total_samples <- as.numeric(data1[3,2] %>% substr(11,12))
 
 ### Extract sample names
 
@@ -66,7 +65,7 @@ sample_list <- data1[sample_name_positions[1:(length(sample_name_positions)/2)],
 
 # Pulls out the actual sample names using the number of characters, minus 1 to get rid of ending ")" in cells, as the stop value for substr.
 # Stores as a list, which will be useful for assigning data to each sample name later on.
-sample_names <- substr(sample_list, 14, as.numeric(nchar(sample_list))-1)
+sample_names <- substr(sample_list, 15, as.numeric(nchar(sample_list))-1)
 sample_names_list <- list()
 for (item in 1:length(sample_names)){
   sample_names_list[[item]] <- sample_names[item]

@@ -24,7 +24,7 @@ library(tidyverse)
 #CHANGE THESE VALUES EVERY DAY----------------------------------------------
 path<-"Data/CRMTest" #the location of all your titration files
 massfile<-"Mass-3_8_2018.csv" # name of your file with masses
-filename<-'Data/CRMTest/CRM5-3_8_2018-Silbiger TA (EP)r1.csv'
+titrationfile<-'CRM5-3_8_2018-Silbiger TA (EP)r1.csv'# name of the last titration file run
 
 # Date that the data were run
 date<-'3/8/2018'
@@ -35,6 +35,7 @@ date<-'3/8/2018'
 #load Mass Data
 Mass<-read.csv(file.path(path,massfile), header=T, sep=",", na.string="NA", as.is=T, skip=2) 
 
+#### pH Calibration #####
 pHCal<-read.csv('Data/pHCalibration.csv') # read in the pH Calibration file
 
 #select the calibration for the correct date
@@ -55,8 +56,7 @@ dev.off()
 pH35<-mod.pH$coefficients[1]+mod.pH$coefficients[2]*3.5
 pH3<-mod.pH$coefficients[1]+mod.pH$coefficients[2]*3
 
-## read in the data file
-
+##### titration###########
 #create an empty matrix to put the TA values in
 nrows<-nrow(Mass)-1 # -1 because there is an extra line in the mass file
 TA <- data.frame(matrix(nrow = nrows, ncol = 4))
@@ -68,6 +68,7 @@ Mass<-Mass[1:nrows,c('Sample.ID1','Weight..g.','Sample.Index.In.Scope')]
 
 #run a for loop to bring in the titration files on at a time and calculate TA
 # read in the mega titration file
+filename<-file.path(path,titrationfile)
 AllData<-read.csv(filename, sep=",", na.string="NA",as.is=T, skip=5)[ ,1:5] 
 
 # Identifies rows starting with "Scope" in column 1
