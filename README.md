@@ -1,2 +1,3 @@
-# Titrator
-Here is where all the data and protocols from the Silbiger Lab titrator will go
+# Welcome to the Silbiger Lab Repo for our Automatic Titrator
+
+[Here is the link to the titrator SOP](../Protocols/TitratorSOP.md)
