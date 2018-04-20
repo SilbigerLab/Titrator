@@ -22,12 +22,12 @@ library(seacarb) #used to calculate TA
 library(tidyverse)
 
 #CHANGE THESE VALUES EVERY DAY----------------------------------------------
-path<-"Data/Bermuda32" #the location of all your titration files
-massfile<-"Mass_4_18_2018all.csv" # name of your file with masses
-titrationfile<-'Titrations-4_18_2018-Silbiger TA (EP)r1.csv'# name of the last titration file run
+path<-"Data/Bermuda34" #the location of all your titration files
+massfile<-"Mass_4_20_2018.csv" # name of your file with masses
+titrationfile<-'Titrations-4_20_2018-Silbiger TA (EP)r1.csv'# name of the last titration file run
 
 # Date that the data were run
-date<-'4/18/2018'
+date<-'4/20/2018'
 
 
 #DO NOT CHANGE ANYTHING BELOW THIS LINE UNLESS A NEW BOTTLE OF ACID IS USED
