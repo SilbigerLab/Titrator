@@ -54,9 +54,9 @@ Contents
 		1. The pH buffers used are 4, 7, and 10.
 			1. If you use new buffers, write the date opened on the bottle and pour ~60 ml into 3 separate 80 ml cups.
 			2. After calibration, pour the buffers into a clean regent bottle, respective of their pH. Those buffers can be used for future uses for ~ 1 week.
-	2. Place the three cups in the Autosampler starting from position 1-3
+	2. Place the three cups in the Autosampler starting from position 1-3. Place a 4th cup filled with DI water in position 69 on the sample changer.
 		1. The pH cups will be in the order of 4, 7 and 10
-	3. Using LabX, look for the Released Methods and click on “Calibration”
+	3. Using LabX, click "Analysis" on the bottom left-hand side then look for the Released Methods and click on “Calibration”
 	4. Click Start > Titrator > Start to start the Calibration.
 		1. You can either Right click on the Calibration group or look for the tab named “Recurrence” (It’s on top of the Released Methods) and click Start.
 	5. Viewing from the Titrator window, watch the graph for any anomalies.
@@ -70,7 +70,7 @@ Contents
 		1. The Notes are used to determine the age of the buffer.
 		2. To gather Zero Point and Slope, go to LabX > Click Data > look for “Result Sets” on the Data Tab bar (Top Left) > Click “Last 24 hours” > Click pH CAL” > Record the data onto Excel
 			1. *As an alternative: Go to the Titrator tablet and if the tablet displays that the Calibration is done, press OK to view the Zero Point and Slope.*
-		3. To gather data for each pH, go to Result Set, then “last 24 hours,” then click on Results.
+		3. To gather data for each pH, go to Result Set, then “last 24 hours,” then click on Results (click the Raw Data tab).
 			1. On the top, look for “E”, you’re going to use that number as a calibration. 
 				1. Note: The results should be displayed as pH 4 from the top while pH 10 is at the bottom.
 	8. Once the calibrations are complete, remove the cups from the Autosampler and dispose them into the into a plastic reagent bottle, respective of their pH.
@@ -101,7 +101,8 @@ Contents
 
 5. <a name="CRM_Titration"></a> **CRM_Titration**
 	1. Run step 4, but only use a CRM (or a junk and CRM sample if needed).
-	2. **In every CRM Titration, it is necessary to report the accuracy in the “CRMAccuracyData” file to test the accuracy.  If must never be more than 1% off. Accuracy must be tested before running any samples for the day.**
+	2. Skip to [**Data_Analysis**](#Data_Analysis) to calculate total alkalinity of the CRM. Then check the accuracy of the data.
+	3. **In every CRM Titration, it is necessary to report the accuracy in the “CRMAccuracyData” file to test the accuracy.  If must never be more than 1% off. Accuracy must be tested before running any samples for the day.**
 
 6. <a name="SAMPLE_Titration"></a> **SAMPLE_Titration**
 	1. Repeat step **[4.]**. However, in step **[4.c]**, replace to [the sample name given on the sample bottle].
