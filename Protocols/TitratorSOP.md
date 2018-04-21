@@ -137,7 +137,7 @@ Shut off both Titrator and Autosampler.
 		1. To shut off the Autosampler, simply hold the power button at least 5 seconds.
 			1. When you hear a beep, it’s notifying you that it’s ready to shut off, when you are ready release the button.
 		2. To shut off the Titrator, use the tablet to make it offline then tap shut down.
-	6. Wipe down Rondolina carefully with DI water.
+	6. Wipe down Sample Changer carefully with DI water.
 
 
 
