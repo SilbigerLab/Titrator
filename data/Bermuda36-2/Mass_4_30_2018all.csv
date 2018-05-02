@@ -1,0 +1,24 @@
+Results Editor,,,,,,,,,,,,,,,,,,,,
+Result Overview,,,,,,,,,,,,,,,,,,,,
+Sample Index In Scope,Sample ID1,Sample start time,Overall State,Excluded,Correction factor,Unit of Correction factor,Temperature [°C],Unit of Temperature [°C],Comment,Content (R3),Unit of Content (R3),Data markings of Content (R3),Content (R1),Unit of Content (R1),Data markings of Content (R1),Weight [g],Unit of Weight [g],,Density [g/m L],Unit of Density [g/m L]
+1,Junk,4/30/2018 11:13,OK,Unchecked,0,,25,°C,,2.409,mL,,59.867,g,,59.8674,g,,1,g/mL
+2,OF3-11-Dark,4/30/2018 11:24,OK,Unchecked,0,,25,°C,,2.514,mL,,60.294,g,,60.2944,g,,1,g/mL
+3,OF2-11-Dark,4/30/2018 11:35,OK,Unchecked,0,,25,°C,,2.504,mL,,60.052,g,,60.0521,g,,1,g/mL
+4,OF1-11-Dark,4/30/2018 11:46,OK,Unchecked,0,,25,°C,,2.518,mL,,60.016,g,,60.0155,g,,1,g/mL
+5,BK2-11-Dark,4/30/2018 11:57,OK,Unchecked,0,,25,°C,,2.512,mL,,60.165,g,,60.1653,g,,1,g/mL
+6,BK1-11-Dark,4/30/2018 12:08,OK,Unchecked,0,,25,°C,,2.516,mL,,60.166,g,,60.1659,g,,1,g/mL
+7,Start 11c-Dark,4/30/2018 12:19,OK,Unchecked,0,,25,°C,,2.5,mL,,60.051,g,,60.0506,g,,1,g/mL
+8,Start 11a-Dark,4/30/2018 12:30,OK,Unchecked,0,,25,°C,,2.486,mL,,60.21,g,,60.21,g,,1,g/mL
+9,BK2-11-Light,4/30/2018 12:41,OK,Unchecked,0,,25,°C,,2.485,mL,,59.842,g,,59.8417,g,,1,g/mL
+10,BK1-11-Light,4/30/2018 12:51,OK,Unchecked,0,,25,°C,,2.49,mL,,60.143,g,,60.1427,g,,1,g/mL
+11,RB4-11-Light,4/30/2018 13:02,OK,Unchecked,0,,25,°C,,2.479,mL,,60.096,g,,60.0956,g,,1,g/mL
+12,RB3-11-Light,4/30/2018 13:13,OK,Unchecked,0,,25,°C,,2.473,mL,,59.909,g,,59.9092,g,,1,g/mL
+13,RB2-11-Light,4/30/2018 13:24,OK,Unchecked,0,,25,°C,,2.476,mL,,59.878,g,,59.8775,g,,1,g/mL
+14,RB1-11-Light,4/30/2018 13:34,OK,Unchecked,0,,25,°C,,2.48,mL,,59.987,g,,59.9871,g,,1,g/mL
+15,OF4-11-Light,4/30/2018 13:45,OK,Unchecked,0,,25,°C,,2.479,mL,,60.183,g,,60.1826,g,,1,g/mL
+16,OF3-11-Light,4/30/2018 13:56,OK,Unchecked,0,,25,°C,,2.474,mL,,60.106,g,,60.1065,g,,1,g/mL
+17,OF1-11-Light,4/30/2018 14:07,OK,Unchecked,0,,25,°C,,2.478,mL,,60.24,g,,60.2401,g,,1,g/mL
+18,Start 11c-Light,4/30/2018 14:17,OK,Unchecked,0,,25,°C,,2.456,mL,,59.894,g,,59.8939,g,,1,g/mL
+19,Start 11b-Light,4/30/2018 14:29,OK,Unchecked,0,,25,°C,,2.466,mL,,60.085,g,,60.0849,g,,1,g/mL
+20,Start 11a-Light,4/30/2018 14:39,OK,Unchecked,0,,25,°C,,2.474,mL,,60.177,g,,60.1769,g,,1,g/mL
+4/30/2018 4:05:54 PMSystemInternal,,,,,,,,,,,,,,,,,,1-Jan,,
