@@ -1,0 +1,20 @@
+Results Editor,,,,,,,,,,,,,,,,,,,,
+Result Overview,,,,,,,,,,,,,,,,,,,,
+Sample Index In Scope,Sample ID1,Sample start time,Overall State,Excluded,Correction factor,Unit of Correction factor,Temperature [°C],Unit of Temperature [°C],Comment,Content (R3),Unit of Content (R3),Data markings of Content (R3),Content (R1),Unit of Content (R1),Data markings of Content (R1),Weight [g],Unit of Weight [g],,Density [g/m L],Unit of Density [g/m L]
+1,Junk,5/9/2018 12:08:27 PM,OK,Unchecked,0,,25.0,°C,,2.292,mL,,60.053,g,,60.0531,g,,1.0,g/mL
+2,OF1-11-Dark,5/9/2018 12:18:47 PM,OK,Unchecked,0,,25.0,°C,,2.430,mL,,60.248,g,,60.2482,g,,1.0,g/mL
+3,OF3-10-Light,5/9/2018 12:29:25 PM,OK,Unchecked,0,,25.0,°C,,2.284,mL,,59.976,g,,59.9757,g,,1.0,g/mL
+4,OF1-10-Dark,5/9/2018 12:39:45 PM,OK,Unchecked,0,,25.0,°C,,2.308,mL,,60.151,g,,60.1514,g,,1.0,g/mL
+5,OF1-9-Light,5/9/2018 12:50:08 PM,OK,Unchecked,0,,25.0,°C,,2.288,mL,,59.917,g,,59.9167,g,,1.0,g/mL
+6,RB1-1-Light,5/9/2018 1:00:27 PM,OK,Unchecked,0,,25.0,°C,,2.256,mL,,60.381,g,,60.3809,g,,1.0,g/mL
+7,OF2-6-Dark,5/9/2018 1:10:44 PM,OK,Unchecked,0,,25.0,°C,,2.320,mL,,60.292,g,,60.2916,g,,1.0,g/mL
+8,RB1-6-Dark,5/9/2018 1:21:08 PM,OK,Unchecked,0,,25.0,°C,,2.329,mL,,59.930,g,,59.9298,g,,1.0,g/mL
+9,RB3-6-Light,5/9/2018 1:31:31 PM,OK,Unchecked,0,,25.0,°C,,2.274,mL,,59.812,g,,59.8116,g,,1.0,g/mL
+10,OF1-7-Dark,5/9/2018 1:41:55 PM,OK,Unchecked,0,,25.0,°C,,2.289,mL,,59.924,g,,59.9243,g,,1.0,g/mL
+11,OF3-7-Dark,5/9/2018 1:52:17 PM,OK,Unchecked,0,,25.0,°C,,2.270,mL,,59.942,g,,59.9421,g,,1.0,g/mL
+12,OF1-7-Light,5/9/2018 2:02:34 PM,OK,Unchecked,0,,25.0,°C,,2.266,mL,,59.835,g,,59.8351,g,,1.0,g/mL
+13,RB3-8-Light,5/9/2018 2:12:49 PM,OK,Unchecked,0,,25.0,°C,,2.302,mL,,60.064,g,,60.0636,g,,1.0,g/mL
+14,RB4-8-Light,5/9/2018 2:23:09 PM,OK,Unchecked,0,,25.0,°C,,2.301,mL,,60.032,g,,60.0315,g,,1.0,g/mL
+15,BK1-9-Dark,5/9/2018 2:33:32 PM,OK,Unchecked,0,,25.0,°C,,2.303,mL,,59.921,g,,59.9213,g,,1.0,g/mL
+16,OF1-9-Dark,5/9/2018 2:43:54 PM,OK,Unchecked,0,,25.0,°C,,2.307,mL,,60.165,g,,60.1652,g,,1.0,g/mL
+SystemInternal5/9/2018 3:17:52 PM,,,,,,,,,,,,,,,,,,1/1,,
