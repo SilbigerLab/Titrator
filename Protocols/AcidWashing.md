@@ -8,7 +8,7 @@ Contents
 - [**Setup_the_bath**](#Setup_the_bath)
 - [**Cleaning**](#Cleaning) 
 - [**Drying**](#Drying) 
--- 
+ 
 
 1. <a name="Pre-Setup"></a> **Pre-Setup**
 	  1. 	Since you are working with HCl. Lab Coat and Examination Gloves always, and Safety Goggles are required.
