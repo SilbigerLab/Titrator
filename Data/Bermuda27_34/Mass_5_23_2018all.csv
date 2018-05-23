@@ -1,0 +1,21 @@
+Results Editor,,,,,,,,,,,,,,,,,,,,
+Result Overview,,,,,,,,,,,,,,,,,,,,
+Sample Index In Scope,Sample ID1,Sample start time,Overall State,Excluded,Correction factor,Unit of Correction factor,Temperature [°C],Unit of Temperature [°C],Comment,Content (R3),Unit of Content (R3),Data markings of Content (R3),Content (R1),Unit of Content (R1),Data markings of Content (R1),Weight [g],Unit of Weight [g],,Density [g/m L],Unit of Density [g/m L]
+1,Junk,5/23/2018 12:24:09 PM,OK,Unchecked,0,,25.0,°C,,2.374,mL,,60.046,g,,60.0461,g,,1.0,g/mL
+2,OF2-1-Light,5/23/2018 12:34:39 PM,OK,Unchecked,0,,25.0,°C,,2.377,mL,,59.892,g,,59.8915,g,,1.0,g/mL
+3,OF2-2-Light,5/23/2018 12:45:12 PM,OK,Unchecked,0,,25.0,°C,,2.388,mL,,60.014,g,,60.0136,g,,1.0,g/mL
+4,OF2-6-Light,5/23/2018 12:55:43 PM,OK,Unchecked,0,,25.0,°C,,2.390,mL,,60.215,g,,60.2149,g,,1.0,g/mL
+5,OF2-7-Light,5/23/2018 1:06:15 PM,OK,Unchecked,0,,25.0,°C,,2.383,mL,,60.142,g,,60.1425,g,,1.0,g/mL
+6,OF2-8-Light,5/23/2018 1:16:46 PM,OK,Unchecked,0,,25.0,°C,,2.388,mL,,60.149,g,,60.1489,g,,1.0,g/mL
+7,OF2-9-Light,5/23/2018 1:27:18 PM,OK,Unchecked,0,,25.0,°C,,2.376,mL,,59.993,g,,59.9934,g,,1.0,g/mL
+8,OF2-10-Light,5/23/2018 1:37:48 PM,OK,Unchecked,0,,25.0,°C,,2.392,mL,,59.903,g,,59.9032,g,,1.0,g/mL
+9,OF2-11-Light,5/23/2018 1:48:21 PM,OK,Unchecked,0,,25.0,°C,,2.448,mL,,59.844,g,,59.8441,g,,1.0,g/mL
+10,OF4-1-Light,5/23/2018 1:59:02 PM,OK,Unchecked,0,,25.0,°C,,2.361,mL,,60.050,g,,60.0505,g,,1.0,g/mL
+11,OF4-2-Light,5/23/2018 2:09:31 PM,OK,Unchecked,0,,25.0,°C,,2.360,mL,,59.843,g,,59.8432,g,,1.0,g/mL
+12,OF4-6-Light,5/23/2018 2:19:57 PM,OK,Unchecked,0,,25.0,°C,,2.371,mL,,60.162,g,,60.1623,g,,1.0,g/mL
+13,OF4-7-Light,5/23/2018 2:30:26 PM,OK,Unchecked,0,,25.0,°C,,2.374,mL,,60.214,g,,60.2141,g,,1.0,g/mL
+14,OF4-8-Light,5/23/2018 2:40:56 PM,OK,Unchecked,0,,25.0,°C,,2.363,mL,,59.872,g,,59.8721,g,,1.0,g/mL
+15,OF4-9-Light,5/23/2018 2:51:25 PM,OK,Unchecked,0,,25.0,°C,,2.367,mL,,60.124,g,,60.1238,g,,1.0,g/mL
+16,OF4-10-Light,5/23/2018 3:01:54 PM,OK,Unchecked,0,,25.0,°C,,2.380,mL,,60.121,g,,60.1212,g,,1.0,g/mL
+17,OF4-11-Light,5/23/2018 3:12:24 PM,OK,Unchecked,0,,25.0,°C,,2.428,mL,,59.866,g,,59.8655,g,,1.0,g/mL
+SystemInternal5/23/2018 3:24:01 PM,,,,,,,,,,,,,,,,,,1/1,,
