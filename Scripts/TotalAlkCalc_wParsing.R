@@ -22,12 +22,12 @@ library(seacarb) #used to calculate TA
 library(tidyverse)
 
 #CHANGE THESE VALUES EVERY DAY----------------------------------------------
-path<-"Data/Bermuda29_32" #the location of all your titration files
-massfile<-"Mass_5_23_2018all.csv" # name of your file with masses
-titrationfile<-'Titrations-5_23_2018-Silbiger TA (EP)r1.csv'# name of the last titration file run
+path<-"Data/TestJan2019/" #the location of all your titration files
+massfile<-"Mass_01312019.csv" # name of your file with masses
+titrationfile<-'Titrations-1_31_2019-Silbiger TA (EP)r1.csv'# name of the last titration file run
 
 # Date that the data were run
-date<-'5/23/2018'
+date<-'1/31/2019'
 
 
 #DO NOT CHANGE ANYTHING BELOW THIS LINE UNLESS A NEW BOTTLE OF ACID IS USED
@@ -36,7 +36,7 @@ date<-'5/23/2018'
 Mass<-read.csv(file.path(path,massfile), header=T, sep=",", na.string="NA", as.is=T, skip=2) 
 
 #### pH Calibration #####
-pHCal<-read.csv('Data/pHCalibration.csv') # read in the pH Calibration file
+pHCal<-read.csv("Data/pHCalibration.csv") # read in the pH Calibration file
 
 #select the calibration for the correct date
 pHData<-pHCal[pHCal$Date==date,]
