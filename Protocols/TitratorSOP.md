@@ -27,7 +27,7 @@ Contents
 			3. If the Autosampler is Green, you may move on to the next step. 
 		3. When the Autosampler is connected, the Titrator will detect an acid. Once shown, press “OK” on the screen.
 		4. Another pop-up will show up. Press “OK” on that too.
-	2. Using the laptop, create one Folder within the Data Folder. [C: >labx_data > Data]
+	2. Using the laptop, create one Folder within the Data Folder. [C: >labx_data >add titration > Data]
 		1. The folder must be named something appropriate for the samples being processed (for example, Bermuda31 would be all the Bermuda data for 31 degrees) within the Data Folder. *(That is your folder of the day.)*
 	3. Open Excel, LabX and RStudio (R)
 		1. Minimize Excel and R to reduce clutter.
