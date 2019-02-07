@@ -85,10 +85,10 @@ Contents
 		1. Next to the “ID 1” column, there should be a column named “Weight [g].” 
 		2. Click on the first row and then proceed to the analytical balance.
 	3. Weigh the sample from the Analytical Balance.
-		1. See [“Protocol Procedure for Using the Balance” ](BalanceSOP.md), Turn on the balance > tap LabX Online > weigh empty bottle first > Press “→T←” button to “Zero” the balance.
+		1. See [“Protocol Procedure for Using the Balance” ](BalanceSOP.md), Turn on the balance > tap LabX Online (on balance) > weigh empty bottle first > Press “→T←” button to “Zero” the balance.
 			1. *[Note: The balance may connect to LabX automatically upon switching on. Also, note, the LabX workspace for the balance must be open for the data to transfer]*
-		2. In this step, carefully add the sample into the 80ml cup until the scale reads 60ml ± .5ml or instructed otherwise.
-			1. If the pipettes are available, open the top of the case and use the pipette vertically from the cup then pour until the weight reaches 60ml ± .5ml or instructed otherwise.
+		2. In this step, carefully add the sample into the 80ml cup until the scale reads 60g ± .5g or instructed otherwise.
+			1. If the pipettes are available, open the top of the case and use the pipette vertically from the cup then pour until the weight reaches 60g ± .5g or instructed otherwise.
 			2. If the pipettes aren’t available, use a beaker to pour on the sample on the side while the case is open. (PROCEDE WITH EXTREME CAUTION!)
 			3. If any spillage ever occurs, Report it immediately. Don’t attempt to clean it yourself.
 		3. Also recalling from “Protocol Procedure for Using the Balance”, transfer the sample by tapping “Transfer…” > first selection of “Simple Transfer” > “OK” > “OK” 
