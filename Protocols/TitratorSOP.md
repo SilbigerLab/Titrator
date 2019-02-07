@@ -31,7 +31,7 @@ Contents
 		1. The folder must be named something appropriate for the samples being processed (for example, Bermuda31 would be all the Bermuda data for 31 degrees) within the Data Folder. *(That is your folder of the day.)*
 	3. Open Excel, LabX and RStudio (R)
 		1. Minimize Excel and R to reduce clutter.
-		2. Using LabX, modify the Server Export Directory to so that the filed export to your *folder of the day*. To do so, go to System (Bottom Right) > At the System’s tab, click “Import and Export” then “Export Templates” > Look for “Export Template data export” and search for Settings then Export File. Look for the “Server Export Directory.”
+		2. Using LabX, modify the Server Export Directory to so that the filed export to your *folder of the day*. To do so, go to System (Bottom Left) > At the System’s tab, click “Import and Export” then “Export Templates” > Look for “Export Template data export” and search for Settings then Export File. Look for the “Server Export Directory.”
 			1. On the “Server Export Directory,” that is where your data is going. You can modify it by clicking on “Edit Export Template” and navigate to the *folder of the day*.
 	4. Using an 80ml cup, place it on the Autosampler in position 69.
 	5. Park the autosampler by pressing “Park” on the tablet. This will send the sensors to position 69.
