@@ -1,9 +1,10 @@
-# Standard Protocol Procedure for Using the Titrator
+﻿# Standard Protocol Procedure for Using the Titrator
 
 Original: 3/5/2018
 Last Revised: 4/20/2018
 
 Contents
+- [**Materials**](#Materials)
 - [**Pre-Setup**](#Pre-Setup)
 - [**Setup**](#Setup) 
 - [**Calibration**](#Calibration) 
@@ -16,9 +17,36 @@ Contents
 
 --- 
 
-1. <a name="Pre-Setup"></a> **Pre-Setup**
+1. <a name="Materials"></a> **Materials**
+	1. Mettler Toledo InMotion Pro Autosampler
+	2. Mettler Toledo Titrator
+	2. Mettler Toledo Interchangable Burettes
+	3. Mettler Toledo Analytical Balance (XP Model)
+	4. Mettler Toledo LabX Laboratory Software (connects titrator, balance, burettes, etc.)
+	5. Mettler Toledo Compact Stirrer
+	6. Mettler Toledo pH electrode 
+	7. Mettler Toledo Temperature Probe 
+	8. Mettler Toledo InLab Solutions KCl 3 mol/L solution (for titrator pH electrode)
+	9. Thermo Scientific Orion Star A221 and Star A321 Portable pH Meter
+	10. Nitrile gloves
+	11. Kimwipes
+	12. 250 mL glass beaker
+	13. 80 mL tall plastic beakers (titrator cups)
+	14. 25 mL CELLSTAR serological pipette
+	15. Scienceware 25mL pipette holder
+	16. Computer capatible with LabX program
+	17. Orion application solution pH buffers (4.01, 7.00 and 10.01)
+	18. 3 NALGENE 250 mL centrifuge bottles 
+	19. DI water
+	20. Filtered seawater (for junk samples)
+	21. 5 gallon carboy for waste
+	22. Certified Reference Material (CRM) from the Dickson Lab (standards)
+	23. Orion application solutions for two-point conductivity calibration (TDS standard: 12.9 mS/cm and 1413 μS/cm)
+	24. 3 drying mats
+
+2. <a name="Pre-Setup"></a> **Pre-Setup**
 	1. Since you are working with acid. You must wear a Lab Coat and Examination Gloves always, before starting the experiment. Safety Goggles is optional.
-2. <a name="Setup"></a> **Setup**
+3. <a name="Setup"></a> **Setup**
 	1. Turn on Laptop, InMotion Pro Autosampler, and Titrator.
 		1. To turn on the Titrator, press the Power Button in the front of the machine (green button).
 		2. To turn on the Autosampler, press the Power Button in the front of the machine (green button). 
@@ -49,7 +77,7 @@ Contents
 	11. Make sure that the cap is open at all times, so it can measure the pH.
 	12. Make sure the probe rinse reservoir is filled with DI water (an Erlenmeyer Flask on the right side of the InMotion Pro). 
 
-3. <a name="Calibration"></a> **Calibration**
+4. <a name="Calibration"></a> **Calibration**
 	1. Gather three 80ml cups and add the pH buffer to each of the cups until filled halfway.
 		1. The pH buffers used are 4, 7, and 10.
 			1. If you use new buffers, write the date opened on the bottle and pour ~60 ml into 3 separate 80 ml cups.
@@ -76,7 +104,7 @@ Contents
 	8. Once the calibrations are complete, remove the cups from the Autosampler and dispose them into the into a plastic reagent bottle, respective of their pH.
 	9. Save document and set the destination to the “Data” Folder.
 
-4. <a name="Running_a_titration"></a> **Running_a_titration**
+5. <a name="Running_a_titration"></a> **Running_a_titration**
 	1. Titration set-up
 		1. You should start each day by running a Certified Reference Material (CRM) from the Dickson Lab. These are the standards. The procedure for running any titration, whether a CRM or unknowns are as follows. It is also advisable to start with a “junk” sample (filtered seawater that you don’t care about) at the beginning of each run to ensure there are no air bubbles in the acid line. 
 		2. On the LabX window, similarly to calibration, click on Silbiger TA (EP)r1 > Start > Titration
@@ -99,20 +127,20 @@ Contents
 		1. After the data are set into the system, on the bottom right of the “Task Editor” window, press Start.
 			1. Once started, each titration will take around five minutes, unless there is a change of the method from the instructor.
 
-5. <a name="CRM_Titration"></a> **CRM_Titration**
+6. <a name="CRM_Titration"></a> **CRM_Titration**
 	1. Run step 4, but only use a CRM (or a junk and CRM sample if needed).
 	2. Skip to [**Data_Analysis**](#Data_Analysis) to calculate total alkalinity of the CRM. Then check the accuracy of the data.
 	3. **In every CRM Titration, it is necessary to report the accuracy in the “CRMAccuracyData” file to test the accuracy.  If must never be more than 1% off. Accuracy must be tested before running any samples for the day.**
 
-6. <a name="SAMPLE_Titration"></a> **SAMPLE_Titration**
+7. <a name="SAMPLE_Titration"></a> **SAMPLE_Titration**
 	1. Repeat step **[4.]**. However, in step **[4.c]**, replace to [the sample name given on the sample bottle].
 
-7. <a name="Measure_Salinity"></a> **Measure_Salinity**
+8. <a name="Measure_Salinity"></a> **Measure_Salinity**
 	1. While the samples are running on the titrator, you will measure salinity of each sample from the original sample vial.
 	2. Calibrate the conductivity meter (Orion Star) using a 2 point calibration.
 	3. Measure the salinity of every sample and write down the value in a csv file.
 
-8. <a name="Data_Analysis"></a> **Data_Analysis**
+9. <a name="Data_Analysis"></a> **Data_Analysis**
 	1. After the titration is complete, you must gather the data and export it to the current folder. The titrations will automatically export, but the mass of the sample will not.
 		1. To gather the mass data, you must export it to the current folder.
 			1. Go Data > Result Sets > Last 24 Hours  > Click on the most recent data 
@@ -126,7 +154,7 @@ Contents
 		4. Click on Source to completely transfer the data
 		5. A csv file will be automatically exported to the folder of the day with the calculated TA data. If this is a CRM run, here is where you will be the TA value of the CRM to enter it into the CRMAccuracyData file (see 5b).
 
-9. <a name="Clean_Up"></a> **Clean_Up**
+10. <a name="Clean_Up"></a> **Clean_Up**
 	1. When the titrations are complete, remove the cups from the Autosampler, and dispose the samples into the sink ONLY if there was no HgCl2 in the sample *[note: all CRMs and nearly all samples in this lab have HgCl2]*. If the sample has HgCl2, then dispose it into a labeled waste container with a funnel by the fume hood.
 	2. Clean the cups using RO water. Then, dry them using a drying rack next to the Autosampler.
 		1. If the rack is full, use the drying rack on the other end of the table.
