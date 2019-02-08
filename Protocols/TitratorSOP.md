@@ -27,13 +27,13 @@ Contents
 			3. If the Autosampler is Green, you may move on to the next step. 
 		3. When the Autosampler is connected, the Titrator will detect an acid. Once shown, press “OK” on the screen.
 		4. Another pop-up will show up. Press “OK” on that too.
-	2. Using the laptop, create one Folder within the Data Folder. [C: >labx_data > Data]
+	2. Using the laptop, create one Folder within the Data Folder. [this PC > windowsC: >labx_data > Titrator > Data]
 		1. The folder must be named something appropriate for the samples being processed (for example, Bermuda31 would be all the Bermuda data for 31 degrees) within the Data Folder. *(That is your folder of the day.)*
 	3. Open Excel, LabX and RStudio (R)
 		1. Minimize Excel and R to reduce clutter.
-		2. Using LabX, modify the Server Export Directory to so that the filed export to your *folder of the day*. To do so, go to System (Bottom Right) > At the System’s tab, click “Import and Export” then “Export Templates” > Look for “Export Template data export” and search for Settings then Export File. Look for the “Server Export Directory.”
+		2. Using LabX, modify the Server Export Directory to so that the filed export to your *folder of the day*. To do so, go to System (Bottom Left) > At the System’s tab, click “Import and Export” then “Export Templates” > Look for “Export Template data export” and search for Settings then Export File. Look for the “Server Export Directory.”
 			1. On the “Server Export Directory,” that is where your data is going. You can modify it by clicking on “Edit Export Template” and navigate to the *folder of the day*.
-	4. Using an 80ml cup, place it on the Autosampler in position 69.
+	4. Using an 80ml empty cup (use cup labeled "ACID HCL ONLY"), place it on the Autosampler in position 69.
 	5. Park the autosampler by pressing “Park” on the tablet. This will send the sensors to position 69.
 	6. Using the Titrator tablet, tap “PRIME” at least 3 separate times.
 		1. **YOU MUST PARK THE AUTOSAMPLER FIRST, OTHERWISE THE ACID WILL SPILL ALL OVER THE AUTOSAMPLER.**
@@ -85,10 +85,10 @@ Contents
 		1. Next to the “ID 1” column, there should be a column named “Weight [g].” 
 		2. Click on the first row and then proceed to the analytical balance.
 	3. Weigh the sample from the Analytical Balance.
-		1. See [“Protocol Procedure for Using the Balance” ](BalanceSOP.md), Turn on the balance > tap LabX Online > weigh empty bottle first > Press “→T←” button to “Zero” the balance.
+		1. See [“Protocol Procedure for Using the Balance” ](BalanceSOP.md), Turn on the balance > tap LabX Online (on balance) > weigh empty bottle first > Press “→T←” button to “Zero” the balance.
 			1. *[Note: The balance may connect to LabX automatically upon switching on. Also, note, the LabX workspace for the balance must be open for the data to transfer]*
-		2. In this step, carefully add the sample into the 80ml cup until the scale reads 60ml ± .5ml or instructed otherwise.
-			1. If the pipettes are available, open the top of the case and use the pipette vertically from the cup then pour until the weight reaches 60ml ± .5ml or instructed otherwise.
+		2. In this step, carefully add the sample into the 80ml cup until the scale reads 60g ± .5g or instructed otherwise.
+			1. If the pipettes are available, open the top of the case and use the pipette vertically from the cup then pour until the weight reaches 60g ± .5g or instructed otherwise.
 			2. If the pipettes aren’t available, use a beaker to pour on the sample on the side while the case is open. (PROCEDE WITH EXTREME CAUTION!)
 			3. If any spillage ever occurs, Report it immediately. Don’t attempt to clean it yourself.
 		3. Also recalling from “Protocol Procedure for Using the Balance”, transfer the sample by tapping “Transfer…” > first selection of “Simple Transfer” > “OK” > “OK” 
