@@ -43,6 +43,8 @@ Contents
 	22. Certified Reference Material (CRM) from the Dickson Lab (standards)
 	23. Orion application solutions for two-point conductivity calibration (TDS standard: 12.9 mS/cm and 1413 μS/cm)
 	24. 3 drying mats
+	25. RStudio software
+	26. Fisher Scientific HCl 1 N 
 
 2. <a name="Pre-Setup"></a> **Pre-Setup**
 	1. Since you are working with acid. You must wear a Lab Coat and Examination Gloves always, before starting the experiment. Safety Goggles is optional.
