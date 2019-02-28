@@ -35,7 +35,7 @@ Contents
 5. <a name="Drying"></a> **Drying**
 	1. Gather the bottles from the water bath and place them onto a drying mat, with the head in direct contact into the mat.
 	1. Once dry, close the bottles with their washed lids and store in a clean place until use.
-6. < name="Reuse_and_Disposal"></a> **Reuse_and_Disposal**
+6. <a name="Reuse_and_Disposal"></a> **Reuse_and_Disposal**
 	1. Once prepared, the acid bath can be used for multiple washes.  Use litmus paper to check pH before adding new items to the bath.  If pH < 1, the bath can be used for another wash.
 	1. The DI water bath can only be used for 2-3 washes.  Use litmus paper to check pH before adding new items to the bath.  If pH ~ 7, the bath can be used for another wash.
 	1. If pH falls out of those parameters for the acid bath or DI bath, the solution must be neutralized and then disposed of.  To neutralize the acid, pour baking soda little by little into the solution and carefully stir with a glass stir bar to dissolve the sodium bicarbonate solid.  Test pH with litmus, and if pH < 7 continue to add baking soda and test with litmus until pH reaches 7.  At pH=7 the solution is just water and can be poured down the sink.
