@@ -1,0 +1,6 @@
+Results Editor,,,,,,,,,,,,,,,,,,,,
+Result Overview,,,,,,,,,,,,,,,,,,,,
+Sample Index In Scope,Sample ID1,Sample start time,Overall State,Excluded,Correction factor,Unit of Correction factor,Temperature [°C],Unit of Temperature [°C],Comment,Content (R3),Unit of Content (R3),Data markings of Content (R3),Content (R1),Unit of Content (R1),Data markings of Content (R1),Weight [g],Unit of Weight [g],,Density [g/m L],Unit of Density [g/m L]
+1,junk,8/31/2019 8:46:43 AM,OK,Unchecked,0,,25.0,°C,,2.672,mL,,60.160,g,,60.1597,g,,1.0,g/mL
+2,crm,8/31/2019 8:57:57 AM,OK,Unchecked,0,,25.0,°C,,2.620,mL,,60.013,g,,60.0130,g,,1.0,g/mL
+SystemInternal8/31/2019 9:10:42 AM,,,,,,,,,,,,,,,,,,1/1,,
