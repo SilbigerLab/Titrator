@@ -1,0 +1,40 @@
+Results Editor,,,,,,,,,,,,,,,,,,,,
+Result Overview,,,,,,,,,,,,,,,,,,,,
+Sample Index In Scope,Sample ID1,Sample start time,Overall State,Excluded,Correction factor,Unit of Correction factor,Temperature [°C],Unit of Temperature [°C],Comment,Content (R3),Unit of Content (R3),Data markings of Content (R3),Content (R1),Unit of Content (R1),Data markings of Content (R1),Weight [g],Unit of Weight [g],,Density [g/m L],Unit of Density [g/m L]
+1,junk,9/7/2019 12:23:50 PM,OK,Unchecked,0,,25.0,°C,,2.641,mL,,60.245,g,,60.2446,g,,1.0,g/mL
+2,D_9_1_BC,9/7/2019 12:34:58 PM,OK,Unchecked,0,,25.0,°C,,2.545,mL,,59.868,g,,59.8678,g,,1.0,g/mL
+3,D_9_2_BC,9/7/2019 12:45:46 PM,OK,Unchecked,0,,25.0,°C,,2.532,mL,,60.011,g,,60.0107,g,,1.0,g/mL
+4,D_9_2_BC2,9/7/2019 12:56:34 PM,OK,Unchecked,0,,25.0,°C,,2.536,mL,,59.919,g,,59.9192,g,,1.0,g/mL
+5,D_9_3_BC,9/7/2019 1:07:22 PM,OK,Unchecked,0,,25.0,°C,,2.510,mL,,59.929,g,,59.9293,g,,1.0,g/mL
+6,D_9_4_BC,9/7/2019 1:18:06 PM,OK,Unchecked,0,,25.0,°C,,2.526,mL,,60.292,g,,60.2922,g,,1.0,g/mL
+7,D_9_5_BC,9/7/2019 1:28:52 PM,OK,Unchecked,0,,25.0,°C,,2.508,mL,,59.967,g,,59.9669,g,,1.0,g/mL
+8,N_9_1_BC,9/7/2019 1:39:38 PM,OK,Unchecked,0,,25.0,°C,,2.493,mL,,59.955,g,,59.9546,g,,1.0,g/mL
+9,N_9_2_BC,9/7/2019 1:50:22 PM,OK,Unchecked,0,,25.0,°C,,2.528,mL,,59.898,g,,59.8975,g,,1.0,g/mL
+10,N_9_3_BC,9/7/2019 2:01:08 PM,OK,Unchecked,0,,25.0,°C,,2.587,mL,,59.986,g,,59.9857,g,,1.0,g/mL
+11,N_9_4_BC,9/7/2019 2:12:01 PM,OK,Unchecked,0,,25.0,°C,,2.620,mL,,60.116,g,,60.1162,g,,1.0,g/mL
+12,D_9_1_AI,9/7/2019 2:22:58 PM,OK,Unchecked,0,,25.0,°C,,2.539,mL,,59.885,g,,59.8851,g,,1.0,g/mL
+13,D_9_2_AI,9/7/2019 2:33:47 PM,OK,Unchecked,0,,25.0,°C,,2.507,mL,,59.953,g,,59.9534,g,,1.0,g/mL
+14,D_9_3_AI,9/7/2019 2:44:31 PM,OK,Unchecked,0,,25.0,°C,,2.518,mL,,60.190,g,,60.1905,g,,1.0,g/mL
+15,D_9_4_AI,9/7/2019 2:55:19 PM,OK,Unchecked,0,,25.0,°C,,2.512,mL,,59.946,g,,59.9460,g,,1.0,g/mL
+16,N_9_1_AI,9/7/2019 3:06:02 PM,OK,Unchecked,0,,25.0,°C,,2.531,mL,,59.990,g,,59.9904,g,,1.0,g/mL
+17,N_9_2_AI,9/7/2019 3:16:51 PM,OK,Unchecked,0,,25.0,°C,,2.513,mL,,59.900,g,,59.9004,g,,1.0,g/mL
+18,N_9_3_AI,9/7/2019 3:27:36 PM,OK,Unchecked,0,,25.0,°C,,2.550,mL,,60.049,g,,60.0490,g,,1.0,g/mL
+19,N_9_4_AI,9/7/2019 3:38:26 PM,OK,Unchecked,0,,25.0,°C,,2.560,mL,,60.123,g,,60.1227,g,,1.0,g/mL
+20,D_10_1_BC,9/7/2019 3:49:18 PM,OK,Unchecked,0,,25.0,°C,,2.498,mL,,59.893,g,,59.8934,g,,1.0,g/mL
+21,D_10_2_BC,9/7/2019 4:00:03 PM,OK,Unchecked,0,,25.0,°C,,2.484,mL,,59.956,g,,59.9564,g,,1.0,g/mL
+22,D_10_3_BC,9/7/2019 4:10:43 PM,OK,Unchecked,0,,25.0,°C,,2.476,mL,,59.947,g,,59.9467,g,,1.0,g/mL
+23,D_10_4_BC,9/7/2019 4:21:23 PM,OK,Unchecked,0,,25.0,°C,,2.439,mL,,60.204,g,,60.2042,g,,1.0,g/mL
+24,D_10_5_BC,9/7/2019 4:32:01 PM,OK,Unchecked,0,,25.0,°C,,2.459,mL,,60.133,g,,60.1330,g,,1.0,g/mL
+25,N_10_1_BC,9/7/2019 4:42:41 PM,OK,Unchecked,0,,25.0,°C,,2.460,mL,,60.134,g,,60.1336,g,,1.0,g/mL
+26,N_10_2_BC,9/7/2019 4:53:19 PM,OK,Unchecked,0,,25.0,°C,,2.497,mL,,59.920,g,,59.9198,g,,1.0,g/mL
+27,N_10_3_BC,9/7/2019 5:04:01 PM,OK,Unchecked,0,,25.0,°C,,2.563,mL,,59.965,g,,59.9654,g,,1.0,g/mL
+28,N_10_4_BC,9/7/2019 5:14:54 PM,OK,Unchecked,0,,25.0,°C,,2.604,mL,,59.980,g,,59.9799,g,,1.0,g/mL
+29,D_10_1_AI,9/7/2019 5:25:53 PM,OK,Unchecked,0,,25.0,°C,,2.534,mL,,59.984,g,,59.9836,g,,1.0,g/mL
+30,D_10_2_AI,9/7/2019 5:36:43 PM,OK,Unchecked,0,,25.0,°C,,2.522,mL,,60.181,g,,60.1807,g,,1.0,g/mL
+31,D_10_3_AI,9/7/2019 5:47:28 PM,OK,Unchecked,0,,25.0,°C,,2.492,mL,,60.132,g,,60.1321,g,,1.0,g/mL
+32,D_10_4_AI,9/7/2019 5:58:10 PM,OK,Unchecked,0,,25.0,°C,,2.491,mL,,60.022,g,,60.0215,g,,1.0,g/mL
+33,N_10_1_AI,9/7/2019 6:08:52 PM,OK,Unchecked,0,,25.0,°C,,2.562,mL,,60.003,g,,60.0026,g,,1.0,g/mL
+34,N_10_2_AI,9/7/2019 6:19:45 PM,OK,Unchecked,0,,25.0,°C,,2.552,mL,,60.010,g,,60.0096,g,,1.0,g/mL
+35,N_10_3_AI,9/7/2019 6:30:34 PM,OK,Unchecked,0,,25.0,°C,,2.574,mL,,59.948,g,,59.9483,g,,1.0,g/mL
+36,N_10_4_AI,9/7/2019 6:41:26 PM,OK,Unchecked,0,,25.0,°C,,2.604,mL,,60.016,g,,60.0156,g,,1.0,g/mL
+9/7/2019 7:49:02 PMSystemInternal,,,,,,,,,,,,,,,,,,1/1,,
