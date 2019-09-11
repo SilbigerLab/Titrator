@@ -26,10 +26,10 @@
       </TemplateItem>
     </TemplateItems>
   </MappingTemplate>
-  <Name xmlns="http://schemas.datacontract.org/2004/07/MT.Sequoia.ImportExport.Exchange">TP11and12Samples09082019</Name>
+  <Name xmlns="http://schemas.datacontract.org/2004/07/MT.Sequoia.ImportExport.Exchange">Hawaii_20190910</Name>
   <Version xmlns="http://schemas.datacontract.org/2004/07/MT.Sequoia.ImportExport.Exchange">9.0.0.855</Version>
   <DoesExportOkResultsOnly>false</DoesExportOkResultsOnly>
-  <ExportPath>C:\labX_data\Titrator\Data\Oregon_TP11and12samples09082019</ExportPath>
+  <ExportPath>C:\labX_data\Titrator\Data\Hawaii_Samples_20190910</ExportPath>
   <ExportedFileExtension>csv</ExportedFileExtension>
   <ExportedFileName>Titrations-{Export.Date;M_d_yyyy}-{Method.Name}</ExportedFileName>
   <IsUpdateAtEndOfSample>false</IsUpdateAtEndOfSample>
