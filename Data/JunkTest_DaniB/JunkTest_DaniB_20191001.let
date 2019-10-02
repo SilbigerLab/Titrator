@@ -26,10 +26,10 @@
       </TemplateItem>
     </TemplateItems>
   </MappingTemplate>
-  <Name xmlns="http://schemas.datacontract.org/2004/07/MT.Sequoia.ImportExport.Exchange">CRM test</Name>
+  <Name xmlns="http://schemas.datacontract.org/2004/07/MT.Sequoia.ImportExport.Exchange">HawaiiSamples_20190915</Name>
   <Version xmlns="http://schemas.datacontract.org/2004/07/MT.Sequoia.ImportExport.Exchange">9.0.0.855</Version>
   <DoesExportOkResultsOnly>false</DoesExportOkResultsOnly>
-  <ExportPath>C:\labX_data\Titrator\Data\CRM test</ExportPath>
+  <ExportPath>C:\labX_data\Titrator\Data\CRMTest</ExportPath>
   <ExportedFileExtension>csv</ExportedFileExtension>
   <ExportedFileName>Titrations-{Export.Date;M_d_yyyy}-{Method.Name}</ExportedFileName>
   <IsUpdateAtEndOfSample>false</IsUpdateAtEndOfSample>
