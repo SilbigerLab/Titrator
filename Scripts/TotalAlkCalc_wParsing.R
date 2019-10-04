@@ -48,15 +48,15 @@ library(tidyverse)
 
 path<-"Data/JunkTest_DaniB/" #the location of all your titration files
 
-massfile<-"Mass_20191002.csv" # name of your file with masses
+massfile<-"Mass_20191003.csv" # name of your file with masses
 
-titrationfile<-'Titrations-10_2_2019-Silbiger TA (EP)r1.csv'# name of the last titration file run
+titrationfile<-'Titrations-10_3_2019-Silbiger TA (EP)r1.csv'# name of the last titration file run
 
 
 
 # Date that the data were run
 
-date<-'10/2/2019'
+date<-'10/3/2019'
 
 
 

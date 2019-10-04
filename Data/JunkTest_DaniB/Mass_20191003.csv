@@ -1,0 +1,24 @@
+Results Editor,,,,,,,,,,,,,,,,,,,,
+Result Overview,,,,,,,,,,,,,,,,,,,,
+Sample Index In Scope,Sample ID1,Sample start time,Overall State,Excluded,Correction factor,Unit of Correction factor,Temperature [°C],Unit of Temperature [°C],Comment,Content (R3),Unit of Content (R3),Data markings of Content (R3),Content (R1),Unit of Content (R1),Data markings of Content (R1),Weight [g],Unit of Weight [g],,Density [g/m L],Unit of Density [g/m L]
+1,J1,10/3/2019 11:47:18 AM,OK,Unchecked,0,,25.0,°C,,2.166,mL,,59.990,g,,59.9896,g,,1.0,g/mL
+2,J2,10/3/2019 11:57:34 AM,OK,Unchecked,0,,25.0,°C,,2.141,mL,,59.641,g,,59.6406,g,,1.0,g/mL
+3,J3,10/3/2019 12:07:38 PM,OK,Unchecked,0,,25.0,°C,,2.137,mL,,59.589,g,,59.5889,g,,1.0,g/mL
+4,J4,10/3/2019 12:17:40 PM,OK,Unchecked,0,,25.0,°C,,2.196,mL,,59.689,g,,59.6886,g,,1.0,g/mL
+5,J5,10/3/2019 12:27:50 PM,OK,Unchecked,0,,25.0,°C,,2.204,mL,,59.619,g,,59.6194,g,,1.0,g/mL
+6,J6,10/3/2019 12:38:01 PM,OK,Unchecked,0,,25.0,°C,,2.202,mL,,59.712,g,,59.7124,g,,1.0,g/mL
+7,J7,10/3/2019 12:48:09 PM,OK,Unchecked,0,,25.0,°C,,2.198,mL,,59.679,g,,59.6792,g,,1.0,g/mL
+8,J8,10/3/2019 12:58:17 PM,OK,Unchecked,0,,25.0,°C,,2.200,mL,,59.748,g,,59.7482,g,,1.0,g/mL
+9,J9,10/3/2019 1:08:25 PM,OK,Unchecked,0,,25.0,°C,,2.202,mL,,59.873,g,,59.8729,g,,1.0,g/mL
+10,J10,10/3/2019 1:18:35 PM,OK,Unchecked,0,,25.0,°C,,2.200,mL,,59.862,g,,59.8623,g,,1.0,g/mL
+11,J11,10/3/2019 1:28:45 PM,OK,Unchecked,0,,25.0,°C,,2.186,mL,,59.506,g,,59.5056,g,,1.0,g/mL
+12,J12,10/3/2019 1:38:52 PM,OK,Unchecked,0,,25.0,°C,,2.197,mL,,59.782,g,,59.7824,g,,1.0,g/mL
+13,J13,10/3/2019 1:49:00 PM,OK,Unchecked,0,,25.0,°C,,2.188,mL,,59.712,g,,59.7124,g,,1.0,g/mL
+14,J14,10/3/2019 1:59:06 PM,OK,Unchecked,0,,25.0,°C,,2.195,mL,,59.672,g,,59.6715,g,,1.0,g/mL
+15,J15,10/3/2019 2:09:14 PM,OK,Unchecked,0,,25.0,°C,,2.196,mL,,59.902,g,,59.9021,g,,1.0,g/mL
+16,J16,10/3/2019 2:19:23 PM,OK,Unchecked,0,,25.0,°C,,2.183,mL,,59.509,g,,59.5086,g,,1.0,g/mL
+17,J17,10/3/2019 2:29:28 PM,OK,Unchecked,0,,25.0,°C,,2.194,mL,,59.831,g,,59.8308,g,,1.0,g/mL
+18,J18,10/3/2019 2:39:36 PM,OK,Unchecked,0,,25.0,°C,,2.194,mL,,59.912,g,,59.9117,g,,1.0,g/mL
+19,J19,10/3/2019 2:49:44 PM,OK,Unchecked,0,,25.0,°C,,2.189,mL,,59.762,g,,59.7623,g,,1.0,g/mL
+20,J20,10/3/2019 2:59:51 PM,OK,Unchecked,0,,25.0,°C,,2.186,mL,,59.825,g,,59.8248,g,,1.0,g/mL
+10/3/2019 4:35:09 PMSystemInternal,,,,,,,,,,,,,,,,,,1/1,,
