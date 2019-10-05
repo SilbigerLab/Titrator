@@ -220,7 +220,8 @@ for(i in 1:nrows) {
   
   #d<-100*(-0.00000410*mean(Data$Temperature[mV], na.rm=T)^2-0.0001067*mean(Data$Temperature[mV], na.rm=T)+1.02882)/1000 #03/8/18
   
-  d<-(-0.00000410*mean(Data$Temperature[mV], na.rm=T)^2-0.0001067*mean(Data$Temperature[mV], na.rm=T)+1.02882) #03/8/18
+  #d<-(-0.00000410*mean(Data$Temperature[mV], na.rm=T)^2-0.0001067*mean(Data$Temperature[mV], na.rm=T)+1.02882) #03/8/18
+  d<-(-0.00000410*mean(Data$Temperature[mV], na.rm=T)^2-0.0001061*mean(Data$Temperature[mV], na.rm=T)+1.02881) #03/8/18
   
   
   
@@ -230,7 +231,9 @@ for(i in 1:nrows) {
   
   #concentration of your titrant: CHANGE EVERYTIME ACID IS CHANGED 
   
-  c<-0.100215 #03/8/2018
+ # c<-0.100215 #03/8/2018
+  c<-0.0973#10/5 back calculating
+
   
   
   
@@ -271,6 +274,10 @@ for(i in 1:nrows) {
 }
 
 TA[,2:4]<-sapply(TA[,2:4], as.numeric) # make sure the appropriate columns are numeric
+
+# Add line for controlling for evvaporation
+salt<-seq(from = 35, length.out = length(sample_names), by = 0.02)
+TA$TA_evap<-TA$TA*35/salt
 
 #exports your data as a CSV file
 
