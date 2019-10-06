@@ -1,0 +1,20 @@
+Results Editor,,,,,,,,,,,,,,,,,,,,
+Result Overview,,,,,,,,,,,,,,,,,,,,
+Sample Index In Scope,Sample ID1,Sample start time,Overall State,Excluded,Correction factor,Unit of Correction factor,Temperature [°C],Unit of Temperature [°C],Comment,Content (R3),Unit of Content (R3),Data markings of Content (R3),Content (R1),Unit of Content (R1),Data markings of Content (R1),Weight [g],Unit of Weight [g],,Density [g/m L],Unit of Density [g/m L]
+1,junk1,10/6/2019 1:07:57 PM,OK,Unchecked,0,,25.0,°C,,2.268,mL,,60.224,g,,60.2244,g,,1.0,g/mL
+2,junk2,10/6/2019 1:18:22 PM,OK,Unchecked,0,,25.0,°C,,2.241,mL,,59.763,g,,59.7631,g,,1.0,g/mL
+3,junk3,10/6/2019 1:28:36 PM,OK,Unchecked,0,,25.0,°C,,2.254,mL,,60.212,g,,60.2122,g,,1.0,g/mL
+4,junk4,10/6/2019 1:38:51 PM,OK,Unchecked,0,,25.0,°C,,2.234,mL,,59.707,g,,59.7070,g,,1.0,g/mL
+5,junk5,10/6/2019 1:49:03 PM,OK,Unchecked,0,,25.0,°C,,2.246,mL,,60.124,g,,60.1245,g,,1.0,g/mL
+6,junk6,10/6/2019 1:59:19 PM,OK,Unchecked,0,,25.0,°C,,2.245,mL,,60.020,g,,60.0201,g,,1.0,g/mL
+7,HI_247,10/6/2019 2:09:33 PM,OK,Unchecked,0,,25.0,°C,,2.268,mL,,60.020,g,,60.0199,g,,1.0,g/mL
+8,HI_251,10/6/2019 2:19:51 PM,OK,Unchecked,0,,25.0,°C,,2.270,mL,,59.988,g,,59.9875,g,,1.0,g/mL
+9,HI_252,10/6/2019 2:30:08 PM,OK,Unchecked,0,,25.0,°C,,2.247,mL,,59.911,g,,59.9114,g,,1.0,g/mL
+10,HI_253,10/6/2019 2:40:23 PM,OK,Unchecked,0,,25.0,°C,,2.326,mL,,60.107,g,,60.1074,g,,1.0,g/mL
+11,HI_254,10/6/2019 2:50:48 PM,OK,Unchecked,0,,25.0,°C,,2.259,mL,,59.904,g,,59.9040,g,,1.0,g/mL
+12,HI_255,10/6/2019 3:01:05 PM,OK,Unchecked,0,,25.0,°C,,2.255,mL,,59.954,g,,59.9544,g,,1.0,g/mL
+13,HI_256,10/6/2019 3:11:21 PM,OK,Unchecked,0,,25.0,°C,,2.290,mL,,60.223,g,,60.2230,g,,1.0,g/mL
+14,HI_257,10/6/2019 3:21:39 PM,OK,Unchecked,0,,25.0,°C,,2.255,mL,,59.968,g,,59.9675,g,,1.0,g/mL
+15,HI_258,10/6/2019 3:31:54 PM,OK,Unchecked,0,,25.0,°C,,2.290,mL,,59.979,g,,59.9786,g,,1.0,g/mL
+16,HI_259,10/6/2019 3:42:13 PM,OK,Unchecked,0,,25.0,°C,,2.264,mL,,60.085,g,,60.0854,g,,1.0,g/mL
+SystemInternal10/6/2019 4:25:13 PM,,,,,,,,,,,,,,,,,,1/1,,
