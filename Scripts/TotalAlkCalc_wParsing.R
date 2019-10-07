@@ -48,7 +48,7 @@ library(tidyverse)
 
 path<-"Data/Hawaii_Samples_20191006/" #the location of all your titration files
 
-massfile<-"Mass_Hawaii_10062019.csv" # name of your file with masses
+massfile<-"Mass_HawaiiRound2_10062019.csv" # name of your file with masses
 
 titrationfile<-'Titrations-10_6_2019-Silbiger TA (EP)r1.csv'# name of the last titration file run
 
