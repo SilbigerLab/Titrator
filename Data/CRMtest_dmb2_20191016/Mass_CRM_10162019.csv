@@ -1,0 +1,11 @@
+Results Editor,,,,,,,,,,,,,,,,,,,,
+Result Overview,,,,,,,,,,,,,,,,,,,,
+Sample Index In Scope,Sample ID1,Sample start time,Overall State,Excluded,Correction factor,Unit of Correction factor,Temperature [°C],Unit of Temperature [°C],Comment,Content (R3),Unit of Content (R3),Data markings of Content (R3),Content (R1),Unit of Content (R1),Data markings of Content (R1),Weight [g],Unit of Weight [g],,Density [g/m L],Unit of Density [g/m L]
+1,junk1,10/16/2019 16:41,OK,Unchecked,0,,25,°C,,2.241,mL,,60.067,g,,60.0668,g,,1,g/mL
+2,junk2,10/16/2019 16:51,OK,Unchecked,0,,25,°C,,2.221,mL,,60.121,g,,60.1207,g,,1,g/mL
+3,junk3,10/16/2019 17:01,OK,Unchecked,0,,25,°C,,2.198,mL,,59.808,g,,59.8081,g,,1,g/mL
+4,junk4,10/16/2019 17:12,OK,Unchecked,0,,25,°C,,2.596,mL,,59.977,g,,59.9772,g,,1,g/mL
+5,junk5,10/16/2019 17:22,Not OK,Unchecked,0,,25,°C,,NaN,mL,,59.801,g,,59.8007,g,,1,g/mL
+6,junk6,10/16/2019 17:36,OK,Unchecked,0,,25,°C,,2.972,mL,,60.028,g,,60.0276,g,,1,g/mL
+7,crm,10/16/2019 17:48,OK,Unchecked,0,,25,°C,,2.818,mL,,60.022,g,,60.0216,g,,1,g/mL
+SystemInternal10/16/2019 6:07:53 PM,,,,,,,,,,,,,,,,,,1-Jan,,
