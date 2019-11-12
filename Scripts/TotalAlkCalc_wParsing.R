@@ -232,8 +232,8 @@ for(i in 1:nrows) {
   
   #concentration of your titrant: CHANGE EVERYTIME ACID IS CHANGED 
   
- # c<-0.100215 #03/8/2018
-  c<-0.0973#10/5 back calculating
+  c<-0.100215 #03/8/2018
+ # c<-0.0973#10/5 back calculating
 
   
   
