@@ -47,17 +47,17 @@ library(tidyverse)
 
 #CHANGE THESE VALUES EVERY DAY----------------------------------------------
 
-path<-"Data/TestTitrator_20191112" #the location of all your titration files
+path<-"Data/LidTest_20191113" #the location of all your titration files
 
-massfile<-"Mass_20191112.csv" # name of your file with masses
+massfile<-"Mass_20191113.csv" # name of your file with masses
 
-titrationfile<-'Titrations-11_12_2019-Silbiger TA (EP)r1.csv'# name of the last titration file run
+titrationfile<-'Titrations-11_13_2019-Silbiger TA (EP)r1.csv'# name of the last titration file run
 
 
 
 # Date that the data were run
 
-date<-'11/12/2019'
+date<-'11/13/2019'
 
 
 
@@ -135,7 +135,7 @@ Mass<-Mass[1:nrows,c('Sample.ID1','Weight..g.','Sample.Index.In.Scope')]
 
 
 
-#run a for loop to bring in the titration files on at a time and calculate TA
+#run a for loop to bring in the titration files one at a time and calculate TA
 
 # read in the mega titration file
 

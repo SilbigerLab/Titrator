@@ -1,0 +1,14 @@
+Results Editor,,,,,,,,,,,,,,,,,,,,
+Result Overview,,,,,,,,,,,,,,,,,,,,
+Sample Index In Scope,Sample ID1,Sample start time,Overall State,Excluded,Correction factor,Unit of Correction factor,Temperature [°C],Unit of Temperature [°C],Comment,Content (R3),Unit of Content (R3),Data markings of Content (R3),Content (R1),Unit of Content (R1),Data markings of Content (R1),Weight [g],Unit of Weight [g],,Density [g/m L],Unit of Density [g/m L]
+1,junk1,11/14/2019 11:40:40 AM,OK,Unchecked,0,,25.0,°C,,2.205,mL,,59.892,g,,59.8919,g,,1.0,g/mL
+2,HI_216,11/14/2019 11:50:59 AM,OK,Unchecked,0,,25.0,°C,,2.220,mL,,60.218,g,,60.2180,g,,1.0,g/mL
+3,HI_228,11/14/2019 12:01:12 PM,OK,Unchecked,0,,25.0,°C,,2.221,mL,,59.732,g,,59.7322,g,,1.0,g/mL
+4,HI_234,11/14/2019 12:11:25 PM,OK,Unchecked,0,,25.0,°C,,2.256,mL,,60.162,g,,60.1622,g,,1.0,g/mL
+5,HI_236,11/14/2019 12:21:41 PM,OK,Unchecked,0,,25.0,°C,,2.208,mL,,59.819,g,,59.8193,g,,1.0,g/mL
+6,HI_237,11/14/2019 12:31:52 PM,OK,Unchecked,0,,25.0,°C,,2.242,mL,,59.590,g,,59.5902,g,,1.0,g/mL
+7,HI_238,11/14/2019 12:42:07 PM,OK,Unchecked,0,,25.0,°C,,2.250,mL,,60.367,g,,60.3667,g,,1.0,g/mL
+8,HI_239,11/14/2019 12:53:47 PM,OK,Unchecked,0,,25.0,°C,,2.232,mL,,60.053,g,,60.0531,g,,1.0,g/mL
+9,HI_240,11/14/2019 1:03:59 PM,OK,Unchecked,0,,25.0,°C,,2.308,mL,,60.448,g,,60.4480,g,,1.0,g/mL
+10,HI_241,11/14/2019 1:14:52 PM,OK,Unchecked,0,,25.0,°C,,2.239,mL,,60.320,g,,60.3203,g,,1.0,g/mL
+SystemInternal11/14/2019 1:55:10 PM,,,,,,,,,,,,,,,,,,1/1,,
