@@ -1,0 +1,31 @@
+Results Editor,,,,,,,,,,,,,,,,,,,,
+Result Overview,,,,,,,,,,,,,,,,,,,,
+Sample Index In Scope,Sample ID1,Sample start time,Overall State,Excluded,Correction factor,Unit of Correction factor,Temperature [°C],Unit of Temperature [°C],Comment,Content (R3),Unit of Content (R3),Data markings of Content (R3),Content (R1),Unit of Content (R1),Data markings of Content (R1),Weight [g],Unit of Weight [g],,Density [g/m L],Unit of Density [g/m L]
+1,junk1,11/20/2019 4:04:15 PM,OK,Unchecked,0,,25.0,°C,,2.212,mL,,59.994,g,,59.9945,g,,1.0,g/mL
+2,HI_101,11/20/2019 4:14:34 PM,OK,Unchecked,0,,25.0,°C,,2.201,mL,,59.719,g,,59.7186,g,,1.0,g/mL
+3,HI_102,11/20/2019 4:24:43 PM,OK,Unchecked,0,,25.0,°C,,2.210,mL,,60.008,g,,60.0082,g,,1.0,g/mL
+4,HI_103,11/20/2019 4:34:55 PM,OK,Unchecked,0,,25.0,°C,,2.200,mL,,59.720,g,,59.7204,g,,1.0,g/mL
+5,HI_104,11/20/2019 4:45:06 PM,OK,Unchecked,0,,25.0,°C,,2.224,mL,,60.417,g,,60.4169,g,,1.0,g/mL
+6,HI_105,11/20/2019 4:55:20 PM,OK,Unchecked,0,,25.0,°C,,2.204,mL,,59.911,g,,59.9108,g,,1.0,g/mL
+7,HI_221,11/20/2019 5:05:32 PM,OK,Unchecked,0,,25.0,°C,,2.228,mL,,60.424,g,,60.4240,g,,1.0,g/mL
+8,HI_104B,11/20/2019 5:15:47 PM,OK,Unchecked,0,,25.0,°C,,2.210,mL,,60.018,g,,60.0175,g,,1.0,g/mL
+9,HI_112B,11/20/2019 5:26:00 PM,OK,Unchecked,0,,25.0,°C,,2.196,mL,,59.675,g,,59.6754,g,,1.0,g/mL
+10,HI_117B,11/20/2019 5:36:09 PM,OK,Unchecked,0,,25.0,°C,,2.198,mL,,59.764,g,,59.7640,g,,1.0,g/mL
+11,HI_120B,11/20/2019 5:46:16 PM,OK,Unchecked,0,,25.0,°C,,2.208,mL,,60.247,g,,60.2469,g,,1.0,g/mL
+12,HI_217,11/20/2019 5:56:26 PM,OK,Unchecked,0,,25.0,°C,,2.190,mL,,59.769,g,,59.7686,g,,1.0,g/mL
+13,HI_218,11/20/2019 6:06:35 PM,OK,Unchecked,0,,25.0,°C,,2.208,mL,,60.200,g,,60.2002,g,,1.0,g/mL
+14,HI_219,11/20/2019 6:16:45 PM,OK,Unchecked,0,,25.0,°C,,2.196,mL,,59.655,g,,59.6547,g,,1.0,g/mL
+15,HI_220,11/20/2019 6:26:53 PM,OK,Unchecked,0,,25.0,°C,,2.218,mL,,60.183,g,,60.1830,g,,1.0,g/mL
+16,HI_222,11/20/2019 6:37:04 PM,OK,Unchecked,0,,25.0,°C,,2.211,mL,,60.152,g,,60.1521,g,,1.0,g/mL
+17,HI_223,11/20/2019 6:47:13 PM,OK,Unchecked,0,,25.0,°C,,2.214,mL,,60.022,g,,60.0221,g,,1.0,g/mL
+18,HI_224,11/20/2019 6:57:24 PM,OK,Unchecked,0,,25.0,°C,,2.251,mL,,60.226,g,,60.2255,g,,1.0,g/mL
+19,HI_225,11/20/2019 7:07:39 PM,OK,Unchecked,0,,25.0,°C,,2.263,mL,,60.427,g,,60.4266,g,,1.0,g/mL
+20,HI_226,11/20/2019 7:17:54 PM,OK,Unchecked,0,,25.0,°C,,2.195,mL,,59.603,g,,59.6031,g,,1.0,g/mL
+21,HI_227,11/20/2019 7:28:04 PM,OK,Unchecked,0,,25.0,°C,,2.221,mL,,59.930,g,,59.9305,g,,1.0,g/mL
+22,HI_229,11/20/2019 7:38:18 PM,OK,Unchecked,0,,25.0,°C,,2.197,mL,,59.725,g,,59.7248,g,,1.0,g/mL
+23,HI_230,11/20/2019 7:48:24 PM,OK,Unchecked,0,,25.0,°C,,2.272,mL,,60.365,g,,60.3646,g,,1.0,g/mL
+24,HI_231,11/20/2019 7:58:42 PM,OK,Unchecked,0,,25.0,°C,,2.190,mL,,59.698,g,,59.6981,g,,1.0,g/mL
+25,HI_232,11/20/2019 8:08:47 PM,OK,Unchecked,0,,25.0,°C,,2.219,mL,,60.228,g,,60.2275,g,,1.0,g/mL
+26,HI_233,11/20/2019 8:18:58 PM,OK,Unchecked,0,,25.0,°C,,2.200,mL,,59.779,g,,59.7792,g,,1.0,g/mL
+27,CRM,11/20/2019 8:29:06 PM,OK,Unchecked,0,,25.0,°C,,2.178,mL,,60.268,g,,60.2677,g,,1.0,g/mL
+SystemInternal11/20/2019 9:21:13 PM,,,,,,,,,,,,,,,,,,1/1,,
