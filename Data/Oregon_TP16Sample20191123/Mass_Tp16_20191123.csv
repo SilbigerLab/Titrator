@@ -1,0 +1,23 @@
+Results Editor,,,,,,,,,,,,,,,,,,,,
+Result Overview,,,,,,,,,,,,,,,,,,,,
+Sample Index In Scope,Sample ID1,Sample start time,Overall State,Excluded,Correction factor,Unit of Correction factor,Temperature [°C],Unit of Temperature [°C],Comment,Content (R3),Unit of Content (R3),Data markings of Content (R3),Content (R1),Unit of Content (R1),Data markings of Content (R1),Weight [g],Unit of Weight [g],,Density [g/m L],Unit of Density [g/m L]
+1,Junk1,11/23/2019 11:21:58 AM,OK,Unchecked,0,,25.0,°C,,2.208,mL,,59.696,g,,59.6957,g,,1.0,g/mL
+2,junk2,11/23/2019 11:32:15 AM,OK,Unchecked,0,,25.0,°C,,2.181,mL,,60.076,g,,60.0758,g,,1.0,g/mL
+3,D_16_1_BC,11/23/2019 11:42:23 AM,OK,Unchecked,0,,25.0,°C,,2.018,mL,,59.796,g,,59.7960,g,,1.0,g/mL
+4,D_16_2_BC,11/23/2019 11:52:09 AM,OK,Unchecked,0,,25.0,°C,,2.000,mL,,60.126,g,,60.1256,g,,1.0,g/mL
+5,D_16_3_BC,11/23/2019 12:01:57 PM,OK,Unchecked,0,,25.0,°C,,1.964,mL,,60.026,g,,60.0259,g,,1.0,g/mL
+6,D_16_4_BC,11/23/2019 12:11:40 PM,OK,Unchecked,0,,25.0,°C,,1.933,mL,,60.040,g,,60.0395,g,,1.0,g/mL
+7,D_16_5_BC,11/23/2019 12:21:17 PM,OK,Unchecked,0,,25.0,°C,,2.108,mL,,60.009,g,,60.0090,g,,1.0,g/mL
+8,N_16_1_BC,11/23/2019 12:31:16 PM,OK,Unchecked,0,,25.0,°C,,2.072,mL,,60.000,g,,59.9999,g,,1.0,g/mL
+9,N_16_2_BC,11/23/2019 12:41:11 PM,OK,Unchecked,0,,25.0,°C,,2.035,mL,,60.030,g,,60.0305,g,,1.0,g/mL
+10,N_16_3_BC,11/23/2019 12:51:00 PM,OK,Unchecked,0,,25.0,°C,,2.065,mL,,59.970,g,,59.9701,g,,1.0,g/mL
+11,N_16_4_BC,11/23/2019 1:00:54 PM,OK,Unchecked,0,,25.0,°C,,2.092,mL,,59.954,g,,59.9545,g,,1.0,g/mL
+12,D_16_1_AI,11/23/2019 1:10:50 PM,OK,Unchecked,0,,25.0,°C,,2.139,mL,,59.815,g,,59.8154,g,,1.0,g/mL
+13,D_16_2_AI,11/23/2019 1:20:52 PM,OK,Unchecked,0,,25.0,°C,,2.135,mL,,59.982,g,,59.9823,g,,1.0,g/mL
+14,D_16_3_AI,11/23/2019 1:30:53 PM,OK,Unchecked,0,,25.0,°C,,2.094,mL,,59.973,g,,59.9731,g,,1.0,g/mL
+15,D_16_4_AI,11/23/2019 1:40:50 PM,OK,Unchecked,0,,25.0,°C,,2.108,mL,,59.915,g,,59.9150,g,,1.0,g/mL
+16,N_16_1_AI,11/23/2019 1:50:51 PM,OK,Unchecked,0,,25.0,°C,,2.101,mL,,60.159,g,,60.1591,g,,1.0,g/mL
+17,N_16_2_AI,11/23/2019 2:00:47 PM,OK,Unchecked,0,,25.0,°C,,2.133,mL,,59.893,g,,59.8933,g,,1.0,g/mL
+18,N_16_3_AI,11/23/2019 2:10:49 PM,OK,Unchecked,0,,25.0,°C,,2.092,mL,,59.857,g,,59.8573,g,,1.0,g/mL
+19,N_16_4_AI,11/23/2019 2:20:48 PM,OK,Unchecked,0,,25.0,°C,,2.096,mL,,59.950,g,,59.9498,g,,1.0,g/mL
+SystemInternal11/23/2019 2:36:39 PM,,,,,,,,,,,,,,,,,,1/1,,
