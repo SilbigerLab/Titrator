@@ -47,17 +47,17 @@ library(tidyverse)
 
 #CHANGE THESE VALUES EVERY DAY----------------------------------------------
 
-path<-"Data/LidTest_20191113" #the location of all your titration files
+path<-"Data/Oregon_TP14and15Samples20191122" #the location of all your titration files
 
-massfile<-"Mass_20191113.csv" # name of your file with masses
+massfile<-"Mass_20191122_tp15.csv" # name of your file with masses
 
-titrationfile<-'Titrations-11_13_2019-Silbiger TA (EP)r1.csv'# name of the last titration file run
+titrationfile<-'Titrations-11_22_2019-Silbiger TA (EP)r1.csv'# name of the last titration file run
 
 
 
 # Date that the data were run
 
-date<-'11/13/2019'
+date<-'11/22/2019'
 
 
 
