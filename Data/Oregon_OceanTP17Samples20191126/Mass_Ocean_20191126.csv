@@ -1,0 +1,24 @@
+Results Editor,,,,,,,,,,,,,,,,,,,,
+Result Overview,,,,,,,,,,,,,,,,,,,,
+Sample Index In Scope,Sample ID1,Sample start time,Overall State,Excluded,Correction factor,Unit of Correction factor,Temperature [°C],Unit of Temperature [°C],Comment,Content (R3),Unit of Content (R3),Data markings of Content (R3),Content (R1),Unit of Content (R1),Data markings of Content (R1),Weight [g],Unit of Weight [g],,Density [g/m L],Unit of Density [g/m L]
+1,Junk1,11/26/2019 12:46:00 PM,OK,Unchecked,0,,25.0,°C,,2.195,mL,,59.797,g,,59.7968,g,,1.0,g/mL
+2,Junk2,11/26/2019 12:56:16 PM,OK,Unchecked,0,,25.0,°C,,2.177,mL,,59.798,g,,59.7984,g,,1.0,g/mL
+3,D2_Ocean_1_BC,11/26/2019 1:06:22 PM,OK,Unchecked,0,,25.0,°C,,2.167,mL,,59.832,g,,59.8323,g,,1.0,g/mL
+4,D2_Ocean_2_BC,11/26/2019 1:16:27 PM,OK,Unchecked,0,,25.0,°C,,2.157,mL,,59.763,g,,59.7627,g,,1.0,g/mL
+5,D2_Ocean_3_BC,11/26/2019 1:26:31 PM,OK,Unchecked,0,,25.0,°C,,2.121,mL,,59.790,g,,59.7902,g,,1.0,g/mL
+6,D2_Ocean_4_BC,11/26/2019 1:36:31 PM,OK,Unchecked,0,,25.0,°C,,2.110,mL,,59.837,g,,59.8373,g,,1.0,g/mL
+7,D2_Ocean_5_BC,11/26/2019 1:46:29 PM,OK,Unchecked,0,,25.0,°C,,2.128,mL,,60.007,g,,60.0073,g,,1.0,g/mL
+8,N1_Ocean_1_BC,11/26/2019 1:56:29 PM,OK,Unchecked,0,,25.0,°C,,2.109,mL,,59.741,g,,59.7411,g,,1.0,g/mL
+9,N1_Ocean_2_BC,11/26/2019 2:06:28 PM,OK,Unchecked,0,,25.0,°C,,2.127,mL,,60.202,g,,60.2017,g,,1.0,g/mL
+10,N1_Ocean_3_BC,11/26/2019 2:16:29 PM,OK,Unchecked,0,,25.0,°C,,2.110,mL,,60.086,g,,60.0865,g,,1.0,g/mL
+11,N1_Ocean_4_BC,11/26/2019 2:26:27 PM,OK,Unchecked,0,,25.0,°C,,2.100,mL,,59.898,g,,59.8983,g,,1.0,g/mL
+12,N1_Ocean_5_BC,11/26/2019 2:36:24 PM,OK,Unchecked,0,,25.0,°C,,2.086,mL,,59.913,g,,59.9130,g,,1.0,g/mL
+13,D2_Ocean_1_AI,11/26/2019 2:46:19 PM,OK,Unchecked,0,,25.0,°C,,2.114,mL,,60.144,g,,60.1443,g,,1.0,g/mL
+14,D2_Ocean_2_AI,11/26/2019 2:56:17 PM,OK,Unchecked,0,,25.0,°C,,2.168,mL,,60.044,g,,60.0441,g,,1.0,g/mL
+15,D2_Ocean_3_AI,11/26/2019 3:06:23 PM,OK,Unchecked,0,,25.0,°C,,2.116,mL,,59.743,g,,59.7428,g,,1.0,g/mL
+16,D2_Ocean_4_AI,11/26/2019 3:16:25 PM,OK,Unchecked,0,,25.0,°C,,2.118,mL,,59.748,g,,59.7476,g,,1.0,g/mL
+17,N1_Ocean_1_AI,11/26/2019 3:26:25 PM,OK,Unchecked,0,,25.0,°C,,2.182,mL,,60.346,g,,60.3459,g,,1.0,g/mL
+18,N1_Ocean_2_AI,11/26/2019 3:36:32 PM,OK,Unchecked,0,,25.0,°C,,2.168,mL,,60.132,g,,60.1323,g,,1.0,g/mL
+19,N1_Ocean_3_AI,11/26/2019 3:46:38 PM,OK,Unchecked,0,,25.0,°C,,2.152,mL,,60.481,g,,60.4809,g,,1.0,g/mL
+20,N1_Ocean_4_AI,11/26/2019 3:56:40 PM,OK,Unchecked,0,,25.0,°C,,2.100,mL,,59.656,g,,59.6564,g,,1.0,g/mL
+11/26/2019 4:11:16 PMSystemInternal,,,,,,,,,,,,,,,,,,1/1,,
