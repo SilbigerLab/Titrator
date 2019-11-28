@@ -47,17 +47,17 @@ library(tidyverse)
 
 #CHANGE THESE VALUES EVERY DAY----------------------------------------------
 
-path<-"Data/Oregon_OceanTP17Samples20191126" #the location of all your titration files
+path<-"Data/Oregon_TP17and18Samples20191127" #the location of all your titration files
 
-massfile<-"Mass_Ocean_20191126.csv" # name of your file with masses
+massfile<-"Mass_TP18_20191127.csv" # name of your file with masses
 
-titrationfile<-'Titrations-11_26_2019-Silbiger TA (EP)r1.csv'# name of the last titration file run
+titrationfile<-'Titrations-11_27_2019-Silbiger TA (EP)r1.csv'# name of the last titration file run
 
 
 
 # Date that the data were run
 
-date<-'11/26/2019'
+date<-'11/27/2019'
 
 
 
@@ -223,17 +223,17 @@ for(i in 1:nrows) {
   #d<-100*(-0.00000410*mean(Data$Temperature[mV], na.rm=T)^2-0.0001067*mean(Data$Temperature[mV], na.rm=T)+1.02882)/1000 #03/8/18
   
   #d<-(-0.00000410*mean(Data$Temperature[mV], na.rm=T)^2-0.0001067*mean(Data$Temperature[mV], na.rm=T)+1.02882) #03/8/18
-  d<-(-0.00000410*mean(Data$Temperature[mV], na.rm=T)^2-0.0001061*mean(Data$Temperature[mV], na.rm=T)+1.02881) #03/8/18
+  d<-(-0.00000410*mean(Data$Temperature[mV], na.rm=T)^2-0.0001065*mean(Data$Temperature[mV], na.rm=T)+1.02881) #03/8/18
   
   
   
-  #7/15/2016 batch A10
+  #11/27/2019 batch A16
   
   
   
   #concentration of your titrant: CHANGE EVERYTIME ACID IS CHANGED 
   
-  c<-0.100215 #03/8/2018
+  c<-0.100010 #11/27/2019
  # c<-0.0973#10/5 back calculating
 
   
