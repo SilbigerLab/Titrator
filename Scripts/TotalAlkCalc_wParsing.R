@@ -47,17 +47,17 @@ library(tidyverse)
 
 #CHANGE THESE VALUES EVERY DAY----------------------------------------------
 
-path<-"Data/Oregon_Reruns20191221" #the location of all your titration files
+path<-"Data/Oregon_Reruns2020107" #the location of all your titration files
 
-massfile<-"Mass_reruns_20191221.csv" # name of your file with masses
+massfile<-"Mass_rerun1_20200107.csv" # name of your file with masses
 
-titrationfile<-'Titrations-12_21_2019-Silbiger TA (EP)r1.csv'# name of the last titration file run
+titrationfile<-'Titrations-1_7_2020-Silbiger TA (EP)r1.csv'# name of the last titration file run
 
 
 
 # Date that the data were run
 
-date<-'12/21/2019'
+date<-'1/7/2020'
 
 
 
@@ -214,7 +214,7 @@ for(i in 1:nrows) {
   
   #CHANGE ONLY WHEN NEW BOTTLE OF ACID IS USED----------------------------------
   
-  #Bottle #26 , 
+  #Bottle #72 #1/7/2020 , 
   
   #density of your titrant: change every time acid is changed
   
@@ -223,11 +223,12 @@ for(i in 1:nrows) {
   #d<-100*(-0.00000410*mean(Data$Temperature[mV], na.rm=T)^2-0.0001067*mean(Data$Temperature[mV], na.rm=T)+1.02882)/1000 #03/8/18
   
   #d<-(-0.00000410*mean(Data$Temperature[mV], na.rm=T)^2-0.0001067*mean(Data$Temperature[mV], na.rm=T)+1.02882) #03/8/18
-  d<-(-0.00000410*mean(Data$Temperature[mV], na.rm=T)^2-0.0001065*mean(Data$Temperature[mV], na.rm=T)+1.02881) #03/8/18
+  d<-(-0.00000410*mean(Data$Temperature[mV], na.rm=T)^2-0.0001065*mean(Data$Temperature[mV], na.rm=T)+1.02884) #03/8/18
   
   
   
-  #11/27/2019 batch A16
+  #11/27/2019 & 1/7/2020 batch A16
+ 
   
   
   
