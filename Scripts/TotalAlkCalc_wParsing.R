@@ -49,7 +49,7 @@ library(tidyverse)
 
 path<-"Data/Oregon_Reruns2020107" #the location of all your titration files
 
-massfile<-"Mass_rerun2_20200107.csv" # name of your file with masses
+massfile<-"Mass_rerun3_20200107.csv" # name of your file with masses
 
 titrationfile<-'Titrations-1_7_2020-Silbiger TA (EP)r1.csv'# name of the last titration file run
 
