@@ -56,36 +56,37 @@ Contents
 			2. If the Autosampler is Red, Report it.
 			3. If the Autosampler is Green, you may move on to the next step. 
 		3. When the Autosampler is connected, the Titrator will detect an acid. Once shown, press “OK” on the screen.
-		4. Another pop-up will show up. Press “OK” on that too.
+		4. Another pop-up will show up. Press “OK” on that too.  It's possible the titrator will go straight to its main menu, in which case, go to the next step.
 	2. Using the laptop, create one Folder within the Data Folder. [this PC > windowsC: >labx_data > Titrator > Data]
 		1. The folder must be named something appropriate for the samples being processed (for example, Bermuda31 would be all the Bermuda data for 31 degrees) within the Data Folder. *(That is your folder of the day.)*
 	3. Open Excel, LabX and RStudio (R)
 		1. Minimize Excel and R to reduce clutter.
-		2. Using LabX, modify the Server Export Directory to so that the filed export to your *folder of the day*. To do so, go to System (Bottom Left) > At the System’s tab, click “Import and Export” then “Export Templates” > Look for “Export Template data export” and search for Settings then Export File. Look for the “Server Export Directory.”
+		2. Using LabX, modify the Server Export Directory so that the files export to your *folder of the day*. To do so, go to System (Bottom Left) > At the System’s tab, click “Import and Export” then “Export Templates” > Select “Export Template” and search for the "Edit Export Template" icon in the upper left. Click the Settings tab then edit the Export File Name and Export Directory.
 			1. On the “Server Export Directory,” that is where your data is going. You can modify it by clicking on “Edit Export Template” and navigate to the *folder of the day*.
 	4. Using an 80ml empty cup (use cup labeled "ACID HCL ONLY"), place it on the Autosampler in position 69.
-	5. Park the autosampler by pressing “Park” on the tablet. This will send the sensors to position 69.
-	6. Using the Titrator tablet, tap “PRIME” at least 3 separate times.
+	5. Park the autosampler by pressing “Park” then "OK" on the Titrator tablet. This will send the sensors to position 69.
+	6. On the Titrator tablet, tap “PRIME” at least 3 separate times, waiting each time for the titrator to run through its acid purge into the cup.
 		1. **YOU MUST PARK THE AUTOSAMPLER FIRST, OTHERWISE THE ACID WILL SPILL ALL OVER THE AUTOSAMPLER.**
 			1. If it ever occurs, you must use the chemical wipes with DI water to soak up the acid.
 		2. *[Note: Prime is used to purge any air bubbles that may occur in the acid line.]*
 	7. After Purging, if the Autosampler’s arm does not lift automatically, wave your arm on the sensor on the  right side of the Autosampler’s arm to lift it. 
 	8. Recycle the acid into the glass bottle that is connected to the titrator by removing the small white plug and pour carefully into the bottle.
 		1. If a spill occurs, read **[e.i.1]**
-	9. Using DI water, clean the acid cup.
+	9. Using DI water, clean the acid cup and hang it on the rack to dry.
 	10. Located at the left side, at the back of the Autosampler, there should be a pH Sensor. Place it on the hole that’s next to the propeller.
 		1. Before calibrations can be made, look at the top of the Sensor for KCl, if a sufficient amount of KCl can be seen, skip to **[j]**. If not, follow the step below.
 		2. If KCl reservoir is low, open the cap on the sensor’s reservoir and add a few drops of KCl on the opening.
 	11. Make sure that the cap is open at all times, so it can measure the pH.
 	12. Make sure the probe rinse reservoir is filled with DI water (an Erlenmeyer Flask on the right side of the InMotion Pro). 
+	13. Once the pH probe is placed in its slot next to the propeller, fill a DI Only cup 2/3 full with DI water and place this cup in slot 69.  On the Titrator screen, "Park" the autosampler.  The pH probe should always be submerged in a liquid (DI or its storage solution).
 
 4. <a name="Calibration"></a> **Calibration**
-	1. Gather three 80ml cups and add the pH buffer to each of the cups until filled halfway.
+	1. Gather three 80ml cups (labeled as pH cups) and add the pH buffer to each of the cups until filled halfway.
 		1. The pH buffers used are 4, 7, and 10.
-			1. If you use new buffers, write the date opened on the bottle and pour ~60 ml into 3 separate 80 ml cups.
+			1. If you use new buffers, write the date opened on the bottle and pour ~60 ml into the 3 separate 80 ml cups.
 			2. After calibration, pour the buffers into a clean regent bottle, respective of their pH. Those buffers can be used for future uses for ~ 1 week.
-	2. Place the three cups in the Autosampler starting from position 1-3. Place a 4th cup filled with DI water in position 69 on the sample changer.
-		1. The pH cups will be in the order of 4, 7 and 10
+	2. Place the three cups in the Autosampler starting from position 1-3.
+		1. The pH cups will be in the order of 4, 7, and 10 in slots 1, 2, and 3 repsectively.
 	3. Using LabX, click "Analysis" on the bottom left-hand side then look for the Released Methods and click on “Calibration”
 	4. Click Start > Titrator > Start to start the Calibration.
 		1. You can either Right click on the Calibration group or look for the tab named “Recurrence” (It’s on top of the Released Methods) and click Start.
@@ -98,12 +99,13 @@ Contents
 		1. *(Destination: labX_data > Data)*
 	7. Record the Date, Zero Point, Slope, pH 4, pH 7, pH 10, and Notes
 		1. The Notes are used to determine the age of the buffer.
-		2. To gather Zero Point and Slope, go to LabX > Click Data > look for “Result Sets” on the Data Tab bar (Top Left) > Click “Last 24 hours” > Click pH CAL” > Record the data onto Excel
+		2. To gather Zero Point and Slope, go to LabX > Click Data > look for “Result Sets” on the Data Tab bar (Top Left) > Click “Last 24 hours” > Doiuble click pH CAL” > Record the data for slope and zero point onto the Excel spreadsheet.
 			1. *As an alternative: Go to the Titrator tablet and if the tablet displays that the Calibration is done, press OK to view the Zero Point and Slope.*
-		3. To gather data for each pH, go to Result Set, then “last 24 hours,” then click on Results (click the Raw Data tab).
-			1. On the top, look for “E”, you’re going to use that number as a calibration. 
-				1. Note: The results should be displayed as pH 4 from the top while pH 10 is at the bottom.
+		3. To gather data for each pH, click the Raw Data tab from the same pH CAL Results Set.
+			1. Look for the “E” mV value for each pH, and record the "E" values on the spreadsheet. 
+				1. Note: The results should be displayed in order from pH of 4, 7, then 10 as you scroll down in the raw data results page.
 	8. Once the calibrations are complete, remove the cups from the Autosampler and dispose them into the into a plastic reagent bottle, respective of their pH.
+	       1. If the pH buffers need replacing, dispose of the buffers by pouring 4 and 10 down the sink simultaneously while running the faucet.  Then pour the 7 buffer.  Rince the pH buffer cups with water and hang them on the rack to dry.
 	9. Save document and set the destination to the “Data” Folder.
 
 5. <a name="Running_a_titration"></a> **Running_a_titration**
@@ -121,13 +123,13 @@ Contents
 			1. If the pipettes are available, open the top of the case and use the pipette vertically from the cup then pour until the weight reaches 60g ± .5g or instructed otherwise.
 			2. If the pipettes aren’t available, use a beaker to pour on the sample on the side while the case is open. (PROCEDE WITH EXTREME CAUTION!)
 			3. If any spillage ever occurs, Report it immediately. Don’t attempt to clean it yourself.
-		3. Also recalling from “Protocol Procedure for Using the Balance”, transfer the sample by tapping “Transfer…” > first selection of “Simple Transfer” > “OK” > “OK” 
-			1. Before tapping the second “OK,” wait until the weight stabilize before going on to the next step.
-		4. Check in LabX, if it recorded any weight from the balance. If not, report it and set the weight manually. 
+		3. Also recalling from “Protocol Procedure for Using the Balance”, transfer the sample by tapping “Transfer…” > first selection of “Simple Transfer” > “OK”
+			1. Wait until the weight stabilize before tapping "OK" once more, then go on to the next step.
+		4. Check in LabX if the weight from the balance was transferred and recorded. If not, report it and set the weight manually by typing it into the box. 
 		5. Place the measured cups in the Autosampler, starting from position 1, then position 2, 3, etc. If more than one samples are used. 
 	4. Begin Titration
-		1. After the data are set into the system, on the bottom right of the “Task Editor” window, press Start.
-			1. Once started, each titration will take around five minutes, unless there is a change of the method from the instructor.
+		1. After the data are set into the system, and all cups are placed in their slots in the autosampler, press Start on the bottom right of the “Task Editor” window.
+			1. Once started, each titration will take around 10.5 minutes, unless there is a change of the method from the instructor.
 
 6. <a name="CRM_Titration"></a> **CRM_Titration**
 	1. Run step 4, but only use a CRM (or a junk and CRM sample if needed).
