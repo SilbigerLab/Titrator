@@ -1,0 +1,10 @@
+Results Editor,,,,,,,,,,,,,,,,,,,,
+Result Overview,,,,,,,,,,,,,,,,,,,,
+Sample Index In Scope,Sample ID1,Sample start time,Overall State,Excluded,Correction factor,Unit of Correction factor,Temperature [°C],Unit of Temperature [°C],Comment,Content (R3),Unit of Content (R3),Data markings of Content (R3),Content (R1),Unit of Content (R1),Data markings of Content (R1),Weight [g],Unit of Weight [g],,Density [g/m L],Unit of Density [g/m L]
+1,Junk,1/10/2020 5:52:36 PM,OK,Unchecked,0,,25.0,°C,,2.112,mL,,59.625,g,,59.6249,g,,1.0,g/mL
+2,Sump,1/10/2020 6:02:44 PM,OK,Unchecked,0,,25.0,°C,,2.100,mL,,60.040,g,,60.0400,g,,1.0,g/mL
+3,Tank 1,1/10/2020 6:12:40 PM,OK,Unchecked,0,,25.0,°C,,2.106,mL,,59.908,g,,59.9075,g,,1.0,g/mL
+4,Tank 5,1/10/2020 6:22:37 PM,OK,Unchecked,0,,25.0,°C,,2.110,mL,,59.968,g,,59.9681,g,,1.0,g/mL
+5,Tank 13,1/10/2020 6:32:35 PM,OK,Unchecked,0,,25.0,°C,,2.111,mL,,59.964,g,,59.9638,g,,1.0,g/mL
+6,Tank 20,1/10/2020 6:42:32 PM,OK,Unchecked,0,,25.0,°C,,2.115,mL,,60.017,g,,60.0166,g,,1.0,g/mL
+1/10/2020 7:03:11 PMSystemInternal,,,,,,,,,,,,,,,,,,1/1,,
