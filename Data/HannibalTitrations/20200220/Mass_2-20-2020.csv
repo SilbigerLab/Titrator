@@ -1,0 +1,24 @@
+Results Editor,,,,,,,,,,,,,,,,,,,,
+Result Overview,,,,,,,,,,,,,,,,,,,,
+Sample Index In Scope,Sample ID1,Sample start time,Overall State,Excluded,Correction factor,Unit of Correction factor,Temperature [°C],Unit of Temperature [°C],Comment,Content (R3),Unit of Content (R3),Data markings of Content (R3),Content (R1),Unit of Content (R1),Data markings of Content (R1),Weight [g],Unit of Weight [g],,Density [g/m L],Unit of Density [g/m L]
+1,Junk,2/20/2020 12:38:17 PM,OK,Unchecked,0,,25.0,°C,,2.142,mL,,59.628,g,,59.6283,g,,1.0,g/mL
+2,Sump,2/20/2020 12:48:27 PM,OK,Unchecked,0,,25.0,°C,,2.102,mL,,59.531,g,,59.5310,g,,1.0,g/mL
+3,Tank1,2/20/2020 12:58:24 PM,OK,Unchecked,0,,25.0,°C,,2.116,mL,,59.987,g,,59.9874,g,,1.0,g/mL
+4,Tank2,2/20/2020 1:08:24 PM,OK,Unchecked,0,,25.0,°C,,2.128,mL,,60.276,g,,60.2765,g,,1.0,g/mL
+5,Tank3,2/20/2020 1:18:24 PM,OK,Unchecked,0,,25.0,°C,,2.118,mL,,59.698,g,,59.6975,g,,1.0,g/mL
+6,Tank4,2/20/2020 1:28:23 PM,OK,Unchecked,0,,25.0,°C,,2.110,mL,,59.632,g,,59.6318,g,,1.0,g/mL
+7,Tank7,2/20/2020 1:38:21 PM,OK,Unchecked,0,,25.0,°C,,2.130,mL,,60.176,g,,60.1757,g,,1.0,g/mL
+8,Tank8,2/20/2020 1:48:28 PM,OK,Unchecked,0,,25.0,°C,,2.136,mL,,60.300,g,,60.2997,g,,1.0,g/mL
+9,Tank9,2/20/2020 1:58:35 PM,OK,Unchecked,0,,25.0,°C,,2.128,mL,,60.100,g,,60.1001,g,,1.0,g/mL
+10,Tank10,2/20/2020 2:08:36 PM,OK,Unchecked,0,,25.0,°C,,2.112,mL,,59.826,g,,59.8261,g,,1.0,g/mL
+11,Tank11,2/20/2020 2:18:40 PM,OK,Unchecked,0,,25.0,°C,,2.132,mL,,60.452,g,,60.4524,g,,1.0,g/mL
+12,Tank12,2/20/2020 2:28:50 PM,OK,Unchecked,0,,25.0,°C,,2.118,mL,,59.996,g,,59.9961,g,,1.0,g/mL
+13,Tank13,2/20/2020 2:38:57 PM,OK,Unchecked,0,,25.0,°C,,2.132,mL,,60.332,g,,60.3319,g,,1.0,g/mL
+14,Tank14,2/20/2020 2:49:01 PM,OK,Unchecked,0,,25.0,°C,,2.104,mL,,59.671,g,,59.6707,g,,1.0,g/mL
+15,Tank15,2/20/2020 2:59:00 PM,OK,Unchecked,0,,25.0,°C,,2.123,mL,,60.252,g,,60.2524,g,,1.0,g/mL
+16,Tank16,2/20/2020 3:09:00 PM,OK,Unchecked,0,,25.0,°C,,2.120,mL,,60.075,g,,60.0751,g,,1.0,g/mL
+17,Tank17,2/20/2020 3:19:01 PM,OK,Unchecked,0,,25.0,°C,,2.106,mL,,59.740,g,,59.7400,g,,1.0,g/mL
+18,Tank18,2/20/2020 3:29:19 PM,OK,Unchecked,0,,25.0,°C,,2.107,mL,,59.772,g,,59.7719,g,,1.0,g/mL
+19,Tank19,2/20/2020 3:39:23 PM,OK,Unchecked,0,,25.0,°C,,2.110,mL,,59.941,g,,59.9406,g,,1.0,g/mL
+20,Tank20,2/20/2020 3:49:23 PM,OK,Unchecked,0,,25.0,°C,,2.104,mL,,59.676,g,,59.6758,g,,1.0,g/mL
+2/20/2020 7:39:47 PMSystemInternal,,,,,,,,,,,,,,,,,,1/1,,
