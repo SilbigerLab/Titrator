@@ -157,7 +157,11 @@ Contents
 			4. Modify “massfile” to the name of the current file from step [5.a.ii.2] (Case Sensitive)
 		4. Click on Source to completely transfer the data
 		5. A csv file will be automatically exported to the folder of the day with the calculated TA data. If this is a CRM run, here is where you will be the TA value of the CRM to enter it into the CRMAccuracyData file (see 5b).
-
+		6. After the CRM run, edit the file names for Mass, the raw Titrator File, and the new TA file to include "_CRM_".
+			1. After each titration, the raw Titrator File and Mass File will overwrite the previous files in the folder if a new name is not given to the previous files.
+			1. After each Source of the TotalAlkCalc_wParsing.R script, the new TA file will overwrite the previous file in the folder if a new name is not given to the previous file.
+			1. For multiple titrations after the CRM run, use a label for these three files to distinguish between the multiple titrations.
+		
 10. <a name="Clean_Up"></a> **Clean_Up**
 	1. When the titrations are complete, remove the cups from the Autosampler, and dispose the samples into the sink ONLY if there was no HgCl2 in the sample *[note: all CRMs and nearly all samples in this lab have HgCl2]*. If the sample has HgCl2, then dispose it into a labeled waste container with a funnel by the fume hood.
 	2. Clean the cups using RO water. Then, dry them using a drying rack next to the Autosampler.
