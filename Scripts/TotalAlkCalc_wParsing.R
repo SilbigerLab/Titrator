@@ -53,8 +53,6 @@ massfile<-"Mass_12292020.csv" # name of your file with masses
 
 titrationfile<-'Titrations-12_29_2020-Silbiger TA (EP)r1.csv'# name of the last titration file run
 
-sample_sal<-39.9 # sample salinity if the same for all
-  # crm salinity = 33.623
 
 
 # Date that the data were run
