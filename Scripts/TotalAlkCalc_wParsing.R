@@ -47,17 +47,19 @@ library(tidyverse)
 
 #CHANGE THESE VALUES EVERY DAY----------------------------------------------
 
-path<-"Data/Oregon_Reruns2020107" #the location of all your titration files
+path<-"Data/Mesocosm_Chiachi/Meso_12292020/" #the location of all your titration files
 
-massfile<-"Mass_rerun3_20200107.csv" # name of your file with masses
+massfile<-"Mass_12292020.csv" # name of your file with masses
 
-titrationfile<-'Titrations-1_7_2020-Silbiger TA (EP)r1.csv'# name of the last titration file run
+titrationfile<-'Titrations-12_29_2020-Silbiger TA (EP)r1.csv'# name of the last titration file run
 
+sample_sal<-39.9 # sample salinity if the same for all
+  # crm salinity = 33.623
 
 
 # Date that the data were run
 
-date<-'1/7/2020'
+date<-'12/29/2020'
 
 
 
@@ -246,7 +248,8 @@ for(i in 1:nrows) {
   
   #Salinity of your samples
   
-  s<-33.518
+  #s<-33.623
+  s<-sample_sal
   
   #s<-Mass[name,2]
   
@@ -285,3 +288,4 @@ TA$TA_evap<-TA$TA*35/salt
 #exports your data as a CSV file
 
 write.table(TA,paste0(path,"/TA",Sys.Date(),".csv"),sep=",", row.names=FALSE)
+
