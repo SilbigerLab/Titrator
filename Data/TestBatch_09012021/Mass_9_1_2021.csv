@@ -1,12 +1,8 @@
-Results Editor,,,,,,,,,,,,,,
-Result Details,,,,,,,,,,,,,,
-Sample ID 1,Title,Result,Unit of Result,Data markings of Result,Creation time,Method name,T1-,Nominal value,T1+,Comment,Method type,Determination type,,Overall result state
-Junk_1,Content,1.916,mL,,9/1/2021 4:23:35 PM,Silbiger TA (EP)r1,,,,,General Titration,GT sample determination,,OK
-Junk_1,Content,59.770,g,,9/1/2021 4:23:36 PM,Silbiger TA (EP)r1,,,,,General Titration,GT sample determination,,OK
-Junk_2,Content,1.922,mL,,9/1/2021 4:33:11 PM,Silbiger TA (EP)r1,,,,,General Titration,GT sample determination,,OK
-Junk_2,Content,60.025,g,,9/1/2021 4:33:11 PM,Silbiger TA (EP)r1,,,,,General Titration,GT sample determination,,OK
-Junk_3,Content,1.920,mL,,9/1/2021 4:42:46 PM,Silbiger TA (EP)r1,,,,,General Titration,GT sample determination,,OK
-Junk_3,Content,59.588,g,,9/1/2021 4:42:47 PM,Silbiger TA (EP)r1,,,,,General Titration,GT sample determination,,OK
-CRM,Content,1.915,mL,,9/1/2021 4:52:21 PM,Silbiger TA (EP)r1,,,,,General Titration,GT sample determination,,OK
-CRM,Content,59.998,g,,9/1/2021 4:52:21 PM,Silbiger TA (EP)r1,,,,,General Titration,GT sample determination,,OK
-9/1/2021 5:41:57 PMSystemInternal,,,,,,,,,,,,,1/1,
+Results Editor,,,,,,,,,,,,,,,,,,,,
+Result Overview,,,,,,,,,,,,,,,,,,,,
+Sample Index In Scope,Sample ID1,Sample start time,Overall State,Excluded,Correction factor,Unit of Correction factor,Temperature [°C],Unit of Temperature [°C],Comment,Content (R3),Unit of Content (R3),Data markings of Content (R3),Content (R1),Unit of Content (R1),Data markings of Content (R1),Weight [g],Unit of Weight [g],,Density [g/m L],Unit of Density [g/m L]
+1,Junk_1,9/1/2021 4:13:50 PM,OK,Unchecked,0,,25.0,°C,,1.916,mL,,59.770,g,,59.7695,g,,1.0,g/mL
+2,Junk_2,9/1/2021 4:23:36 PM,OK,Unchecked,0,,25.0,°C,,1.922,mL,,60.025,g,,60.0248,g,,1.0,g/mL
+3,Junk_3,9/1/2021 4:33:12 PM,OK,Unchecked,0,,25.0,°C,,1.920,mL,,59.588,g,,59.5883,g,,1.0,g/mL
+4,CRM,9/1/2021 4:42:48 PM,OK,Unchecked,0,,25.0,°C,,1.915,mL,,59.998,g,,59.9983,g,,1.0,g/mL
+9/1/2021 6:01:07 PMSystemInternal,,,,,,,,,,,,,,,,,,1/1,,
