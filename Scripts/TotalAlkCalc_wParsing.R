@@ -4,8 +4,6 @@
 
 #At the end it exports your data as a .csv file. Comment the last line out if your don't want that.
 
-
-
 ### Files needed ######
 
 # 1. pHCalibration.csv in your "Data" folder
@@ -39,6 +37,9 @@ main<-getwd()
 
 #load libraries----------------------------------------------
 
+# Until seacarb is updated to include function at() again, use previous version 3.2.14
+#require(devtools)
+#install_version("seacarb", version = "3.2.14", repos = "http://cran.us.r-project.org")
 library(seacarb)#used to calculate TA
 
 library(tidyverse)
@@ -47,17 +48,17 @@ library(tidyverse)
 
 #CHANGE THESE VALUES EVERY DAY----------------------------------------------
 
-path<-"Data/Mesocosm_Chiachi/Meso_12292020/" #the location of all your titration files
+path<-"Data/Moorea_August2021/09072021/" #the location of all your titration files
 
-massfile<-"Mass_12292020.csv" # name of your file with masses
+massfile<-"Mass_CRM_09072021.csv" # name of your file with masses
 
-titrationfile<-'Titrations-12_29_2020-Silbiger TA (EP)r1.csv'# name of the last titration file run
+titrationfile<-'Titrations-9_7_2021-CRM-Silbiger TA (EP)r1.csv'# name of the last titration file run
 
 
 
 # Date that the data were run
 
-date<-'12/29/2020'
+date<-'9/7/2021'
 
 
 
@@ -228,13 +229,14 @@ for(i in 1:nrows) {
   
   
   #11/27/2019 & 1/7/2020 batch A16
+  #9/7/2021 batch A16 (replacing batch opened 11/27/2019)
  
   
   
   
   #concentration of your titrant: CHANGE EVERYTIME ACID IS CHANGED 
   
-  c<-0.100010 #11/27/2019
+  c<-0.100010 #11/27/2019 and 9/7/2021
  # c<-0.0973#10/5 back calculating
 
   
@@ -246,8 +248,8 @@ for(i in 1:nrows) {
   
   #Salinity of your samples
   
-  #s<-33.623
-  s<-sample_sal
+  s<-33.623
+  #s<-sample_sal
   
   #s<-Mass[name,2]
   

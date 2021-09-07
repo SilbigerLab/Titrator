@@ -93,3 +93,5 @@ Date,ZeroPoint,Slope,pH4,pH7,pH10,Notes
 12/16/2020,6.957,-57.22,167.7,-0.6,-175.6,pH buffers opened 12/16/2020
 12/29/2020,6.981,-57.97,172.1,-0.9,-175.6,pH buffers opened 12/29/2020
 9/1/2021,6.973,-58.08,172.1,-1.6,-176.4,pH nuffers opened 9/1/2021
+9/3/2021,6.968,-57.92,171.3,-1.9,-176.2,pH buffers opened 9/1/2021
+9/7/2021,7.045,-58.03,176.3,2.2,-171.9,"pH buffers opened 9/1/2021; first calibration values: zero point: 7.071, slope: -57.93, pH4 E: 177.5, pH7 E: 3.7, pH10 E: -170.2"
