@@ -110,7 +110,9 @@ Contents
 
 5. <a name="Running_a_titration"></a> **Running_a_titration**
 	1. Titration set-up
-		1. You should start each day by running a Certified Reference Material (CRM) from the Dickson Lab. These are the standards. The procedure for running any titration, whether a CRM or unknowns are as follows. It is also advisable to start with a “junk” sample (filtered seawater that you don’t care about) at the beginning of each run to ensure there are no air bubbles in the acid line. 
+		1. You should start each day by running a Certified Reference Material (CRM) from the Dickson Lab. These are the standards. The procedure for running any titration, whether a CRM or unknowns are as follows.  
+			1. For the CRM run preceeding the normal run, also refer to the [CRM_Titration](#CRM_Titration) instructions below. 
+			2. For a normal (non-CRM run) it is also advisable to start with a “junk” sample (filtered seawater that you don’t care about) at the beginning of each run to ensure there are no air bubbles in the acid line.
 		2. On the LabX window, similarly to calibration, click on Silbiger TA (EP)r1 > Start > Titration
 		3. A window should pop up. Depending on the number of the sample measured, click on “Number of Samples” then apply the specific number of samples used in the titration, then press enter on the keyboard.
 	2. On the left, look for the “ID 1” column and label the sample. Put in all your sample IDs into this column.
@@ -118,7 +120,7 @@ Contents
 		2. Click on the first row and then proceed to the analytical balance.
 	3. Weigh the sample from the Analytical Balance.
 		1. See [“Protocol Procedure for Using the Balance” ](BalanceSOP.md), Turn on the balance > tap LabX Online (on balance) > weigh empty bottle first > Press “→T←” button to “Zero” the balance.
-			1. *[Note: The balance may connect to LabX automatically upon switching on. Also, note, the LabX workspace for the balance must be open for the data to transfer (go to labX main page > show workbench > xp205dr]*
+			1. *[Note: The balance may connect to LabX automatically upon switching on. Also, note, the LabX workspace for the balance must be open for the data to transfer ( **go to labX main page > show workbench > xp205dr]** )
 		2. In this step, carefully add the sample into the 80ml cup until the scale reads 60g ± .5g or instructed otherwise.
 			1. If the pipettes are available, open the top of the case and use the pipette vertically from the cup then pour until the weight reaches 60g ± .5g or instructed otherwise.
 			2. If the pipettes aren’t available, use a beaker to pour on the sample on the side while the case is open. (PROCEDE WITH EXTREME CAUTION!)
@@ -132,9 +134,10 @@ Contents
 			1. Once started, each titration will take around 10.5 minutes, unless there is a change of the method from the instructor.
 
 6. <a name="CRM_Titration"></a> **CRM_Titration**
-	1. Run step 4, but only use a CRM (or a junk and CRM sample if needed).
-	2. Skip to [**Data_Analysis**](#Data_Analysis) to calculate total alkalinity of the CRM. Then check the accuracy of the data.
-	3. **In every CRM Titration, it is necessary to report the accuracy in the “CRMAccuracyData” file to test the accuracy.  If must never be more than 1% off. Accuracy must be tested before running any samples for the day.**
+	1. Following the above steps, run a 4-sample titration with three Junk samples and then a CRM.
+	2. CRM contain 0.04% Mercuric Chloride, so proceed with caution, and always wear gloves and PPE when handling toxic chemicals.
+	3. Skip to [**Data_Analysis**](#Data_Analysis) to calculate total alkalinity of the CRM. Then check the accuracy of the data.  This all must be done before running the rest of the day's samples.
+	4. **In every CRM Titration, it is necessary to report the accuracy in the “CRMAccuracyData” file to test the accuracy.  It must never be more than 1% off. Accuracy must be tested before running any samples for the day.**
 
 7. <a name="SAMPLE_Titration"></a> **SAMPLE_Titration**
 	1. Repeat step **[4.]**. However, in step **[4.c]**, replace to [the sample name given on the sample bottle].
