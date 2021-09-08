@@ -8,12 +8,13 @@ Contents
 - [**Pre-Setup**](#Pre-Setup)
 - [**Setup**](#Setup) 
 - [**Calibration**](#Calibration) 
-- [**Running_a_titration**](#Running_a_titration) 
-- [**CRM_Titration**](#CRM_Titration) 
-- [**SAMPLE_Titration**](#SAMPLE_Titration) 
-- [**Measure_Salinity**](#Measure_Salinity) 
-- [**Data_Analysis**](#Data_Analysis) 
-- [**Clean_Up**](#Clean_Up) 
+- [**Running a titration**](#Running_a_titration) 
+- [**CRM Titration**](#CRM_Titration) 
+- [**SAMPLE Titration**](#SAMPLE_Titration) 
+- [**Measure Salinity**](#Measure_Salinity) 
+- [**Data Analysis**](#Data_Analysis) 
+- [**Clean Up**](#Clean_Up) 
+- [**Troubleshooting**](#Troubleshooting)
 
 --- 
 
@@ -178,6 +179,23 @@ Shut off both Titrator and Autosampler.
 		2. To shut off the Titrator, use the tablet to make it offline then tap shut down.
 	6. Wipe down Sample Changer carefully with DI water.
 
+11. <a name="Troubleshooting"></a> **Troubleshooting**
+	1. In a junk seawater sample run, does the curve slope on the Titration window appear to be positive, negative or ~zero as the run progresses?
+		1. Normal curve: positive slope, uses just over 2mL of HCl
+		2. Atypical curve: no slope or negative slope.  The titrant is either not being dosed correctly or is bad and not changing the pH as expected
+	2. Are there bubbles coming out of the dosing tube into the sample?
+		1. Check if the tube in the titrant container is fully submerged
+		2. Check if the red dosing tube has a tear and may need to be replaced
+	3. Has the titrant not been changed in a while or is running low?
+ 		1. May need to replace titrant (update R script for titrant specifications if using a new Batch)
+ 	4. Run another calibration
+ 		1. Check if the calibration solution needs to be changed (typically needs changing after 7-10 days)
+ 	5. Is the pH probe full no KCl solution?
+ 		1. Make sure KCl is full in probe by tilting probe on its side, hole opening facing upward. If there is a bubble, position the bubble at the hole opening and fill with KCl.
+ 	6. For general pH probe maintenance:
+ 		1. Clean off deposits around gray rubber on pH probe
+ 		2. Make sure the probe storage solution is always filled to fully submerge the probe tip when not in use
+ 		3. After use, make sure the gray cap is closed to avoid evaporation or loss of internal KCl solution.
 
 
 
