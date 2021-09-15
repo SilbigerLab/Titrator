@@ -1,24 +1,3 @@
-Task ID,T2987
-Number of samples,4
-Task start time,9/14/2021 10:25:55 AM
-Origin,Method
-Origin internal ID,M55
-Origin ID,00002r1
-Origin name,Silbiger TA (EP)r1
-Responsible users,SystemInternal
-Instruments,TItrator (T5)
-Task name,00002r1
-Task comment,
-Treat as priority task,False
-Continuous run,False
-Scope 1 Sample
-Number of samples,4
-S1.InMotionStartPosition1,P1
-No.,Sample start time,Sample ID 1,S1.Weight,S1.Density,S1.CorrectionFactor,S1.Temperature,S1.SampleComment
-1,9/14/2021 10:25:57 AM,Junk1,60.4197,1.0,0,25.0,
-2,9/14/2021 10:36:04 AM,Junk2,60.1923,1.0,0,25.0,
-3,9/14/2021 10:46:02 AM,Junk3,59.6930,1.0,0,25.0,
-4,9/14/2021 10:55:59 AM,CRM,60.4838,1.0,0,25.0,
 Task,T2987
 Scope 1/1, Sample 1/4 (Junk1)
 Result,TitrationEP1
