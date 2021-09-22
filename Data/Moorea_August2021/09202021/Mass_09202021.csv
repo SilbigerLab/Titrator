@@ -1,0 +1,20 @@
+Results Editor,,,,,,,,,,,,,,,,,,,,
+Result Overview,,,,,,,,,,,,,,,,,,,,
+Sample Index In Scope,Sample ID1,Sample start time,Overall State,Excluded,Correction factor,Unit of Correction factor,Temperature [°C],Unit of Temperature [°C],Comment,Content (R3),Unit of Content (R3),Data markings of Content (R3),Content (R1),Unit of Content (R1),Data markings of Content (R1),Weight [g],Unit of Weight [g],,Density [g/m L],Unit of Density [g/m L]
+1,V18_HD_20210805,9/20/2021 3:21:59 PM,OK,Unchecked,0,,25.0,°C,,2.501,mL,,59.751,g,,59.7512,g,,1.0,g/mL
+2,V17_HD_20210805,9/20/2021 3:32:52 PM,OK,Unchecked,0,,25.0,°C,,2.517,mL,,59.817,g,,59.8173,g,,1.0,g/mL
+3,V03_HD_20210805,9/20/2021 3:43:38 PM,OK,Unchecked,0,,25.0,°C,,2.510,mL,,59.701,g,,59.7006,g,,1.0,g/mL
+4,V01_HD_20210805,9/20/2021 3:54:24 PM,OK,Unchecked,0,,25.0,°C,,2.514,mL,,60.157,g,,60.1572,g,,1.0,g/mL
+5,V05_HD_20210805,9/20/2021 4:05:11 PM,OK,Unchecked,0,,25.0,°C,,2.533,mL,,60.001,g,,60.0007,g,,1.0,g/mL
+6,V14_HD_20210805,9/20/2021 4:15:59 PM,OK,Unchecked,0,,25.0,°C,,2.509,mL,,59.614,g,,59.6140,g,,1.0,g/mL
+7,V12_HD_20210805,9/20/2021 4:26:44 PM,OK,Unchecked,0,,25.0,°C,,2.544,mL,,60.176,g,,60.1762,g,,1.0,g/mL
+8,C19_HD_20210809,9/20/2021 4:37:35 PM,OK,Unchecked,0,,25.0,°C,,2.532,mL,,59.544,g,,59.5439,g,,1.0,g/mL
+9,V19_HD_20210805,9/20/2021 4:48:25 PM,OK,Unchecked,0,,25.0,°C,,2.538,mL,,59.883,g,,59.8828,g,,1.0,g/mL
+10,V15_HD_20210805,9/20/2021 4:59:14 PM,OK,Unchecked,0,,25.0,°C,,2.506,mL,,59.757,g,,59.7572,g,,1.0,g/mL
+11,V07_HD_20210805,9/20/2021 5:10:00 PM,OK,Unchecked,0,,25.0,°C,,2.544,mL,,59.858,g,,59.8581,g,,1.0,g/mL
+12,V20_HD_20210805,9/20/2021 5:20:52 PM,OK,Unchecked,0,,25.0,°C,,2.544,mL,,60.215,g,,60.2154,g,,1.0,g/mL
+13,V08_HD_20210805,9/20/2021 5:31:43 PM,OK,Unchecked,0,,25.0,°C,,2.536,mL,,60.054,g,,60.0543,g,,1.0,g/mL
+14,V10_HD_20210805,9/20/2021 5:42:32 PM,OK,Unchecked,0,,25.0,°C,,2.540,mL,,60.120,g,,60.1205,g,,1.0,g/mL
+15,V06_HD_20210805,9/20/2021 5:53:23 PM,OK,Unchecked,0,,25.0,°C,,2.542,mL,,60.300,g,,60.3004,g,,1.0,g/mL
+16,CRM,9/20/2021 6:04:13 PM,OK,Unchecked,0,,25.0,°C,,2.550,mL,,59.603,g,,59.6033,g,,1.0,g/mL
+SystemInternal9/20/2021 7:42:47 PM,,,,,,,,,,,,,,,,,,1/1,,
