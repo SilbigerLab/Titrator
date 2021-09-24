@@ -1,0 +1,6 @@
+CRM_Run,Batch_number,Date_opened,Notes
+1,180,9/23/2021,
+2,180,9/23/2021,
+3,180,9/24/2021,New bottle opened
+4,180,9/24/2021,"Flushed line with HCl again, then ran this CRM run"
+5,183,9/24/2021,Opened new bottle of Batch 183 CRM
