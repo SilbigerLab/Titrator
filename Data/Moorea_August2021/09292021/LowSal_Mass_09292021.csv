@@ -1,0 +1,16 @@
+Results Editor,,,,,,,,,,,,,,,,,,,,
+Result Overview,,,,,,,,,,,,,,,,,,,,
+Sample Index In Scope,Sample ID1,Sample start time,Overall State,Excluded,Correction factor,Unit of Correction factor,Temperature [°C],Unit of Temperature [°C],Comment,Content (R3),Unit of Content (R3),Data markings of Content (R3),Content (R1),Unit of Content (R1),Data markings of Content (R1),Weight [g],Unit of Weight [g],,Density [g/m L],Unit of Density [g/m L]
+1,junk1,9/29/2021 6:55:44 PM,OK,Unchecked,0,,25.0,°C,,2.231,mL,,59.543,g,,59.5432,g,,1.0,g/mL
+2,junk2,9/29/2021 7:06:06 PM,OK,Unchecked,0,,25.0,°C,,2.225,mL,,60.141,g,,60.1412,g,,1.0,g/mL
+3,Lake_TET2_08132021_RF,9/29/2021 7:16:18 PM,OK,Unchecked,0,,25.0,°C,,2.558,mL,,59.893,g,,59.8926,g,,1.0,g/mL
+4,V_Well1_08052021_RF,9/29/2021 7:27:13 PM,Not OK,Unchecked,0,,25.0,°C,,NaN,mL,,60.082,g,,60.0816,g,,1.0,g/mL
+5,V_Well2_08052021_RF,9/29/2021 7:40:56 PM,Not OK,Unchecked,0,,25.0,°C,,NaN,mL,,60.012,g,,60.0125,g,,1.0,g/mL
+6,V_Well3_08052021_RF,9/29/2021 7:54:39 PM,Not OK,Unchecked,0,,25.0,°C,,NaN,mL,,60.272,g,,60.2718,g,,1.0,g/mL
+7,C_Roadside_Endmember_06112021_RF,9/29/2021 8:08:22 PM,OK,Unchecked,0,,25.0,°C,,2.020,mL,,60.413,g,,60.4132,g,,1.0,g/mL
+8,C_Inland_Endmember_06112021_RF,9/29/2021 8:18:09 PM,OK,Unchecked,0,,25.0,°C,,1.927,mL,,60.167,g,,60.1673,g,,1.0,g/mL
+9,C_Spring_Filtered_Land_08092021_RF,9/29/2021 8:27:45 PM,OK,Unchecked,0,,25.0,°C,,2.026,mL,,59.728,g,,59.7283,g,,1.0,g/mL
+10,C_Spring_Land_08092021,9/29/2021 8:37:32 PM,OK,Unchecked,0,,25.0,°C,,2.055,mL,,60.434,g,,60.4340,g,,1.0,g/mL
+11,C_Seep_Bottle_20210809,9/29/2021 8:47:24 PM,OK,Unchecked,0,,25.0,°C,,2.327,mL,,60.523,g,,60.5229,g,,1.0,g/mL
+12,CRM,9/29/2021 8:57:47 PM,OK,Unchecked,0,,25.0,°C,,2.412,mL,,60.677,g,,60.6766,g,,1.0,g/mL
+SystemInternal9/29/2021 9:44:37 PM,,,,,,,,,,,,,,,,,,1/1,,

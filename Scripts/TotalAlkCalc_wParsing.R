@@ -48,17 +48,17 @@ library(tidyverse)
 
 #CHANGE THESE VALUES EVERY DAY----------------------------------------------
 
-path<-"Data/Moorea_August2021/09272021" #the location of all your titration files
+path<-"Data/Moorea_August2021/09292021" #the location of all your titration files
 
-massfile<-"CRM_Mass2_09272021.csv" # name of your file with masses
+massfile<-"LowSal_Mass_09292021.csv" # name of your file with masses
 
-titrationfile<-'CRM2_Titrations-9_27_2021-Silbiger TA (EP)r1.csv'# name of the last titration file run
+titrationfile<-'LowSal_Titrations-9_29_2021-Silbiger TA (EP)r1.csv'# name of the last titration file run
 
 
 
 # Date that the data were run
 
-date<-'9/27/2021'
+date<-'9/29/2021'
 
 
 
