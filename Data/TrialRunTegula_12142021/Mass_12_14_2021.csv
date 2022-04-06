@@ -1,0 +1,17 @@
+Results Editor,,,,,,,,,,,,,,,,,,,,
+Result Overview,,,,,,,,,,,,,,,,,,,,
+Sample Index In Scope,Sample ID1,Sample start time,Overall State,Excluded,Correction factor,Unit of Correction factor,Temperature [°C],Unit of Temperature [°C],Comment,Content (R3),Unit of Content (R3),Data markings of Content (R3),Content (R1),Unit of Content (R1),Data markings of Content (R1),Weight [g],Unit of Weight [g],,Density [g/m L],Unit of Density [g/m L]
+1,Junk1,12/14/2021 3:47:17 PM,OK,Unchecked,0,,25.0,°C,,2.516,mL,,60.111,g,,60.1109,g,,1.0,g/mL
+2,Junk2,12/14/2021 3:58:14 PM,OK,Unchecked,0,,25.0,°C,,2.522,mL,,60.046,g,,60.0458,g,,1.0,g/mL
+3,Junk3,12/14/2021 4:09:02 PM,OK,Unchecked,0,,25.0,°C,,2.548,mL,,60.150,g,,60.1500,g,,1.0,g/mL
+4,1hour_Control,12/14/2021 4:19:54 PM,OK,Unchecked,0,,25.0,°C,,2.557,mL,,60.112,g,,60.1120,g,,1.0,g/mL
+5,1hour_Teg1,12/14/2021 4:30:48 PM,OK,Unchecked,0,,25.0,°C,,2.572,mL,,60.254,g,,60.2535,g,,1.0,g/mL
+6,1hour_Teg2,12/14/2021 4:41:45 PM,OK,Unchecked,0,,25.0,°C,,2.580,mL,,60.324,g,,60.3241,g,,1.0,g/mL
+7,1hour_Teg3,12/14/2021 4:52:39 PM,OK,Unchecked,0,,25.0,°C,,2.547,mL,,59.797,g,,59.7966,g,,1.0,g/mL
+8,1hour_Shell,12/14/2021 5:03:31 PM,OK,Unchecked,0,,25.0,°C,,2.558,mL,,60.117,g,,60.1171,g,,1.0,g/mL
+9,2hour_Control,12/14/2021 5:14:25 PM,OK,Unchecked,0,,25.0,°C,,2.538,mL,,60.288,g,,60.2884,g,,1.0,g/mL
+10,2hour_Teg1,12/14/2021 5:25:17 PM,OK,Unchecked,0,,25.0,°C,,2.528,mL,,59.560,g,,59.5603,g,,1.0,g/mL
+11,2hour_Teg2,12/14/2021 5:36:07 PM,OK,Unchecked,0,,25.0,°C,,2.524,mL,,59.945,g,,59.9449,g,,1.0,g/mL
+12,2hour_Shell,12/14/2021 5:50:24 PM,OK,Unchecked,0,,25.0,°C,,2.531,mL,,59.906,g,,59.9056,g,,1.0,g/mL
+13,CRM,12/14/2021 6:01:13 PM,OK,Unchecked,0,,25.0,°C,,2.483,mL,,60.011,g,,60.0109,g,,1.0,g/mL
+SystemInternal12/14/2021 6:14:20 PM,,,,,,,,,,,,,,,,,,1/1,,
