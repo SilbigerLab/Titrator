@@ -50,9 +50,9 @@ library(tidyverse)
 
 path<-"Data/Moorea_March2022/04072022" #the location of all your titration files
 
-massfile<-"VLowDayMass_04072022.csv" # name of your file with masses
+massfile<-"SpringsMass_04072022.csv" # name of your file with masses
 
-titrationfile<-'LowDayTitrations-4_7_2022-Silbiger TA (EP)r1.csv'# name of the last titration file run
+titrationfile<-'Titrations-4_7_2022-Silbiger TA (EP)r1.csv'# name of the last titration file run
 
 
 
