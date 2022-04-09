@@ -1,0 +1,27 @@
+Results Editor,,,,,,,,,,,,,,,,,,,,
+Result Overview,,,,,,,,,,,,,,,,,,,,
+Sample Index In Scope,Sample ID1,Sample start time,Overall State,Excluded,Correction factor,Unit of Correction factor,Temperature [°C],Unit of Temperature [°C],Comment,Content (R3),Unit of Content (R3),Data markings of Content (R3),Content (R1),Unit of Content (R1),Data markings of Content (R1),Weight [g],Unit of Weight [g],,Density [g/m L],Unit of Density [g/m L]
+1,junk1,4/8/2022 14:48,OK,Unchecked,0,,25,°C,,2.215,mL,,59.962,g,,59.9622,g,,1,g/mL
+2,junk2,4/8/2022 14:58,OK,Unchecked,0,,25,°C,,2.198,mL,,59.695,g,,59.6947,g,,1,g/mL
+3,junk3,4/8/2022 15:09,OK,Unchecked,0,,25,°C,,2.218,mL,,60.257,g,,60.2574,g,,1,g/mL
+4,VRC_A_20220326,4/8/2022 15:19,OK,Unchecked,0,,25,°C,,2.344,mL,,60.133,g,,60.1333,g,,1,g/mL
+5,VRC_B_20220327,4/8/2022 15:29,OK,Unchecked,0,,25,°C,,2.32,mL,,59.705,g,,59.7053,g,,1,g/mL
+6,VRC_C_20220327,4/8/2022 15:40,OK,Unchecked,0,,25,°C,,2.338,mL,,60.024,g,,60.0243,g,,1,g/mL
+7,VRC_D_20220327,4/8/2022 15:50,OK,Unchecked,0,,25,°C,,2.322,mL,,59.603,g,,59.6033,g,,1,g/mL
+8,VRC_G_20220328,4/8/2022 16:00,OK,Unchecked,0,,25,°C,,2.346,mL,,59.955,g,,59.9553,g,,1,g/mL
+9,VRC_H_20220328,4/8/2022 16:11,OK,Unchecked,0,,25,°C,,2.344,mL,,59.88,g,,59.8802,g,,1,g/mL
+10,VRC_J_20220329,4/8/2022 16:21,OK,Unchecked,0,,25,°C,,2.367,mL,,60.34,g,,60.3397,g,,1,g/mL
+11,VRC_K_20220329,4/8/2022 16:32,OK,Unchecked,0,,25,°C,,2.338,mL,,59.548,g,,59.5483,g,,1,g/mL
+12,VRC_L_20220329,4/8/2022 16:42,OK,Unchecked,0,,25,°C,,2.37,mL,,60.291,g,,60.2909,g,,1,g/mL
+13,VRC_M_20220329,4/8/2022 16:53,OK,Unchecked,0,,25,°C,,2.34,mL,,59.645,g,,59.6449,g,,1,g/mL
+14,VRC_N_20220330,4/8/2022 17:03,OK,Unchecked,0,,25,°C,,2.368,mL,,60.31,g,,60.3099,g,,1,g/mL
+15,VRC_O_20220330,4/8/2022 17:14,OK,Unchecked,0,,25,°C,,2.372,mL,,60.462,g,,60.4623,g,,1,g/mL
+16,VRC_P_20220331,4/8/2022 17:24,OK,Unchecked,0,,25,°C,,2.338,mL,,59.658,g,,59.6582,g,,1,g/mL
+17,CRC_A_20220329,4/8/2022 17:35,OK,Unchecked,0,,25,°C,,2.344,mL,,59.638,g,,59.6376,g,,1,g/mL
+18,CRC_C_20220330,4/8/2022 17:45,OK,Unchecked,0,,25,°C,,2.369,mL,,60.402,g,,60.4023,g,,1,g/mL
+19,CRC_D_20220330,4/8/2022 17:56,OK,Unchecked,0,,25,°C,,2.372,mL,,60.191,g,,60.1911,g,,1,g/mL
+20,CRC_E_20220330,4/8/2022 18:06,OK,Unchecked,0,,25,°C,,2.352,mL,,59.794,g,,59.7935,g,,1,g/mL
+21,CRC_F_20220330,4/8/2022 18:17,Not OK,Unchecked,0,,25,°C,,NaN,mL,,59.602,g,,59.6025,g,,1,g/mL
+22,CRC_G_20220331,4/8/2022 18:26,OK,Unchecked,0,,25,°C,,2.346,mL,,59.724,g,,59.724,g,,1,g/mL
+23,CRC_H_20220331,4/8/2022 18:37,OK,Unchecked,0,,25,°C,,2.35,mL,,59.874,g,,59.874,g,,1,g/mL
+4/8/2022 6:52:08 PMSystemInternal,,,,,,,,,,,,,,,,,,1-Jan,,
