@@ -1,0 +1,34 @@
+Results Editor,,,,,,,,,,,,,,,,,,,,
+Result Overview,,,,,,,,,,,,,,,,,,,,
+Sample Index In Scope,Sample ID1,Sample start time,Overall State,Excluded,Correction factor,Unit of Correction factor,Temperature [°C],Unit of Temperature [°C],Comment,Content (R3),Unit of Content (R3),Data markings of Content (R3),Content (R1),Unit of Content (R1),Data markings of Content (R1),Weight [g],Unit of Weight [g],,Density [g/m L],Unit of Density [g/m L]
+1,junk1,4/12/2022 12:53:17 PM,OK,Unchecked,0,,25.0,°C,,2.322,mL,,60.297,g,,60.2970,g,,1.0,g/mL
+2,junk2,4/12/2022 1:03:48 PM,OK,Unchecked,0,,25.0,°C,,2.278,mL,,60.256,g,,60.2564,g,,1.0,g/mL
+3,A,4/12/2022 1:14:06 PM,OK,Unchecked,0,,25.0,°C,,2.332,mL,,60.353,g,,60.3526,g,,1.0,g/mL
+4,B,4/12/2022 1:24:30 PM,OK,Unchecked,0,,25.0,°C,,2.329,mL,,60.106,g,,60.1060,g,,1.0,g/mL
+5,C,4/12/2022 1:34:54 PM,OK,Unchecked,0,,25.0,°C,,2.334,mL,,60.440,g,,60.4401,g,,1.0,g/mL
+6,D,4/12/2022 1:45:19 PM,OK,Unchecked,0,,25.0,°C,,2.320,mL,,60.138,g,,60.1375,g,,1.0,g/mL
+7,E,4/12/2022 1:55:42 PM,OK,Unchecked,0,,25.0,°C,,2.306,mL,,59.690,g,,59.6904,g,,1.0,g/mL
+8,F,4/12/2022 2:06:02 PM,OK,Unchecked,0,,25.0,°C,,2.328,mL,,60.349,g,,60.3493,g,,1.0,g/mL
+9,G,4/12/2022 2:16:27 PM,OK,Unchecked,0,,25.0,°C,,2.316,mL,,60.051,g,,60.0509,g,,1.0,g/mL
+10,H,4/12/2022 2:26:50 PM,OK,Unchecked,0,,25.0,°C,,2.328,mL,,60.231,g,,60.2314,g,,1.0,g/mL
+11,C1,4/12/2022 2:37:14 PM,OK,Unchecked,0,,25.0,°C,,2.308,mL,,60.250,g,,60.2497,g,,1.0,g/mL
+12,C2,4/12/2022 2:47:36 PM,OK,Unchecked,0,,25.0,°C,,2.292,mL,,59.939,g,,59.9387,g,,1.0,g/mL
+13,C3,4/12/2022 2:57:56 PM,OK,Unchecked,0,,25.0,°C,,2.346,mL,,60.197,g,,60.1969,g,,1.0,g/mL
+14,C4,4/12/2022 3:08:24 PM,OK,Unchecked,0,,25.0,°C,,2.300,mL,,60.009,g,,60.0089,g,,1.0,g/mL
+15,C5,4/12/2022 3:18:47 PM,OK,Unchecked,0,,25.0,°C,,2.310,mL,,60.013,g,,60.0134,g,,1.0,g/mL
+16,C6,4/12/2022 3:29:10 PM,OK,Unchecked,0,,25.0,°C,,2.340,mL,,59.890,g,,59.8905,g,,1.0,g/mL
+17,C7,4/12/2022 3:39:36 PM,OK,Unchecked,0,,25.0,°C,,2.302,mL,,59.658,g,,59.6584,g,,1.0,g/mL
+18,C8,4/12/2022 3:49:57 PM,OK,Unchecked,0,,25.0,°C,,2.318,mL,,60.267,g,,60.2674,g,,1.0,g/mL
+19,C9,4/12/2022 4:00:21 PM,OK,Unchecked,0,,25.0,°C,,2.322,mL,,60.208,g,,60.2075,g,,1.0,g/mL
+20,C10,4/12/2022 4:10:45 PM,OK,Unchecked,0,,25.0,°C,,2.307,mL,,60.245,g,,60.2448,g,,1.0,g/mL
+21,C11,4/12/2022 4:21:06 PM,OK,Unchecked,0,,25.0,°C,,2.296,mL,,59.818,g,,59.8181,g,,1.0,g/mL
+22,C12,4/12/2022 4:31:27 PM,OK,Unchecked,0,,25.0,°C,,2.336,mL,,60.451,g,,60.4509,g,,1.0,g/mL
+23,C13,4/12/2022 4:41:52 PM,OK,Unchecked,0,,25.0,°C,,2.338,mL,,60.076,g,,60.0764,g,,1.0,g/mL
+24,C14,4/12/2022 4:52:19 PM,OK,Unchecked,0,,25.0,°C,,2.314,mL,,59.836,g,,59.8357,g,,1.0,g/mL
+25,C15,4/12/2022 5:02:42 PM,OK,Unchecked,0,,25.0,°C,,2.344,mL,,60.309,g,,60.3093,g,,1.0,g/mL
+26,C16,4/12/2022 5:13:10 PM,OK,Unchecked,0,,25.0,°C,,2.321,mL,,60.116,g,,60.1165,g,,1.0,g/mL
+27,C17,4/12/2022 5:23:35 PM,OK,Unchecked,0,,25.0,°C,,2.316,mL,,60.256,g,,60.2561,g,,1.0,g/mL
+28,C18,4/12/2022 5:33:58 PM,OK,Unchecked,0,,25.0,°C,,2.334,mL,,59.705,g,,59.7054,g,,1.0,g/mL
+29,C19,4/12/2022 5:44:26 PM,OK,Unchecked,0,,25.0,°C,,2.344,mL,,59.969,g,,59.9686,g,,1.0,g/mL
+30,C20,4/12/2022 5:54:53 PM,OK,Unchecked,0,,25.0,°C,,2.292,mL,,60.021,g,,60.0208,g,,1.0,g/mL
+4/12/2022 6:08:11 PMSystemInternal,,,,,,,,,,,,,,,,,,1/1,,
