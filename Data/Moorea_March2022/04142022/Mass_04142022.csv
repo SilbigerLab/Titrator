@@ -1,0 +1,24 @@
+Results Editor,,,,,,,,,,,,,,,,,,,,
+Result Overview,,,,,,,,,,,,,,,,,,,,
+Sample Index In Scope,Sample ID1,Sample start time,Overall State,Excluded,Correction factor,Unit of Correction factor,Temperature [°C],Unit of Temperature [°C],Comment,Content (R3),Unit of Content (R3),Data markings of Content (R3),Content (R1),Unit of Content (R1),Data markings of Content (R1),Weight [g],Unit of Weight [g],,Density [g/m L],Unit of Density [g/m L]
+1,Junk1,4/14/2022 1:49:18 PM,OK,Unchecked,0,,25.0,°C,,2.247,mL,,60.403,g,,60.4032,g,,1.0,g/mL
+2,Junk2,4/14/2022 1:59:42 PM,OK,Unchecked,0,,25.0,°C,,2.029,mL,,60.035,g,,60.0346,g,,1.0,g/mL
+3,Junk3,4/14/2022 2:09:28 PM,OK,Unchecked,0,,25.0,°C,,2.250,mL,,60.486,g,,60.4856,g,,1.0,g/mL
+4,CRC_F,4/14/2022 2:19:44 PM,OK,Unchecked,0,,25.0,°C,,2.363,mL,,59.994,g,,59.9936,g,,1.0,g/mL
+5,CRC_G,4/14/2022 2:30:14 PM,OK,Unchecked,0,,25.0,°C,,2.373,mL,,60.362,g,,60.3617,g,,1.0,g/mL
+6,CRC_H,4/14/2022 2:40:45 PM,OK,Unchecked,0,,25.0,°C,,2.344,mL,,59.754,g,,59.7542,g,,1.0,g/mL
+7,CPIT_Bottom,4/14/2022 2:51:13 PM,OK,Unchecked,0,,25.0,°C,,2.353,mL,,60.316,g,,60.3160,g,,1.0,g/mL
+8,CPIT_Bottom_B,4/14/2022 3:01:42 PM,OK,Unchecked,0,,25.0,°C,,2.358,mL,,60.338,g,,60.3379,g,,1.0,g/mL
+9,CPIT_Bottom_C,4/14/2022 3:12:12 PM,OK,Unchecked,0,,25.0,°C,,2.344,mL,,60.044,g,,60.0439,g,,1.0,g/mL
+10,CPIT_Bottom_D,4/14/2022 3:22:40 PM,OK,Unchecked,0,,25.0,°C,,2.340,mL,,59.589,g,,59.5890,g,,1.0,g/mL
+11,CPIT_F,4/14/2022 3:33:09 PM,OK,Unchecked,0,,25.0,°C,,2.328,mL,,59.524,g,,59.5245,g,,1.0,g/mL
+12,CPIT_G,4/14/2022 3:43:35 PM,OK,Unchecked,0,,25.0,°C,,2.369,mL,,60.348,g,,60.3476,g,,1.0,g/mL
+13,CPIT_H,4/14/2022 3:54:05 PM,OK,Unchecked,0,,25.0,°C,,2.318,mL,,59.567,g,,59.5672,g,,1.0,g/mL
+14,CPIT_I,4/14/2022 4:04:29 PM,OK,Unchecked,0,,25.0,°C,,2.337,mL,,59.757,g,,59.7572,g,,1.0,g/mL
+15,CPIT_J,4/14/2022 4:14:56 PM,OK,Unchecked,0,,25.0,°C,,2.362,mL,,60.260,g,,60.2602,g,,1.0,g/mL
+16,CPIT_A,4/14/2022 4:25:27 PM,OK,Unchecked,0,,25.0,°C,,2.284,mL,,60.035,g,,60.0349,g,,1.0,g/mL
+17,CPIT_B,4/14/2022 4:35:47 PM,OK,Unchecked,0,,25.0,°C,,2.321,mL,,59.986,g,,59.9858,g,,1.0,g/mL
+18,CPIT_C,4/14/2022 4:46:12 PM,OK,Unchecked,0,,25.0,°C,,2.329,mL,,60.437,g,,60.4367,g,,1.0,g/mL
+19,CPIT_D,4/14/2022 4:56:38 PM,OK,Unchecked,0,,25.0,°C,,2.320,mL,,59.979,g,,59.9787,g,,1.0,g/mL
+20,CPIT_E,4/14/2022 5:07:06 PM,OK,Unchecked,0,,25.0,°C,,2.286,mL,,60.469,g,,60.4691,g,,1.0,g/mL
+4/14/2022 5:39:08 PMSystemInternal,,,,,,,,,,,,,,,,,,1/1,,
