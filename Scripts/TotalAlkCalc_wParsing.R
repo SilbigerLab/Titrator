@@ -48,17 +48,17 @@ library(tidyverse)
 
 #CHANGE THESE VALUES EVERY DAY----------------------------------------------
 
-path<-"Data/Moorea_March2022/04182022" #the location of all your titration files
+path<-"Data/VarariWellRerun_05162022" #the location of all your titration files
 
-massfile<-"Mass_04182022.csv" # name of your file with masses
+massfile<-"Mass_05162022.csv" # name of your file with masses
 
-titrationfile<-'Titrations-4_18_2022-Silbiger TA (EP)r1.csv'# name of the last titration file run
+titrationfile<-'Titrations-5_16_2022-Silbiger TA (EP)r1.csv'# name of the last titration file run
 
 
 
 # Date that the data were run
 
-date<-'4/18/2022'
+date<-'5/16/2022'
 
 
 #DO NOT CHANGE ANYTHING BELOW THIS LINE UNLESS A NEW BOTTLE OF ACID IS USED
