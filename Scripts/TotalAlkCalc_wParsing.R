@@ -48,7 +48,7 @@ library(tidyverse)
 
 #CHANGE THESE VALUES EVERY DAY----------------------------------------------
 
-path<-"Data/VarariWellRerun_05162022" #the location of all your titration files
+path<-"Data/Moorea_March2022/05162022" #the location of all your titration files
 
 massfile<-"Mass_05162022.csv" # name of your file with masses
 

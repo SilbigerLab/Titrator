@@ -1,0 +1,19 @@
+Results Editor,,,,,,,,,,,,,,,,,,,,
+Result Overview,,,,,,,,,,,,,,,,,,,,
+Sample Index In Scope,Sample ID1,Sample start time,Overall State,Excluded,Correction factor,Unit of Correction factor,Temperature [°C],Unit of Temperature [°C],Comment,Content (R3),Unit of Content (R3),Data markings of Content (R3),Content (R1),Unit of Content (R1),Data markings of Content (R1),Weight [g],Unit of Weight [g],,Density [g/m L],Unit of Density [g/m L]
+1,junk1,5/16/2022 4:15:16 PM,OK,Unchecked,0,,25.0,°C,,2.172,mL,,59.728,g,,59.7281,g,,1.0,g/mL
+2,junk2,5/16/2022 4:25:30 PM,OK,Unchecked,0,,25.0,°C,,2.216,mL,,59.955,g,,59.9549,g,,1.0,g/mL
+3,VRC_A,5/16/2022 4:35:41 PM,OK,Unchecked,0,,25.0,°C,,2.286,mL,,60.021,g,,60.0213,g,,1.0,g/mL
+4,VRC_B,5/16/2022 4:46:01 PM,OK,Unchecked,0,,25.0,°C,,2.266,mL,,59.558,g,,59.5576,g,,1.0,g/mL
+5,VRC_C,5/16/2022 4:56:18 PM,OK,Unchecked,0,,25.0,°C,,2.274,mL,,59.801,g,,59.8006,g,,1.0,g/mL
+6,VRC_D,5/16/2022 5:06:36 PM,OK,Unchecked,0,,25.0,°C,,2.274,mL,,59.905,g,,59.9054,g,,1.0,g/mL
+7,VRC_G,5/16/2022 5:16:54 PM,OK,Unchecked,0,,25.0,°C,,2.276,mL,,59.648,g,,59.6475,g,,1.0,g/mL
+8,VRC_H,5/16/2022 5:27:12 PM,OK,Unchecked,0,,25.0,°C,,2.301,mL,,60.252,g,,60.2516,g,,1.0,g/mL
+9,VRC_J,5/16/2022 5:37:34 PM,OK,Unchecked,0,,25.0,°C,,2.305,mL,,60.181,g,,60.1813,g,,1.0,g/mL
+10,VRC_K,5/16/2022 5:47:56 PM,OK,Unchecked,0,,25.0,°C,,2.307,mL,,60.354,g,,60.3542,g,,1.0,g/mL
+11,VRC_L,5/16/2022 5:58:18 PM,OK,Unchecked,0,,25.0,°C,,2.288,mL,,59.766,g,,59.7657,g,,1.0,g/mL
+12,VRC_M,5/16/2022 6:08:38 PM,OK,Unchecked,0,,25.0,°C,,2.289,mL,,60.262,g,,60.2619,g,,1.0,g/mL
+13,VRC_N,5/16/2022 6:18:58 PM,OK,Unchecked,0,,25.0,°C,,2.277,mL,,59.960,g,,59.9601,g,,1.0,g/mL
+14,VRC_O,5/16/2022 6:29:17 PM,OK,Unchecked,0,,25.0,°C,,2.296,mL,,60.250,g,,60.2503,g,,1.0,g/mL
+15,VRC_P,5/16/2022 6:39:37 PM,OK,Unchecked,0,,25.0,°C,,2.302,mL,,60.432,g,,60.4315,g,,1.0,g/mL
+SystemInternal5/16/2022 7:01:31 PM,,,,,,,,,,,,,,,,,,1/1,,
