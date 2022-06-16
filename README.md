@@ -12,3 +12,5 @@ We have a Mettler Toledo T5 automatic titrator and an InMotion Pro sample change
 
 
 [Mixing Mercuric Chloride solution for poisoning water samples](Protocols/Mercuric_Chloride_SOP.md)
+
+[Ordering and returning carbonate chemistry solutions to Dickson Lab](https://github.com/SilbigerLab/Titrator/blob/master/Protocols/Ordering-Returning_Solutions_SOP.md)
