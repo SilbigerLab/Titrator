@@ -11,7 +11,7 @@
 * Certified Reference Material (CRM)
 
 <a name="Ordering"></a> **Ordering Bottles**
-1. Complete the UCSD Dickson Lab order form and send email to co2crms@ucsd.edu cc'ing Silbiger - See additional bottle fee information
+1. Complete the [UCSD Dickson Lab order form](https://github.com/SilbigerLab/Titrator/blob/master/CRM%20order%20220523%20(1).docx) and send email to co2crms@ucsd.edu cc'ing Silbiger - See additional [bottle fee information](https://github.com/SilbigerLab/Titrator/blob/master/RM%20cost%20increase%20letter.pdf)
 
 <a name="Returning"></a> **Returning Bottles**
 1. Gather all empty bottles and their original packages (including box, styrofoam dividers, and bottle top clips and bands).  Place all bottles in their original boxes, making sure the bottles are completely empty and sealed, ready for shipment.
