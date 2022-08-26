@@ -11,10 +11,11 @@
 * Certified Reference Material (CRM)
 
 <a name="Ordering"></a> **Ordering Bottles**
-
+1. Complete the [UCSD Dickson Lab order form](https://github.com/SilbigerLab/Titrator/blob/master/CRM%20order%20220523%20(1).docx) and send email to co2crms@ucsd.edu cc'ing Silbiger - See additional [bottle fee information](https://github.com/SilbigerLab/Titrator/blob/master/RM%20cost%20increase%20letter.pdf)
 
 <a name="Returning"></a> **Returning Bottles**
-1. Gather all empty bottles and their original packages (including box, styrofoam dividers, and bottle top clips and bands).  Place all bottles in their original boxes, making sure the bottles are completely empty and sealed, ready for shipment.
+1. Gather all empty bottles and their original packages (including box, styrofoam dividers, and bottle top clips and bands).  Place all bottles in their original boxes, making sure the bottles are completely empty and sealed, ready for shipment. Some boxes will already have return labels. Use those if possible. 
+1. **PREFERRED if for NSF grants** Use purchase card and take items to local USPS store. 
 1. If one is not already set up, start a Chargeback account for Nyssa for FedEx shipments on campus.
     1. Email Sarah Cohen (sarah.cohen@csun.edu) and CC Nyssa (nyssa.silbiger@csun.edu) to set up the chargeback and establish the cash amount.
 1. Retrieve a printout of the chargeback from Vickie and tape this printout to the side of the box (one printout per box).
@@ -40,3 +41,4 @@
     * Tape this informaiton on the package so it is easily read and not covering the chargeback form.
 1. Email the CRM Lab to notify their lab of an upcoming delivery.  Include the contents of the shipment (i.e. solution type, batch number, and number of bottles for each).
 1. Drop the package(s) off at the back desk in the Biology Department Office (behind Cherie's desk, across from Vickie's office).
+
