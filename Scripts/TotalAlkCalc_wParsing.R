@@ -38,8 +38,8 @@ main<-getwd()
 #load libraries----------------------------------------------
 
 # Until seacarb is updated to include function at() again, use previous version 3.2.14
-#require(devtools)
-#install_version("seacarb", version = "3.2.14", repos = "http://cran.us.r-project.org", dependencies = TRUE)
+# require(devtools)
+# install_version("seacarb", version = "3.2.14", repos = "http://cran.us.r-project.org", dependencies = TRUE)
 library(seacarb)#used to calculate TA
 
 library(tidyverse)
@@ -48,17 +48,18 @@ library(tidyverse)
 
 #CHANGE THESE VALUES EVERY DAY----------------------------------------------
 
-path<-"Data/Moorea_March2022/06022022" #the location of all your titration files
+path<-"Data/RDellinger/08222022" #the location of all your titration files
 
-massfile<-"Mass_06022022.csv" # name of your file with masses
+massfile<-"Mass_08222022.csv" # name of your file with masses
 
-titrationfile<-'Titrations-6_2_2022-Silbiger TA (EP)r1.csv'# name of the last titration file run
+titrationfile<-'Titrations-8_22_2022-Silbiger TA (EP)r1.csv'# name of the last titration file run
 
 
 
 # Date that the data were run
 
-date<-'6/2/2022'
+date<-'8/17/2022'
+
 
 
 #DO NOT CHANGE ANYTHING BELOW THIS LINE UNLESS A NEW BOTTLE OF ACID IS USED
@@ -244,7 +245,7 @@ for(i in 1:nrows) {
   
   #Salinity of your samples
   
-  s<-33.623
+  s<-34
   #s<-sample_sal
   
   #s<-Mass[name,2]
