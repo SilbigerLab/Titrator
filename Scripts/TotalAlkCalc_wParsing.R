@@ -212,7 +212,7 @@ for(i in 1:nrows) {
   
   #CHANGE ONLY WHEN NEW BOTTLE OF ACID IS USED----------------------------------
   
-  #Bottle #72 #1/7/2020 , 
+  #Bottle #484 #3/12/2020 , 
   
   #density of your titrant: change every time acid is changed
   
@@ -221,20 +221,23 @@ for(i in 1:nrows) {
   #d<-100*(-0.00000410*mean(Data$Temperature[mV], na.rm=T)^2-0.0001067*mean(Data$Temperature[mV], na.rm=T)+1.02882)/1000 #03/8/18
   
   #d<-(-0.00000410*mean(Data$Temperature[mV], na.rm=T)^2-0.0001067*mean(Data$Temperature[mV], na.rm=T)+1.02882) #03/8/18
-  d<-(-0.00000410*mean(Data$Temperature[mV], na.rm=T)^2-0.0001065*mean(Data$Temperature[mV], na.rm=T)+1.02884) #03/8/18
+  #d<-(-0.00000410*mean(Data$Temperature[mV], na.rm=T)^2-0.0001065*mean(Data$Temperature[mV], na.rm=T)+1.02884) #03/8/18
+  d<-(-0.00000410*mean(Data$Temperature[mV], na.rm=T)^2-0.0001069*mean(Data$Temperature[mV], na.rm=T)+1.02888) #03/8/18
   
   
   
   #11/27/2019 & 1/7/2020 batch A16
   #9/7/2021 batch A16 (replacing batch opened 11/27/2019)
+  #3/12/2020 batch A21 replaced 8/26/2022
  
   
   
   
   #concentration of your titrant: CHANGE EVERYTIME ACID IS CHANGED 
   
-  c<-0.100010 #11/27/2019 and 9/7/2021
+#  c<-0.100010 #11/27/2019 and 9/7/2021
  # c<-0.0973#10/5 back calculating
+  c<-0.100179 #8/26/2022
 
   
   
