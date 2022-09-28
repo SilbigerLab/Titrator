@@ -1,7 +1,7 @@
-﻿# Standard Protocol Procedure for Using the Titrator
+# Standard Protocol Procedure for Using the Titrator
 
 Original: 3/5/2018
-Last Revised: 2/10/2019
+Last Revised: 9/28/2022
 
 Contents
 - [**Materials**](#Materials)
@@ -15,7 +15,7 @@ Contents
 - [**Data Analysis**](#Data_Analysis) 
 - [**Clean Up**](#Clean_Up) 
 - [**Troubleshooting**](#Troubleshooting)
-- [**Replacing_HCl_for_titrator**](#Replacing_HCl_for_titrator)
+- [**Replacing HCl for titrator**](#Replacing_HCl_for_titrator)
 
 --- 
 
