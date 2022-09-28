@@ -15,6 +15,7 @@ Contents
 - [**Data Analysis**](#Data_Analysis) 
 - [**Clean Up**](#Clean_Up) 
 - [**Troubleshooting**](#Troubleshooting)
+- [**Replacing_HCl_for_titrator**](#Replacing_HCl_for_titrator)
 
 --- 
 
@@ -197,7 +198,7 @@ Shut off both Titrator and Autosampler.
  		2. Make sure the probe storage solution is always filled to fully submerge the probe tip when not in use
  		3. After use, make sure the gray cap is closed to avoid evaporation or loss of internal KCl solution.
 
-12. <a name="Replacing Titrator Acid"></a> **Replacing Titrator Acid**
+12. <a name="Replacing_HCl_for_titrator"></a> **Replacing_HCl_for_titrator**
 	1. When acid level gets low in glass container, replace with new HCl- from the Dickson lab. 
 	1. If it is the same batch number, you can pour the newly opened acid directly into the container **using PPE**
 	1. If it is not the same batch number, purge the system at least 5 times.
