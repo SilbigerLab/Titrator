@@ -197,6 +197,20 @@ Shut off both Titrator and Autosampler.
  		2. Make sure the probe storage solution is always filled to fully submerge the probe tip when not in use
  		3. After use, make sure the gray cap is closed to avoid evaporation or loss of internal KCl solution.
 
+12. <a name="Replacing Titrator Acid"></a> **Replacing Titrator Acid**
+	1. When acid level gets low in glass container, replace with new HCl- from the Dickson lab. 
+	1. If it is the same batch number, you can pour the newly opened acid directly into the container **using PPE**
+	1. If it is not the same batch number, purge the system at least 5 times.
+		1.  Undo the acid container and combine the remaining acid with DI water to dilute it enough before dumping down the sink. Rinse container again with DI water and let container sit at least 24 hrs until it is dry.
+	1. Open new Batch # acid container and pour into cleaned and dried glass jug. **note with every new acid you will need to change the Titrator R Script**
+	1. Twist on top with tubing into glass container with new acid, purge at least 5 times to reset acid in the tubing.
+	1. Update Titrator R Script with batch number, date opened, hydrochloric acid concentration, and density of acid that can be found on the packet from the Dickson lab in the shipment box of the HCl-. See previous code for examples.
+	1. Run at least three junk and 2 CRM samples after replacing the acid.
+	1. If TA is within 5 units and CRM accuracy is less than 1% then the Titration code and acid is good to go.
+	1. If the TA is within 5 units and CRM accuracy is still off, change the concentration of the HCl- to be in between the previous batch and current batch to see if that makes the CRM accuracy better. **Comment out current batch concentration code. Do not delete**
+	1. After 1-2 titration runs, you may need to change the HCl- concentration back to the current batch.
+	1. When in doubt, ask Dr. Silbiger for assistance.
+
 
 
 
