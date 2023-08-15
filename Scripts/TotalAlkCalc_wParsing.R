@@ -38,9 +38,9 @@ main<-getwd()
 #load libraries----------------------------------------------
 
 # Until seacarb is updated to include function at() again, use previous version 3.2.14
-# require(devtools)
-# install_version("seacarb", version = "3.2.14", repos = "http://cran.us.r-project.org", dependencies = TRUE)
-library(seacarb)#used to calculate TA
+#require(devtools)
+ #install_version("seacarb", version = "3.2.14", repos = "http://cran.us.r-project.org", dependencies = TRUE)
+  library(seacarb)#used to calculate TA
 
 library(tidyverse)
 
@@ -48,17 +48,17 @@ library(tidyverse)
 
 #CHANGE THESE VALUES EVERY DAY----------------------------------------------
 
-path<-"Data/RDellinger/08222022" #the location of all your titration files
+path<-"Data/TestRunJunk_20230809" #the location of all your titration files
 
-massfile<-"Mass_08222022.csv" # name of your file with masses
+massfile<-"Mass_20230809.csv" # name of your file with masses
 
-titrationfile<-'Titrations-8_22_2022-Silbiger TA (EP)r1.csv'# name of the last titration file run
+titrationfile<-'Titrations-8_9_2023-Silbiger TA (EP)r1.csv'# name of the last titration file run
 
 
 
 # Date that the data were run
 
-date<-'8/17/2022'
+date<-'8/9/2023'
 
 
 
@@ -222,13 +222,13 @@ for(i in 1:nrows) {
   
   #d<-(-0.00000410*mean(Data$Temperature[mV], na.rm=T)^2-0.0001067*mean(Data$Temperature[mV], na.rm=T)+1.02882) #03/8/18
   #d<-(-0.00000410*mean(Data$Temperature[mV], na.rm=T)^2-0.0001065*mean(Data$Temperature[mV], na.rm=T)+1.02884) #03/8/18
-  d<-(-0.00000410*mean(Data$Temperature[mV], na.rm=T)^2-0.0001069*mean(Data$Temperature[mV], na.rm=T)+1.02888) #03/8/18
-  
-  
+  #d<-(-0.00000410*mean(Data$Temperature[mV], na.rm=T)^2-0.0001069*mean(Data$Temperature[mV], na.rm=T)+1.02888) #03/12/2020
+  d<-(-0.0000040*mean(Data$Temperature[mV], na.rm=T)^2-0.0001108*mean(Data$Temperature[mV], na.rm=T)+1.02878)   #07/22/2021 <-- batch date
   
   #11/27/2019 & 1/7/2020 batch A16
   #9/7/2021 batch A16 (replacing batch opened 11/27/2019)
   #3/12/2020 batch A21 replaced 8/26/2022
+  #07/22/2021 batch A21 replaced with A23 12/19/2022
  
   
   
@@ -237,8 +237,10 @@ for(i in 1:nrows) {
   
 #  c<-0.100010 #11/27/2019 and 9/7/2021
  # c<-0.0973#10/5 back calculating
-  c<-0.100179 #8/26/2022
+   #c<-0.100179 #8/26/2022
+   c<-0.100025 #12/19/2022
 
+  #c<-0.099 #8/26/2022
   
   
   
@@ -267,7 +269,7 @@ for(i in 1:nrows) {
   
   
   
-  #at function is based on code in saecarb package by Steeve Comeau, Heloise Lavigne and Jean-Pierre Gattuso
+  #at function is based on code in seacarb package by Steeve Comeau, Heloise Lavigne and Jean-Pierre Gattuso
   
   TA[i,1]<-name
   

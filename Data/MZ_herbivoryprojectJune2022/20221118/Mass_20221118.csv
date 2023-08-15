@@ -1,0 +1,31 @@
+Results Editor,,,,,,,,,,,,,,,,,,,,
+Result Overview,,,,,,,,,,,,,,,,,,,,
+Sample Index In Scope,Sample ID1,Sample start time,Overall State,Excluded,Correction factor,Unit of Correction factor,Temperature [°C],Unit of Temperature [°C],Comment,Content (R3),Unit of Content (R3),Data markings of Content (R3),Content (R1),Unit of Content (R1),Data markings of Content (R1),Weight [g],Unit of Weight [g],,Density [g/m L],Unit of Density [g/m L]
+1,junk1,11/18/2022 12:40:16 PM,OK,Unchecked,0,,25.0,°C,,2.460,mL,,59.558,g,,59.5585,g,,1.0,g/mL
+2,junk2,11/18/2022 12:51:05 PM,OK,Unchecked,0,,25.0,°C,,2.482,mL,,60.229,g,,60.2288,g,,1.0,g/mL
+3,junk3,11/18/2022 1:01:50 PM,OK,Unchecked,0,,25.0,°C,,2.430,mL,,60.486,g,,60.4861,g,,1.0,g/mL
+4,SandAmb1_0615_7_30,11/18/2022 1:12:25 PM,OK,Unchecked,0,,25.0,°C,,2.417,mL,,59.956,g,,59.9563,g,,1.0,g/mL
+5,SandAmb2_0615_7:30,11/18/2022 1:22:58 PM,OK,Unchecked,0,,25.0,°C,,2.402,mL,,59.542,g,,59.5421,g,,1.0,g/mL
+6,SandAmb3_0615_7:30,11/18/2022 1:33:32 PM,OK,Unchecked,0,,25.0,°C,,2.452,mL,,59.616,g,,59.6159,g,,1.0,g/mL
+7,SandAmb1_0615_13_30,11/18/2022 1:44:13 PM,OK,Unchecked,0,,25.0,°C,,2.401,mL,,59.572,g,,59.5723,g,,1.0,g/mL
+8,SandAmb2_0615_13_30,11/18/2022 1:54:45 PM,OK,Unchecked,0,,25.0,°C,,2.453,mL,,59.892,g,,59.8920,g,,1.0,g/mL
+9,SandAmb3_0615_13_30,11/18/2022 2:05:25 PM,OK,Unchecked,0,,25.0,°C,,2.472,mL,,60.188,g,,60.1877,g,,1.0,g/mL
+10,SandAmb1_0615_20_00,11/18/2022 2:16:06 PM,OK,Unchecked,0,,25.0,°C,,2.459,mL,,60.058,g,,60.0584,g,,1.0,g/mL
+11,SandAmb2_0615_20_00,11/18/2022 2:26:47 PM,OK,Unchecked,0,,25.0,°C,,2.402,mL,,59.857,g,,59.8570,g,,1.0,g/mL
+12,SandAmb3_0615_20_00,11/18/2022 2:37:21 PM,OK,Unchecked,0,,25.0,°C,,2.446,mL,,59.757,g,,59.7569,g,,1.0,g/mL
+13,SandAmb1_0615_2_00,11/18/2022 2:47:59 PM,OK,Unchecked,0,,25.0,°C,,2.438,mL,,59.509,g,,59.5094,g,,1.0,g/mL
+14,SandAmb2_0615_2_00,11/18/2022 2:58:38 PM,OK,Unchecked,0,,25.0,°C,,2.468,mL,,60.067,g,,60.0674,g,,1.0,g/mL
+15,SandAmb3_0615_2_00,11/18/2022 3:09:19 PM,OK,Unchecked,0,,25.0,°C,,2.451,mL,,59.600,g,,59.6002,g,,1.0,g/mL
+16,ReefAmb1_0615_2_00,11/18/2022 3:19:57 PM,OK,Unchecked,0,,25.0,°C,,2.444,mL,,59.655,g,,59.6554,g,,1.0,g/mL
+17,ReefAmb2_0615_2_00,11/18/2022 3:30:36 PM,OK,Unchecked,0,,25.0,°C,,2.435,mL,,59.544,g,,59.5440,g,,1.0,g/mL
+18,ReefAmb3_0615_2_00,11/18/2022 3:41:14 PM,OK,Unchecked,0,,25.0,°C,,2.402,mL,,59.521,g,,59.5208,g,,1.0,g/mL
+19,ReefAmb1_0615_7_30,11/18/2022 3:51:48 PM,OK,Unchecked,0,,25.0,°C,,2.412,mL,,59.953,g,,59.9533,g,,1.0,g/mL
+20,ReefAmb2_0615_7_30,11/18/2022 4:02:23 PM,OK,Unchecked,0,,25.0,°C,,2.386,mL,,59.536,g,,59.5358,g,,1.0,g/mL
+21,ReefAmb3_0615_7_30,11/18/2022 4:12:54 PM,OK,Unchecked,0,,25.0,°C,,2.428,mL,,60.118,g,,60.1182,g,,1.0,g/mL
+22,ReefAmb1_0615_13_30,11/18/2022 4:23:31 PM,OK,Unchecked,0,,25.0,°C,,2.443,mL,,59.840,g,,59.8402,g,,1.0,g/mL
+23,ReefAmb2_0615_13_30,11/18/2022 4:34:09 PM,OK,Unchecked,0,,25.0,°C,,2.416,mL,,60.110,g,,60.1104,g,,1.0,g/mL
+24,ReefAmb3_0615_13_30,11/18/2022 4:44:45 PM,OK,Unchecked,0,,25.0,°C,,2.436,mL,,59.632,g,,59.6319,g,,1.0,g/mL
+25,ReefAmb1_0615_20_00,11/18/2022 4:55:23 PM,OK,Unchecked,0,,25.0,°C,,2.406,mL,,60.043,g,,60.0429,g,,1.0,g/mL
+26,ReefAmb2_0615_20,11/18/2022 5:05:57 PM,OK,Unchecked,0,,25.0,°C,,2.396,mL,,59.806,g,,59.8064,g,,1.0,g/mL
+27,ReefAmb3_0615_20_00,11/18/2022 5:16:30 PM,OK,Unchecked,0,,25.0,°C,,2.478,mL,,60.219,g,,60.2188,g,,1.0,g/mL
+SystemInternal11/18/2022 5:28:43 PM,,,,,,,,,,,,,,,,,,1/1,,

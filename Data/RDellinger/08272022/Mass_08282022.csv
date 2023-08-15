@@ -1,0 +1,22 @@
+Results Editor,,,,,,,,,,,,,,,,,,,,
+Result Overview,,,,,,,,,,,,,,,,,,,,
+Sample Index In Scope,Sample ID1,Sample start time,Overall State,Excluded,Correction factor,Unit of Correction factor,Temperature [°C],Unit of Temperature [°C],Comment,Content (R3),Unit of Content (R3),Data markings of Content (R3),Content (R1),Unit of Content (R1),Data markings of Content (R1),Weight [g],Unit of Weight [g],,Density [g/m L],Unit of Density [g/m L]
+1,junk,8/27/2022 21:30,OK,Unchecked,0,,25,°C,,2.514,mL,,59.68,g,,59.6803,g,,1,g/mL
+2,TNK-2,8/27/2022 21:40,Not OK,Unchecked,0,,25,°C,,NaN,mL,,59.604,g,,59.6038,g,,1,g/mL
+3,TNK-3,8/27/2022 21:50,OK,Unchecked,0,,25,°C,,2.504,mL,,60.317,g,,60.317,g,,1,g/mL
+4,TNK-4,8/27/2022 22:01,OK,Unchecked,0,,25,°C,,2.44,mL,,59.719,g,,59.719,g,,1,g/mL
+5,TNK-5,8/27/2022 22:11,OK,Unchecked,0,,25,°C,,2.508,mL,,60.453,g,,60.453,g,,1,g/mL
+6,TNK-6,8/27/2022 22:22,OK,Unchecked,0,,25,°C,,2.496,mL,,60.396,g,,60.3957,g,,1,g/mL
+7,TNK-7,8/27/2022 22:33,OK,Unchecked,0,,25,°C,,2.488,mL,,60.115,g,,60.1148,g,,1,g/mL
+8,TNK-8,8/27/2022 22:44,OK,Unchecked,0,,25,°C,,2.495,mL,,60.467,g,,60.4674,g,,1,g/mL
+9,TNK-9,8/27/2022 22:54,OK,Unchecked,0,,25,°C,,2.491,mL,,60.369,g,,60.3694,g,,1,g/mL
+10,TNK-10,8/27/2022 23:05,OK,Unchecked,0,,25,°C,,2.498,mL,,59.678,g,,59.6781,g,,1,g/mL
+11,TNK-11,8/27/2022 23:16,OK,Unchecked,0,,25,°C,,2.466,mL,,59.808,g,,59.8085,g,,1,g/mL
+12,TNK-12,8/27/2022 23:27,OK,Unchecked,0,,25,°C,,2.472,mL,,60.092,g,,60.092,g,,1,g/mL
+13,TNK-13,8/27/2022 23:37,OK,Unchecked,0,,25,°C,,2.455,mL,,59.649,g,,59.6488,g,,1,g/mL
+14,TNK-14,8/27/2022 23:48,OK,Unchecked,0,,25,°C,,2.48,mL,,60.484,g,,60.4837,g,,1,g/mL
+15,TNK-15,8/27/2022 23:59,OK,Unchecked,0,,25,°C,,2.464,mL,,60.021,g,,60.0208,g,,1,g/mL
+16,TNK-16,8/28/2022 0:09,OK,Unchecked,0,,25,°C,,2.472,mL,,59.94,g,,59.9399,g,,1,g/mL
+17,TNK-18,8/28/2022 0:20,OK,Unchecked,0,,25,°C,,2.462,mL,,59.821,g,,59.8214,g,,1,g/mL
+18,TNK-SUMP,8/28/2022 0:31,OK,Unchecked,0,,25,°C,,2.468,mL,,60.176,g,,60.1755,g,,1,g/mL
+SystemInternal8/28/2022 4:13:05 PM,,,,,,,,,,,,,,,,,,1-Jan,,

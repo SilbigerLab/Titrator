@@ -1,0 +1,21 @@
+Results Editor,,,,,,,,,,,,,,,,,,,,
+Result Overview,,,,,,,,,,,,,,,,,,,,
+Sample Index In Scope,Sample ID1,Sample start time,Overall State,Excluded,Correction factor,Unit of Correction factor,Temperature [°C],Unit of Temperature [°C],Comment,Content (R3),Unit of Content (R3),Data markings of Content (R3),Content (R1),Unit of Content (R1),Data markings of Content (R1),Weight [g],Unit of Weight [g],,Density [g/m L],Unit of Density [g/m L]
+1,JUNK1,4/6/2023 11:55:50 AM,OK,Unchecked,0,,25.0,°C,,2.494,mL,,60.454,g,,60.4542,g,,1.0,g/mL
+2,JUNK2,4/6/2023 12:06:44 PM,OK,Unchecked,0,,25.0,°C,,2.482,mL,,59.681,g,,59.6806,g,,1.0,g/mL
+3,DH_LOW,4/6/2023 12:17:31 PM,OK,Unchecked,0,,25.0,°C,,2.490,mL,,60.180,g,,60.1803,g,,1.0,g/mL
+4,DL_0800_LOW_SGD_20230310,4/6/2023 12:28:15 PM,OK,Unchecked,0,,25.0,°C,,2.505,mL,,59.929,g,,59.9290,g,,1.0,g/mL
+5,NL_1930_LOW_SGD_2030309,4/6/2023 12:39:02 PM,OK,Unchecked,0,,25.0,°C,,2.474,mL,,59.728,g,,59.7275,g,,1.0,g/mL
+6,NH_0200_LOW_SGD_20230310,4/6/2023 12:49:46 PM,OK,Unchecked,0,,25.0,°C,,2.488,mL,,59.801,g,,59.8013,g,,1.0,g/mL
+7,JUNK3,4/6/2023 1:00:28 PM,OK,Unchecked,0,,25.0,°C,,2.552,mL,,60.447,g,,60.4468,g,,1.0,g/mL
+8,NH_0200_HIGH_SGD_20230310,4/6/2023 1:11:20 PM,OK,Unchecked,0,,25.0,°C,,2.510,mL,,60.284,g,,60.2842,g,,1.0,g/mL
+9,DL_0800_HIGH_SGD_20230310,4/6/2023 1:22:06 PM,OK,Unchecked,0,,25.0,°C,,2.514,mL,,60.016,g,,60.0158,g,,1.0,g/mL
+10,NL_1930_HIGH_SGD_20230309,4/6/2023 1:32:55 PM,OK,Unchecked,0,,25.0,°C,,2.502,mL,,60.426,g,,60.4259,g,,1.0,g/mL
+11,DH_HIGH,4/6/2023 1:43:42 PM,OK,Unchecked,0,,25.0,°C,,2.484,mL,,60.074,g,,60.0737,g,,1.0,g/mL
+12,SEEP_MID_16:30_20230309,4/6/2023 1:54:26 PM,OK,Unchecked,0,,25.0,°C,,2.627,mL,,60.329,g,,60.3287,g,,1.0,g/mL
+13,SEEP_MID_2230_20230309,4/6/2023 2:05:29 PM,OK,Unchecked,0,,25.0,°C,,2.576,mL,,60.085,g,,60.0850,g,,1.0,g/mL
+14,SEEP_NL_1930_20230309,4/6/2023 2:16:24 PM,OK,Unchecked,0,,25.0,°C,,2.756,mL,,59.894,g,,59.8935,g,,1.0,g/mL
+15,SEEP_NH_0200_20230310,4/6/2023 2:27:42 PM,OK,Unchecked,0,,25.0,°C,,2.498,mL,,59.825,g,,59.8251,g,,1.0,g/mL
+16,SEEP_DL_0800_20230310,4/6/2023 2:38:28 PM,OK,Unchecked,0,,25.0,°C,,2.649,mL,,60.198,g,,60.1980,g,,1.0,g/mL
+17,SEEP_DH,4/6/2023 2:49:33 PM,OK,Unchecked,0,,25.0,°C,,2.508,mL,,59.698,g,,59.6978,g,,1.0,g/mL
+SystemInternal4/11/2023 12:38:01 PM,,,,,,,,,,,,,,,,,,1/1,,

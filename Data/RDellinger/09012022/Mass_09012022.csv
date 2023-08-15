@@ -1,0 +1,23 @@
+Results Editor,,,,,,,,,,,,,,,,,,,,
+Result Overview,,,,,,,,,,,,,,,,,,,,
+Sample Index In Scope,Sample ID1,Sample start time,Overall State,Excluded,Correction factor,Unit of Correction factor,Temperature [°C],Unit of Temperature [°C],Comment,Content (R3),Unit of Content (R3),Data markings of Content (R3),Content (R1),Unit of Content (R1),Data markings of Content (R1),Weight [g],Unit of Weight [g],,Density [g/m L],Unit of Density [g/m L]
+1,Junk,9/1/2022 1:10:37 PM,OK,Unchecked,0,,25.0,°C,,2.475,mL,,60.016,g,,60.0156,g,,1.0,g/mL
+2,TNK-2,9/1/2022 1:21:26 PM,OK,Unchecked,0,,25.0,°C,,2.564,mL,,60.274,g,,60.2740,g,,1.0,g/mL
+3,TNK-3,9/1/2022 1:32:19 PM,OK,Unchecked,0,,25.0,°C,,2.550,mL,,60.350,g,,60.3499,g,,1.0,g/mL
+4,TNK-4,9/1/2022 1:43:10 PM,OK,Unchecked,0,,25.0,°C,,2.580,mL,,60.271,g,,60.2710,g,,1.0,g/mL
+5,TNK-5,9/1/2022 1:54:03 PM,OK,Unchecked,0,,25.0,°C,,2.542,mL,,60.027,g,,60.0270,g,,1.0,g/mL
+6,TNK-6,9/1/2022 2:04:54 PM,OK,Unchecked,0,,25.0,°C,,2.546,mL,,60.376,g,,60.3763,g,,1.0,g/mL
+7,TNK-7,9/1/2022 2:15:48 PM,OK,Unchecked,0,,25.0,°C,,2.546,mL,,60.273,g,,60.2732,g,,1.0,g/mL
+8,TNK-8,9/1/2022 2:26:40 PM,OK,Unchecked,0,,25.0,°C,,2.528,mL,,60.196,g,,60.1965,g,,1.0,g/mL
+9,TNK-9,9/1/2022 2:37:29 PM,OK,Unchecked,0,,25.0,°C,,2.530,mL,,60.168,g,,60.1678,g,,1.0,g/mL
+10,TNK-10,9/1/2022 2:48:19 PM,OK,Unchecked,0,,25.0,°C,,2.534,mL,,60.368,g,,60.3677,g,,1.0,g/mL
+11,TNK-11,9/1/2022 2:59:08 PM,OK,Unchecked,0,,25.0,°C,,2.535,mL,,60.303,g,,60.3026,g,,1.0,g/mL
+12,TNK-12,9/1/2022 3:09:59 PM,OK,Unchecked,0,,25.0,°C,,2.527,mL,,60.136,g,,60.1365,g,,1.0,g/mL
+13,TNK-13,9/1/2022 3:20:49 PM,OK,Unchecked,0,,25.0,°C,,2.542,mL,,60.398,g,,60.3982,g,,1.0,g/mL
+14,TNK-14,9/1/2022 3:31:40 PM,OK,Unchecked,0,,25.0,°C,,2.548,mL,,60.445,g,,60.4454,g,,1.0,g/mL
+15,TNK-15,9/1/2022 3:42:31 PM,OK,Unchecked,0,,25.0,°C,,2.522,mL,,59.972,g,,59.9719,g,,1.0,g/mL
+16,TNK-16,9/1/2022 3:53:20 PM,OK,Unchecked,0,,25.0,°C,,2.516,mL,,59.990,g,,59.9896,g,,1.0,g/mL
+17,TNK-18,9/1/2022 4:04:06 PM,OK,Unchecked,0,,25.0,°C,,2.533,mL,,60.351,g,,60.3513,g,,1.0,g/mL
+18,TNK-SUMP,9/1/2022 4:14:54 PM,OK,Unchecked,0,,25.0,°C,,2.534,mL,,59.983,g,,59.9834,g,,1.0,g/mL
+19,CRM,9/1/2022 4:25:43 PM,OK,Unchecked,0,,25.0,°C,,2.410,mL,,60.228,g,,60.2284,g,,1.0,g/mL
+SystemInternal9/1/2022 8:31:30 PM,,,,,,,,,,,,,,,,,,1/1,,
