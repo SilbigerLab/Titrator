@@ -48,17 +48,17 @@ library(tidyverse)
 
 #CHANGE THESE VALUES EVERY DAY----------------------------------------------
 
-path<-"Data/TestRunJunk_20230809" #the location of all your titration files
+path<-"Data/Megan_samples_20230816" #the location of all your titration files
 
-massfile<-"Mass_20230809.csv" # name of your file with masses
+massfile<-"mass_data.csv" # name of your file with masses
 
-titrationfile<-'Titrations-8_9_2023-Silbiger TA (EP)r1.csv'# name of the last titration file run
+titrationfile<-'Titrations-8_16_2023-Silbiger TA (EP)r1.csv'# name of the last titration file run
 
 
 
 # Date that the data were run
 
-date<-'8/9/2023'
+date<-'8/16/2023'
 
 
 
@@ -68,8 +68,7 @@ date<-'8/9/2023'
 
 #load Mass Data
 
-Mass<-read.csv(file.path(path,massfile), header=T, sep=",", na.string="NA", as.is=T, skip=2) 
-
+Mass<-read.csv(file.path(path,massfile), header=T, sep=",", na.string="NA", as.is=T, skip=2,fileEncoding='latin1',check.names=F) 
 
 
 #### pH Calibration #####
@@ -130,13 +129,17 @@ colnames(TA)<-c("SampleID",'TA','Mass','Sample.Index')
 
 # only keep sample ID and weight and remove the extra stuff at the bottom
 
-Mass<-Mass[1:nrows,c('Sample.ID1','Weight..g.','Sample.Index.In.Scope')]
+#Mass<-Mass[1:nrows,c('Sample.ID1','Weight..g.','Sample.Index.In.Scope')]
 
+Mass<-Mass[1:nrows,]
 
+Mass <- Mass %>%
+  select("Sample.ID1" =`Sample ID1`, "Weight..g." = `Weight [g]`,
+         "Sample.Index.In.Scope" = `Sample Index In Scope`)
 
 #run a for loop to bring in the titration files one at a time and calculate TA
 
-# read in the mega titration file
+# read in the mega titration filem
 
 filename<-file.path(path,titrationfile)
 
@@ -238,8 +241,8 @@ for(i in 1:nrows) {
 #  c<-0.100010 #11/27/2019 and 9/7/2021
  # c<-0.0973#10/5 back calculating
    #c<-0.100179 #8/26/2022
-   c<-0.100025 #12/19/2022
-
+   #c<-0.100025 #12/19/2022
+   c<-0.1123 ##8/16/2023... changed acid conc
   #c<-0.099 #8/26/2022
   
   
@@ -258,6 +261,8 @@ for(i in 1:nrows) {
   #mass of sample in g: changed with every sample
   
   #mass<-Mass[name,1]
+  
+  #mass<-Mass[Mass$Sample.ID1==name,2]
   
   mass<-Mass[Mass$Sample.ID1==name,2]
   
@@ -285,7 +290,7 @@ TA[,2:4]<-sapply(TA[,2:4], as.numeric) # make sure the appropriate columns are n
 
 # Add line for controlling for evvaporation
 salt<-seq(from = 35, length.out = length(sample_names), by = 0.02)
-TA$TA_evap<-TA$TA*35/salt
+#TA$TA_evap<-TA$TA*35/salt
 
 #exports your data as a CSV file
 
