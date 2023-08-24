@@ -34,13 +34,13 @@ rm(list=ls())
 main<-getwd()
 
 
-
 #load libraries----------------------------------------------
 
 # Until seacarb is updated to include function at() again, use previous version 3.2.14
 #require(devtools)
- #install_version("seacarb", version = "3.2.14", repos = "http://cran.us.r-project.org", dependencies = TRUE)
-  library(seacarb)#used to calculate TA
+#install_version("seacarb", version = "3.2.14", repos = "http://cran.us.r-project.org", dependencies = TRUE)
+  
+library(seacarb)#used to calculate TA
 
 library(tidyverse)
 
@@ -48,17 +48,17 @@ library(tidyverse)
 
 #CHANGE THESE VALUES EVERY DAY----------------------------------------------
 
-path<-"Data/Megan_samples_20230816" #the location of all your titration files
+path<-"Data/Megan_samples_20230823" #the location of all your titration files
 
-massfile<-"mass_data.csv" # name of your file with masses
+massfile<-"Mass_20230823.csv" # name of your file with masses
 
-titrationfile<-'Titrations-8_16_2023-Silbiger TA (EP)r1.csv'# name of the last titration file run
+titrationfile<-'Titrations-8_23_2023-Silbiger TA (EP)r1.csv'# name of the last titration file run
 
 
 
 # Date that the data were run
 
-date<-'8/16/2023'
+date<-'8/23/2023'
 
 
 
@@ -242,8 +242,8 @@ for(i in 1:nrows) {
  # c<-0.0973#10/5 back calculating
    #c<-0.100179 #8/26/2022
    #c<-0.100025 #12/19/2022
-   c<-0.1123 ##8/16/2023... changed acid conc
-  #c<-0.099 #8/26/2022
+#   c<-0.1123 ##8/16/2023... changed acid conc
+  c<-0.099 #8/26/2022
   
   
   

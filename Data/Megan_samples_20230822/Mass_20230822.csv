@@ -1,0 +1,23 @@
+Results Editor,,,,,,,,,,,,,,,,,,,,
+Result Overview,,,,,,,,,,,,,,,,,,,,
+Sample Index In Scope,Sample ID1,Sample start time,Overall State,Excluded,Correction factor,Unit of Correction factor,Temperature [°C],Unit of Temperature [°C],Comment,Content (R3),Unit of Content (R3),Data markings of Content (R3),Content (R1),Unit of Content (R1),Data markings of Content (R1),Weight [g],Unit of Weight [g],,Density [g/m L],Unit of Density [g/m L]
+1,junk,8/22/2023 2:40:04 PM,OK,Unchecked,0,,25.0,°C,,2.462,mL,,60.015,g,,60.015,g,,1.0,g/mL
+2,1,8/22/2023 2:50:53 PM,OK,Unchecked,0,,25.0,°C,,2.482,mL,,59.600,g,,59.6001,g,,1.0,g/mL
+3,2,8/22/2023 3:01:40 PM,OK,Unchecked,0,,25.0,°C,,2.421,mL,,60.209,g,,60.2091,g,,1.0,g/mL
+4,3,8/22/2023 3:12:16 PM,OK,Unchecked,0,,25.0,°C,,2.553,mL,,59.682,g,,59.6822,g,,1.0,g/mL
+5,4,8/22/2023 3:23:11 PM,OK,Unchecked,0,,25.0,°C,,2.518,mL,,59.835,g,,59.8346,g,,1.0,g/mL
+6,5,8/22/2023 3:34:03 PM,OK,Unchecked,0,,25.0,°C,,2.439,mL,,59.993,g,,59.9927,g,,1.0,g/mL
+7,6,8/22/2023 3:44:39 PM,OK,Unchecked,0,,25.0,°C,,2.400,mL,,59.595,g,,59.5951,g,,1.0,g/mL
+8,7,8/22/2023 3:55:14 PM,OK,Unchecked,0,,25.0,°C,,2.414,mL,,59.900,g,,59.8998,g,,1.0,g/mL
+9,8,8/22/2023 4:05:48 PM,OK,Unchecked,0,,25.0,°C,,2.426,mL,,60.232,g,,60.2325,g,,1.0,g/mL
+10,9,8/22/2023 4:16:27 PM,OK,Unchecked,0,,25.0,°C,,2.422,mL,,60.353,g,,60.3531,g,,1.0,g/mL
+11,10,8/22/2023 4:27:04 PM,OK,Unchecked,0,,25.0,°C,,2.310,mL,,59.575,g,,59.5753,g,,1.0,g/mL
+12,13,8/22/2023 4:37:27 PM,OK,Unchecked,0,,25.0,°C,,2.392,mL,,60.063,g,,60.063,g,,1.0,g/mL
+13,14,8/22/2023 4:48:01 PM,OK,Unchecked,0,,25.0,°C,,2.429,mL,,59.884,g,,59.8839,g,,1.0,g/mL
+14,15,8/22/2023 4:58:40 PM,OK,Unchecked,0,,25.0,°C,,2.443,mL,,60.015,g,,60.0149,g,,1.0,g/mL
+15,16,8/22/2023 5:09:21 PM,OK,Unchecked,0,,25.0,°C,,2.426,mL,,59.909,g,,59.909,g,,1.0,g/mL
+16,17,8/22/2023 5:20:02 PM,OK,Unchecked,0,,25.0,°C,,2.435,mL,,60.226,g,,60.2259,g,,1.0,g/mL
+17,18,8/22/2023 5:30:40 PM,OK,Unchecked,0,,25.0,°C,,2.395,mL,,59.663,g,,59.6634,g,,1.0,g/mL
+18,19,8/22/2023 5:41:15 PM,OK,Unchecked,0,,25.0,°C,,2.430,mL,,59.635,g,,59.6348,g,,1.0,g/mL
+19,20,8/22/2023 5:51:51 PM,OK,Unchecked,0,,25.0,°C,,2.416,mL,,60.247,g,,60.2472,g,,1.0,g/mL
+SystemInternal8/22/2023 6:06:23 PM,,,,,,,,,,,,,,,,,,1/1,,
