@@ -1,0 +1,11 @@
+Results Editor,,,,,,,,,,,,,,,,,,,,
+Result Overview,,,,,,,,,,,,,,,,,,,,
+Sample Index In Scope,Sample ID1,Sample start time,Overall State,Excluded,Correction factor,Unit of Correction factor,Temperature [°C],Unit of Temperature [°C],Comment,Content (R3),Unit of Content (R3),Data markings of Content (R3),Content (R1),Unit of Content (R1),Data markings of Content (R1),Weight [g],Unit of Weight [g],,Density [g/m L],Unit of Density [g/m L]
+1,DI_1,9/14/2023 3:05:33 PM,OK,Unchecked,0,,25.0,°C,,2.382,mL,,60.162,g,,60.1618,g,,1.0,g/mL
+2,DI_2,9/14/2023 3:16:13 PM,OK,Unchecked,0,,25.0,°C,,2.349,mL,,59.772,g,,59.7724,g,,1.0,g/mL
+3,DI_3,9/14/2023 3:26:43 PM,OK,Unchecked,0,,25.0,°C,,2.344,mL,,59.772,g,,59.7722,g,,1.0,g/mL
+4,A_1,9/14/2023 3:37:12 PM,OK,Unchecked,0,,25.0,°C,,2.357,mL,,59.934,g,,59.9345,g,,1.0,g/mL
+5,A_2,9/14/2023 3:47:41 PM,OK,Unchecked,0,,25.0,°C,,2.367,mL,,60.218,g,,60.2182,g,,1.0,g/mL
+6,A_3,9/14/2023 3:58:14 PM,OK,Unchecked,0,,25.0,°C,,2.352,mL,,59.905,g,,59.9052,g,,1.0,g/mL
+7,CRM,9/14/2023 4:08:43 PM,OK,Unchecked,0,,25.0,°C,,2.324,mL,,59.855,g,,59.8553,g,,1.0,g/mL
+SystemInternal9/14/2023 4:19:58 PM,,,,,,,,,,,,,,,,,,1/1,,

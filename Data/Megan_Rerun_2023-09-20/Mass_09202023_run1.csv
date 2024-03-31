@@ -1,0 +1,21 @@
+Results Editor,,,,,,,,,,,,,,,,,,,,
+Result Overview,,,,,,,,,,,,,,,,,,,,
+Sample Index In Scope,Sample ID1,Sample start time,Overall State,Excluded,Correction factor,Unit of Correction factor,Temperature [°C],Unit of Temperature [°C],Comment,Content (R3),Unit of Content (R3),Data markings of Content (R3),Content (R1),Unit of Content (R1),Data markings of Content (R1),Weight [g],Unit of Weight [g],,Density [g/m L],Unit of Density [g/m L]
+1,junk1,9/20/2023 1:32:15 PM,OK,Unchecked,0,,25.0,°C,,2.396,mL,,60.168,g,,60.168,g,,1.0,g/mL
+2,junk2,9/20/2023 1:42:55 PM,OK,Unchecked,0,,25.0,°C,,2.392,mL,,60.413,g,,60.4126,g,,1.0,g/mL
+3,1,9/20/2023 1:53:26 PM,OK,Unchecked,0,,25.0,°C,,2.384,mL,,60.082,g,,60.0825,g,,1.0,g/mL
+4,2,9/20/2023 2:03:56 PM,OK,Unchecked,0,,25.0,°C,,2.380,mL,,60.092,g,,60.0915,g,,1.0,g/mL
+5,3,9/20/2023 2:14:26 PM,OK,Unchecked,0,,25.0,°C,,2.507,mL,,59.940,g,,59.9401,g,,1.0,g/mL
+6,4,9/20/2023 2:25:11 PM,OK,Unchecked,0,,25.0,°C,,2.444,mL,,59.836,g,,59.8362,g,,1.0,g/mL
+7,5,9/20/2023 2:35:49 PM,OK,Unchecked,0,,25.0,°C,,2.414,mL,,60.461,g,,60.4606,g,,1.0,g/mL
+8,6,9/20/2023 2:46:24 PM,OK,Unchecked,0,,25.0,°C,,2.355,mL,,60.035,g,,60.0354,g,,1.0,g/mL
+9,7,9/20/2023 2:56:51 PM,OK,Unchecked,0,,25.0,°C,,2.358,mL,,59.655,g,,59.6548,g,,1.0,g/mL
+10,8,9/20/2023 3:07:19 PM,OK,Unchecked,0,,25.0,°C,,2.402,mL,,60.142,g,,60.1417,g,,1.0,g/mL
+11,9,9/20/2023 3:17:53 PM,OK,Unchecked,0,,25.0,°C,,2.386,mL,,60.477,g,,60.4770,g,,1.0,g/mL
+12,20,9/20/2023 3:28:25 PM,OK,Unchecked,0,,25.0,°C,,2.304,mL,,60.408,g,,60.4082,g,,1.0,g/mL
+13,11,9/20/2023 3:38:46 PM,OK,Unchecked,0,,25.0,°C,,2.361,mL,,59.680,g,,59.6795,g,,1.0,g/mL
+14,12,9/20/2023 3:49:14 PM,OK,Unchecked,0,,25.0,°C,,2.356,mL,,59.572,g,,59.5716,g,,1.0,g/mL
+15,13,9/20/2023 3:59:41 PM,OK,Unchecked,0,,25.0,°C,,2.350,mL,,60.447,g,,60.4473,g,,1.0,g/mL
+16,14,9/20/2023 4:10:07 PM,OK,Unchecked,0,,25.0,°C,,2.386,mL,,59.931,g,,59.9310,g,,1.0,g/mL
+17,16,9/20/2023 4:20:38 PM,OK,Unchecked,0,,25.0,°C,,2.404,mL,,60.252,g,,60.2520,g,,1.0,g/mL
+SystemInternal9/20/2023 4:32:16 PM,,,,,,,,,,,,,,,,,,1/1,,

@@ -1,0 +1,33 @@
+Results Editor,,,,,,,,,,,,,,,,,,,,
+Result Overview,,,,,,,,,,,,,,,,,,,,
+Sample Index In Scope,Sample ID1,Sample start time,Overall State,Excluded,Correction factor,Unit of Correction factor,Temperature [°C],Unit of Temperature [°C],Comment,Content (R3),Unit of Content (R3),Data markings of Content (R3),Content (R1),Unit of Content (R1),Data markings of Content (R1),Weight [g],Unit of Weight [g],,Density [g/m L],Unit of Density [g/m L]
+1,Junk1,9/29/2023 9:56:00 AM,OK,Unchecked,0,,25.0,°C,,2.374,mL,,59.804,g,,59.8045,g,,1.0,g/mL
+2,Junk2,9/29/2023 10:06:44 AM,OK,Unchecked,0,,25.0,°C,,2.389,mL,,60.347,g,,60.3469,g,,1.0,g/mL
+3,postCabral_Col5_Dil1,9/29/2023 10:17:19 AM,OK,Unchecked,0,,25.0,°C,,2.416,mL,,60.057,g,,60.0572,g,,1.0,g/mL
+4,postCabral_Col6_Dil1,9/29/2023 10:27:58 AM,OK,Unchecked,0,,25.0,°C,,2.424,mL,,59.983,g,,59.9834,g,,1.0,g/mL
+5,postCabral_Blank_Dil1,9/29/2023 10:38:42 AM,OK,Unchecked,0,,25.0,°C,,2.448,mL,,60.190,g,,60.1905,g,,1.0,g/mL
+6,postCabral_Col5_Dil2,9/29/2023 10:49:23 AM,OK,Unchecked,0,,25.0,°C,,2.418,mL,,59.856,g,,59.8558,g,,1.0,g/mL
+7,postCabral_Col6_Dil2,9/29/2023 11:00:03 AM,OK,Unchecked,0,,25.0,°C,,2.411,mL,,60.139,g,,60.1388,g,,1.0,g/mL
+8,postCabral_Blank_Dil2,9/29/2023 11:10:45 AM,OK,Unchecked,0,,25.0,°C,,2.435,mL,,60.163,g,,60.1631,g,,1.0,g/mL
+9,postCabral_Col5_Dil3,9/29/2023 11:21:24 AM,OK,Unchecked,0,,25.0,°C,,2.417,mL,,60.396,g,,60.3956,g,,1.0,g/mL
+10,postCabral_Col6_Dil3,9/29/2023 11:32:02 AM,OK,Unchecked,0,,25.0,°C,,2.404,mL,,59.982,g,,59.9816,g,,1.0,g/mL
+11,postCabral_Blank_Dil3,9/29/2023 11:42:40 AM,OK,Unchecked,0,,25.0,°C,,2.418,mL,,59.970,g,,59.9695,g,,1.0,g/mL
+12,postCabral_Col5_Dil4,9/29/2023 11:53:17 AM,OK,Unchecked,0,,25.0,°C,,2.392,mL,,59.907,g,,59.9069,g,,1.0,g/mL
+13,postCabral_Col6_Dil4,9/29/2023 12:03:53 PM,OK,Unchecked,0,,25.0,°C,,2.402,mL,,59.990,g,,59.9896,g,,1.0,g/mL
+14,postCabral_Blank_Dil4,9/29/2023 12:14:35 PM,OK,Unchecked,0,,25.0,°C,,2.430,mL,,60.095,g,,60.0946,g,,1.0,g/mL
+15,postCabral_Col5_Dil5,9/29/2023 12:25:15 PM,OK,Unchecked,0,,25.0,°C,,2.402,mL,,60.330,g,,60.3304,g,,1.0,g/mL
+16,postCabral_Col6_Dil5,9/29/2023 12:36:00 PM,OK,Unchecked,0,,25.0,°C,,2.394,mL,,60.170,g,,60.1698,g,,1.0,g/mL
+17,postCabral_Blank_Dil5,9/29/2023 12:47:15 PM,OK,Unchecked,0,,25.0,°C,,2.414,mL,,60.311,g,,60.3108,g,,1.0,g/mL
+18,postCabral_Col5_Dil6,9/29/2023 12:58:15 PM,OK,Unchecked,0,,25.0,°C,,2.378,mL,,60.043,g,,60.0429,g,,1.0,g/mL
+19,postCabral_Col6_Dil6,9/29/2023 1:08:52 PM,OK,Unchecked,0,,25.0,°C,,2.378,mL,,59.779,g,,59.7787,g,,1.0,g/mL
+20,postCabral_Blank_Dil6,9/29/2023 1:19:29 PM,OK,Unchecked,0,,25.0,°C,,2.408,mL,,60.340,g,,60.3401,g,,1.0,g/mL
+21,postCabral_Col5_Dil7,9/29/2023 1:30:12 PM,OK,Unchecked,0,,25.0,°C,,2.403,mL,,59.701,g,,59.7006,g,,1.0,g/mL
+22,postCabral_Col6_Dil7,9/29/2023 1:40:53 PM,OK,Unchecked,0,,25.0,°C,,2.408,mL,,60.227,g,,60.2267,g,,1.0,g/mL
+23,postCabral_Blank_Dil7,9/29/2023 1:51:44 PM,OK,Unchecked,0,,25.0,°C,,2.404,mL,,59.938,g,,59.9376,g,,1.0,g/mL
+24,postCabral_Col5_Dil8,9/29/2023 2:02:32 PM,OK,Unchecked,0,,25.0,°C,,2.394,mL,,60.208,g,,60.2079,g,,1.0,g/mL
+25,postCabral_Col6_Dil8,9/29/2023 2:13:22 PM,OK,Unchecked,0,,25.0,°C,,2.402,mL,,60.198,g,,60.1980,g,,1.0,g/mL
+26,postCabral_Blank_Dil8,9/29/2023 2:24:03 PM,OK,Unchecked,0,,25.0,°C,,2.407,mL,,60.042,g,,60.0418,g,,1.0,g/mL
+27,postCabral_Col5_Dil9,9/29/2023 2:34:46 PM,OK,Unchecked,0,,25.0,°C,,2.396,mL,,60.007,g,,60.0067,g,,1.0,g/mL
+28,postCabral_Col6_Dil9,9/29/2023 2:45:23 PM,OK,Unchecked,0,,25.0,°C,,2.410,mL,,60.210,g,,60.2102,g,,1.0,g/mL
+29,postCabral_Blank_Dil9,9/29/2023 2:56:14 PM,OK,Unchecked,0,,25.0,°C,,2.426,mL,,60.099,g,,60.0992,g,,1.0,g/mL
+9/29/2023 4:25:01 PMSystemInternal,,,,,,,,,,,,,,,,,,1/1,,

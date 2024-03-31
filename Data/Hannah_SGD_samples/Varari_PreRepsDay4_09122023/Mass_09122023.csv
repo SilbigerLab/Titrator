@@ -1,0 +1,33 @@
+Results Editor,,,,,,,,,,,,,,,,,,,,
+Result Overview,,,,,,,,,,,,,,,,,,,,
+Sample Index In Scope,Sample ID1,Sample start time,Overall State,Excluded,Correction factor,Unit of Correction factor,Temperature [°C],Unit of Temperature [°C],Comment,Content (R3),Unit of Content (R3),Data markings of Content (R3),Content (R1),Unit of Content (R1),Data markings of Content (R1),Weight [g],Unit of Weight [g],,Density [g/m L],Unit of Density [g/m L]
+1,junk1,9/12/2023 12:44:49 PM,OK,Unchecked,0,,25.0,°C,,2.401,mL,,59.990,g,,59.9904,g,,1.0,g/mL
+2,junk2,9/12/2023 12:55:31 PM,OK,Unchecked,0,,25.0,°C,,2.400,mL,,60.192,g,,60.1917,g,,1.0,g/mL
+3,preVarari_Dil1rep1_Day4,9/12/2023 1:06:10 PM,OK,Unchecked,0,,25.0,°C,,2.458,mL,,60.429,g,,60.4291,g,,1.0,g/mL
+4,preVarari_Dil1rep2_Day4,9/12/2023 1:16:49 PM,OK,Unchecked,0,,25.0,°C,,2.432,mL,,59.652,g,,59.6518,g,,1.0,g/mL
+5,preVarari_Dil1rep3_Day4,9/12/2023 1:27:27 PM,OK,Unchecked,0,,25.0,°C,,2.450,mL,,60.220,g,,60.2196,g,,1.0,g/mL
+6,preVarari_Dil2rep1_Day4,9/12/2023 1:38:08 PM,OK,Unchecked,0,,25.0,°C,,2.432,mL,,59.795,g,,59.7946,g,,1.0,g/mL
+7,preVarari_Dil2rep2_Day4,9/12/2023 1:48:48 PM,OK,Unchecked,0,,25.0,°C,,2.426,mL,,59.819,g,,59.8193,g,,1.0,g/mL
+8,preVarari_Dil2rep3_Day4,9/12/2023 1:59:25 PM,OK,Unchecked,0,,25.0,°C,,2.412,mL,,59.658,g,,59.6584,g,,1.0,g/mL
+9,preVarari_Dil3rep1_Day4,9/12/2023 2:10:07 PM,OK,Unchecked,0,,25.0,°C,,2.408,mL,,59.890,g,,59.8903,g,,1.0,g/mL
+10,preVarari_Dil3rep2_Day4,9/12/2023 2:20:44 PM,OK,Unchecked,0,,25.0,°C,,2.435,mL,,60.234,g,,60.2341,g,,1.0,g/mL
+11,preVarari_Dil3rep3_Day4,9/12/2023 2:31:22 PM,OK,Unchecked,0,,25.0,°C,,2.411,mL,,59.949,g,,59.9489,g,,1.0,g/mL
+12,preVarari_Dil4rep1_Day4,9/12/2023 2:41:57 PM,OK,Unchecked,0,,25.0,°C,,2.418,mL,,60.258,g,,60.2583,g,,1.0,g/mL
+13,preVarari_Dil4rep2_Day4,9/12/2023 2:52:34 PM,OK,Unchecked,0,,25.0,°C,,2.396,mL,,59.835,g,,59.8351,g,,1.0,g/mL
+14,preVarari_Dil4rep3_Day4,9/12/2023 3:03:08 PM,OK,Unchecked,0,,25.0,°C,,2.400,mL,,60.061,g,,60.0607,g,,1.0,g/mL
+15,preVarari_Dil5rep1_Day4,9/12/2023 3:13:40 PM,OK,Unchecked,0,,25.0,°C,,2.406,mL,,59.862,g,,59.862,g,,1.0,g/mL
+16,preVarari_Dil5rep2_Day4,9/12/2023 3:24:17 PM,OK,Unchecked,0,,25.0,°C,,2.412,mL,,59.996,g,,59.9962,g,,1.0,g/mL
+17,preVarari_Dil5rep3_Day4,9/12/2023 3:34:54 PM,OK,Unchecked,0,,25.0,°C,,2.412,mL,,60.041,g,,60.0414,g,,1.0,g/mL
+18,preVarari_Dil6rep1_Day4,9/12/2023 3:45:30 PM,OK,Unchecked,0,,25.0,°C,,2.410,mL,,59.580,g,,59.5795,g,,1.0,g/mL
+19,preVarari_Dil6rep2_Day4,9/12/2023 3:56:06 PM,OK,Unchecked,0,,25.0,°C,,2.440,mL,,60.419,g,,60.4192,g,,1.0,g/mL
+20,preVarari_Dil6rep3_Day4,9/12/2023 4:06:47 PM,OK,Unchecked,0,,25.0,°C,,2.428,mL,,60.027,g,,60.027,g,,1.0,g/mL
+21,preVarari_Dil7rep1_Day4,9/12/2023 4:17:27 PM,OK,Unchecked,0,,25.0,°C,,2.441,mL,,60.502,g,,60.5019,g,,1.0,g/mL
+22,preVarari_Dil7rep2_Day4,9/12/2023 4:28:08 PM,OK,Unchecked,0,,25.0,°C,,2.435,mL,,60.405,g,,60.4053,g,,1.0,g/mL
+23,preVarari_Dil7rep3_Day4,9/12/2023 4:38:50 PM,OK,Unchecked,0,,25.0,°C,,2.441,mL,,60.273,g,,60.2726,g,,1.0,g/mL
+24,preVarari_Dil8rep1_Day4,9/12/2023 4:49:29 PM,OK,Unchecked,0,,25.0,°C,,2.420,mL,,59.696,g,,59.6964,g,,1.0,g/mL
+25,preVarari_Dil8rep2_Day4,9/12/2023 5:00:05 PM,OK,Unchecked,0,,25.0,°C,,2.458,mL,,60.475,g,,60.4754,g,,1.0,g/mL
+26,preVarari_Dil8rep3_Day4,9/12/2023 5:10:50 PM,OK,Unchecked,0,,25.0,°C,,2.460,mL,,60.432,g,,60.4321,g,,1.0,g/mL
+27,preVarari_Dil9rep1_Day4,9/12/2023 5:21:32 PM,OK,Unchecked,0,,25.0,°C,,2.492,mL,,60.081,g,,60.0810,g,,1.0,g/mL
+28,preVarari_Dil9rep2_Day4,9/12/2023 5:32:19 PM,OK,Unchecked,0,,25.0,°C,,2.458,mL,,59.705,g,,59.7051,g,,1.0,g/mL
+29,preVarari_Dil9rep3_Day4,9/12/2023 5:43:02 PM,OK,Unchecked,0,,25.0,°C,,2.458,mL,,59.746,g,,59.7457,g,,1.0,g/mL
+9/12/2023 5:54:46 PMSystemInternal,,,,,,,,,,,,,,,,,,1/1,,

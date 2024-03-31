@@ -1,0 +1,19 @@
+Results Editor,,,,,,,,,,,,,,,,,,,,
+Result Overview,,,,,,,,,,,,,,,,,,,,
+Sample Index In Scope,Sample ID1,Sample start time,Overall State,Excluded,Correction factor,Unit of Correction factor,Temperature [°C],Unit of Temperature [°C],Comment,Content (R3),Unit of Content (R3),Data markings of Content (R3),Content (R1),Unit of Content (R1),Data markings of Content (R1),Weight [g],Unit of Weight [g],,Density [g/m L],Unit of Density [g/m L]
+1,junk1,9/19/2023 10:20:47 AM,OK,Unchecked,0,,25.0,°C,,2.427,mL,,60.049,g,,60.0490,g,,1.0,g/mL
+2,junk2,9/19/2023 10:31:39 AM,OK,Unchecked,0,,25.0,°C,,2.386,mL,,59.895,g,,59.8946,g,,1.0,g/mL
+3,M1_N_2023-08-01,9/19/2023 10:42:18 AM,OK,Unchecked,0,,25.0,°C,,2.360,mL,,59.645,g,,59.6450,g,,1.0,g/mL
+4,RW1_N-2023-08-01,9/19/2023 10:52:48 AM,OK,Unchecked,0,,25.0,°C,,2.334,mL,,59.804,g,,59.8044,g,,1.0,g/mL
+5,RW3_N-2023-08-01,9/19/2023 11:03:25 AM,OK,Unchecked,0,,25.0,°C,,2.336,mL,,60.035,g,,60.0351,g,,1.0,g/mL
+6,RW5_N-2023-08-01,9/19/2023 11:13:52 AM,OK,Unchecked,0,,25.0,°C,,2.342,mL,,60.278,g,,60.2779,g,,1.0,g/mL
+7,B1_N_2023-08-01,9/19/2023 11:24:17 AM,OK,Unchecked,0,,25.0,°C,,2.350,mL,,60.478,g,,60.4778,g,,1.0,g/mL
+8,B5_N_2023-08-01,9/19/2023 11:34:46 AM,OK,Unchecked,0,,25.0,°C,,2.340,mL,,59.781,g,,59.7806,g,,1.0,g/mL
+9,P1_N_2023-08-01,9/19/2023 11:45:16 AM,OK,Unchecked,0,,25.0,°C,,2.338,mL,,60.463,g,,60.4626,g,,1.0,g/mL
+10,P3_N_2023-08-01,9/19/2023 11:55:59 AM,OK,Unchecked,0,,25.0,°C,,2.339,mL,,60.371,g,,60.3712,g,,1.0,g/mL
+11,OO_N_2023-08-01,9/19/2023 12:06:28 PM,OK,Unchecked,0,,25.0,°C,,2.368,mL,,60.256,g,,60.2557,g,,1.0,g/mL
+12,M2_D_2023-08-02,9/19/2023 12:17:11 PM,OK,Unchecked,0,,25.0,°C,,2.348,mL,,59.645,g,,59.6447,g,,1.0,g/mL
+13,CRM,9/19/2023 12:27:40 PM,OK,Unchecked,0,,25.0,°C,,2.370,mL,,60.164,g,,60.1645,g,,1.0,g/mL
+14,RW2_D_2023-08-02,9/19/2023 12:38:14 PM,OK,Unchecked,0,,25.0,°C,,2.362,mL,,59.703,g,,59.7028,g,,1.0,g/mL
+15,RW4_D_2023-08-02_,9/19/2023 12:48:46 PM,OK,Unchecked,0,,25.0,°C,,2.380,mL,,60.331,g,,60.3309,g,,1.0,g/mL
+SystemInternal9/19/2023 1:04:01 PM,,,,,,,,,,,,,,,,,,1/1,,

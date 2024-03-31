@@ -1,0 +1,15 @@
+Results Editor,,,,,,,,,,,,,,,,,,,,
+Result Overview,,,,,,,,,,,,,,,,,,,,
+Sample Index In Scope,Sample ID1,Sample start time,Overall State,Excluded,Correction factor,Unit of Correction factor,Temperature [°C],Unit of Temperature [°C],Comment,Content (R3),Unit of Content (R3),Data markings of Content (R3),Content (R1),Unit of Content (R1),Data markings of Content (R1),Weight [g],Unit of Weight [g],,Density [g/m L],Unit of Density [g/m L]
+1,junk1,12/7/2023 12:00:14 PM,OK,Unchecked,0,,25.0,°C,,2.650,mL,,59.745,g,,59.7449,g,,1.0,g/mL
+2,junk2,12/7/2023 12:11:27 PM,OK,Unchecked,0,,25.0,°C,,2.712,mL,,59.837,g,,59.8367,g,,1.0,g/mL
+3,RW5_10-21,12/7/2023 12:22:39 PM,OK,Unchecked,0,,25.0,°C,,2.659,mL,,60.490,g,,60.4901,g,,1.0,g/mL
+4,RW2_10-22,12/7/2023 12:33:46 PM,OK,Unchecked,0,,25.0,°C,,2.435,mL,,59.905,g,,59.9051,g,,1.0,g/mL
+5,B3_10-23,12/7/2023 12:44:24 PM,OK,Unchecked,0,,25.0,°C,,2.443,mL,,59.996,g,,59.9965,g,,1.0,g/mL
+6,RW6_10-24,12/7/2023 12:55:07 PM,OK,Unchecked,0,,25.0,°C,,2.512,mL,,60.038,g,,60.0377,g,,1.0,g/mL
+7,M1_10-25,12/7/2023 1:05:57 PM,OK,Unchecked,0,,25.0,°C,,2.437,mL,,60.040,g,,60.0404,g,,1.0,g/mL
+8,HC_OO_C_10-25,12/7/2023 1:16:35 PM,OK,Unchecked,0,,25.0,°C,,2.486,mL,,60.018,g,,60.0178,g,,1.0,g/mL
+9,OO_10-25,12/7/2023 1:27:22 PM,OK,Unchecked,0,,25.0,°C,,2.476,mL,,59.876,g,,59.8759,g,,1.0,g/mL
+10,HC_OO_C_!0-26,12/7/2023 1:38:09 PM,OK,Unchecked,0,,25.0,°C,,2.488,mL,,60.358,g,,60.3580,g,,1.0,g/mL
+11,M2_10-26,12/7/2023 1:48:52 PM,OK,Unchecked,0,,25.0,°C,,2.462,mL,,59.830,g,,59.8299,g,,1.0,g/mL
+SystemInternal12/7/2023 2:10:22 PM,,,,,,,,,,,,,,,,,,1/1,,

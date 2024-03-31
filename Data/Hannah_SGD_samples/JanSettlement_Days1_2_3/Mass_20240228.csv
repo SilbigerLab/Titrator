@@ -1,0 +1,33 @@
+Results Editor,,,,,,,,,,,,,,,,,,,,
+Result Overview,,,,,,,,,,,,,,,,,,,,
+Sample Index In Scope,Sample ID1,Sample start time,Overall State,Excluded,Correction factor,Unit of Correction factor,Temperature [°C],Unit of Temperature [°C],Comment,Content (R3),Unit of Content (R3),Data markings of Content (R3),Content (R1),Unit of Content (R1),Data markings of Content (R1),Weight [g],Unit of Weight [g],,Density [g/m L],Unit of Density [g/m L]
+1,junk1,2/28/2024 10:17:16 AM,OK,Unchecked,0,,25.0,°C,,2.400,mL,,60.179,g,,60.1789,g,,1.0,g/mL
+2,junk2,2/28/2024 10:28:05 AM,OK,Unchecked,0,,25.0,°C,,2.373,mL,,59.857,g,,59.8569,g,,1.0,g/mL
+3,AmbSGD_rep1_day1_01132024,2/28/2024 10:38:36 AM,OK,Unchecked,0,,25.0,°C,,2.390,mL,,60.217,g,,60.2173,g,,1.0,g/mL
+4,AmbSGD_rep2_day1_01132024,2/28/2024 10:49:09 AM,OK,Unchecked,0,,25.0,°C,,2.384,mL,,60.007,g,,60.0071,g,,1.0,g/mL
+5,AmbSGD_rep3_day1_01132024,2/28/2024 10:59:46 AM,OK,Unchecked,0,,25.0,°C,,2.382,mL,,60.117,g,,60.1171,g,,1.0,g/mL
+6,LowSGD_rep1_day1_01132024,2/28/2024 11:10:23 AM,OK,Unchecked,0,,25.0,°C,,2.385,mL,,59.907,g,,59.9072,g,,1.0,g/mL
+7,LowSGD_rep2_day1_01132024,2/28/2024 11:20:54 AM,OK,Unchecked,0,,25.0,°C,,2.390,mL,,59.862,g,,59.8618,g,,1.0,g/mL
+8,LowSGD_rep3_day1_01132024,2/28/2024 11:31:28 AM,OK,Unchecked,0,,25.0,°C,,2.370,mL,,59.803,g,,59.8030,g,,1.0,g/mL
+9,MedSGD_rep1_day1_01132024,2/28/2024 11:42:00 AM,OK,Unchecked,0,,25.0,°C,,2.390,mL,,60.028,g,,60.0283,g,,1.0,g/mL
+10,MedSGD_rep2_day1_01132024,2/28/2024 11:52:32 AM,OK,Unchecked,0,,25.0,°C,,2.389,mL,,60.101,g,,60.1009,g,,1.0,g/mL
+11,MedSGD_rep3_day1_01132024,2/28/2024 12:03:08 PM,OK,Unchecked,0,,25.0,°C,,2.366,mL,,59.809,g,,59.8094,g,,1.0,g/mL
+12,HighSGD_rep1_day1_01132024,2/28/2024 12:13:43 PM,OK,Unchecked,0,,25.0,°C,,2.428,mL,,60.066,g,,60.0658,g,,1.0,g/mL
+13,HighSGD_rep2_day1_01132024,2/28/2024 12:24:29 PM,OK,Unchecked,0,,25.0,°C,,2.002,mL,,48.590,g,,48.5904,g,,1.0,g/mL
+14,HighSGD_rep3_day1_01132024,2/28/2024 12:34:17 PM,OK,Unchecked,0,,25.0,°C,,2.418,mL,,60.190,g,,60.1901,g,,1.0,g/mL
+15,AmbSGD_rep1_day2_01142024,2/28/2024 12:44:56 PM,OK,Unchecked,0,,25.0,°C,,2.352,mL,,59.789,g,,59.7890,g,,1.0,g/mL
+16,AmbSGD_rep2_day2_01142024,2/28/2024 12:55:28 PM,OK,Unchecked,0,,25.0,°C,,2.374,mL,,60.388,g,,60.3885,g,,1.0,g/mL
+17,AmbSGD_rep3_day2_01142024,2/28/2024 1:06:03 PM,OK,Unchecked,0,,25.0,°C,,2.356,mL,,60.170,g,,60.1700,g,,1.0,g/mL
+18,LowSGD_rep1_day2_01142024,2/28/2024 1:16:31 PM,OK,Unchecked,0,,25.0,°C,,2.360,mL,,59.963,g,,59.9629,g,,1.0,g/mL
+19,LowSGD_rep2_day2_01142024,2/28/2024 1:27:00 PM,OK,Unchecked,0,,25.0,°C,,2.373,mL,,59.857,g,,59.8569,g,,1.0,g/mL
+20,LowSGD_rep3_day2_01142024,2/28/2024 1:37:32 PM,OK,Unchecked,0,,25.0,°C,,2.387,mL,,60.306,g,,60.3064,g,,1.0,g/mL
+21,MedSGD_rep1_day2_01142024,2/28/2024 1:48:06 PM,OK,Unchecked,0,,25.0,°C,,2.388,mL,,60.067,g,,60.0669,g,,1.0,g/mL
+22,MedSGD_rep2_day2_01142024,2/28/2024 1:58:46 PM,OK,Unchecked,0,,25.0,°C,,2.382,mL,,60.093,g,,60.0928,g,,1.0,g/mL
+23,MedSGD_rep3_day2_01142024,2/28/2024 2:09:24 PM,OK,Unchecked,0,,25.0,°C,,2.390,mL,,60.225,g,,60.2250,g,,1.0,g/mL
+24,HighSGD_rep1_day2_01142024,2/28/2024 2:20:03 PM,OK,Unchecked,0,,25.0,°C,,2.442,mL,,60.199,g,,60.1991,g,,1.0,g/mL
+25,HighSGD_rep2_day2_01142024,2/28/2024 2:30:46 PM,OK,Unchecked,0,,25.0,°C,,2.426,mL,,59.983,g,,59.9832,g,,1.0,g/mL
+26,HighSGD_rep3_day2_01142024,2/28/2024 2:41:26 PM,OK,Unchecked,0,,25.0,°C,,2.428,mL,,60.153,g,,60.1528,g,,1.0,g/mL
+27,rawGW_day2_01142024,2/28/2024 2:52:06 PM,OK,Unchecked,0,,25.0,°C,,3.998,mL,,59.855,g,,59.8547,g,,1.0,g/mL
+28,AmbSGD_rep1_day3_01152024,2/28/2024 3:05:58 PM,OK,Unchecked,0,,25.0,°C,,2.349,mL,,59.789,g,,59.7886,g,,1.0,g/mL
+29,AmbSGD_rep2_day3_01152024,2/28/2024 3:16:32 PM,OK,Unchecked,0,,25.0,°C,,2.356,mL,,60.173,g,,60.1731,g,,1.0,g/mL
+2/28/2024 3:34:47 PMSystemInternal,,,,,,,,,,,,,,,,,,1/1,,

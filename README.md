@@ -7,10 +7,10 @@ We have a Mettler Toledo T5 automatic titrator and an InMotion Pro sample change
 
 [Automatically transfer weights from mettler balance to titrator or excel file](Protocols/BalanceSOP.md)
 
-
-[Acid washing bottles](Protocols/AcidWashing.md)
+ocols/AcidWashing.md)
 
 
 [Mixing Mercuric Chloride solution for poisoning water samples](Protocols/Mercuric_Chloride_SOP.md)
 
+[Acid washing bottles](Prot
 [Ordering and returning carbonate chemistry solutions to Dickson Lab](https://github.com/SilbigerLab/Titrator/blob/master/Protocols/Ordering-Returning_Solutions_SOP.md)

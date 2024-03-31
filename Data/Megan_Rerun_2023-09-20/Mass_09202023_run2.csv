@@ -1,0 +1,9 @@
+Results Editor,,,,,,,,,,,,,,,,,,,,
+Result Overview,,,,,,,,,,,,,,,,,,,,
+Sample Index In Scope,Sample ID1,Sample start time,Overall State,Excluded,Correction factor,Unit of Correction factor,Temperature [°C],Unit of Temperature [°C],Comment,Content (R3),Unit of Content (R3),Data markings of Content (R3),Content (R1),Unit of Content (R1),Data markings of Content (R1),Weight [g],Unit of Weight [g],,Density [g/m L],Unit of Density [g/m L]
+1,junk1,9/20/2023 5:00:51 PM,OK,Unchecked,0,,25.0,°C,,2.947,mL,,60.098,g,,60.0984,g,,1.0,g/mL
+2,47,9/20/2023 5:12:35 PM,OK,Unchecked,0,,25.0,°C,,4.499,mL,,59.875,g,,59.8752,g,,1.0,g/mL
+3,48,9/20/2023 5:27:21 PM,OK,Unchecked,0,,25.0,°C,,5.634,mL,,60.410,g,,60.4098,g,,1.0,g/mL
+4,MW6,9/20/2023 5:44:26 PM,OK,Unchecked,0,,25.0,°C,,5.095,mL,,60.447,g,,60.4471,g,,1.0,g/mL
+5,Varari_river,9/20/2023 6:00:25 PM,OK,Unchecked,0,,25.0,°C,,2.028,mL,,59.599,g,,59.5991,g,,1.0,g/mL
+SystemInternal9/20/2023 6:10:38 PM,,,,,,,,,,,,,,,,,,1/1,,
