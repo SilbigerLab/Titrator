@@ -55,7 +55,7 @@ titrationfile<-"Titrations-03_31_2024-Silbiger TA (EP)r1.csv" #<-name of last ti
 
 # Date that the data were run
 
-date<- '3/30/2024'
+date<- '3/31/2024'
 
 
 
@@ -257,7 +257,7 @@ for(i in 1:nrows) {
   
   #Salinity of your samples
   
-  s<-34
+  s<-33.42
   #s<-sample_sal
   
   #s<-Mass[name,2]
