@@ -1,0 +1,25 @@
+Results Editor,,,,,,,,,,,,,,,,,,,,
+Result Overview,,,,,,,,,,,,,,,,,,,,
+Sample Index In Scope,Sample ID1,Sample start time,Overall State,Excluded,Correction factor,Unit of Correction factor,Temperature [°C],Unit of Temperature [°C],Comment,Content (R3),Unit of Content (R3),Data markings of Content (R3),Content (R1),Unit of Content (R1),Data markings of Content (R1),Weight [g],Unit of Weight [g],,Density [g/m L],Unit of Density [g/m L]
+1,JUNK1,4/8/2024 11:50:28 AM,OK,Unchecked,0,,25.0,°C,,2.397,mL,,60.079,g,,60.079,g,,1.0,g/mL
+2,JUNK2,4/8/2024 12:01:13 PM,OK,Unchecked,0,,25.0,°C,,2.396,mL,,60.190,g,,60.1896,g,,1.0,g/mL
+3,TANK1,4/8/2024 12:11:52 PM,OK,Unchecked,0,,25.0,°C,,2.564,mL,,60.280,g,,60.2802,g,,1.0,g/mL
+4,TANK2,4/8/2024 12:22:46 PM,OK,Unchecked,0,,25.0,°C,,2.553,mL,,60.171,g,,60.1714,g,,1.0,g/mL
+5,TANK3,4/8/2024 12:33:42 PM,OK,Unchecked,0,,25.0,°C,,2.561,mL,,60.372,g,,60.3716,g,,1.0,g/mL
+6,TANK4,4/8/2024 12:44:38 PM,OK,Unchecked,0,,25.0,°C,,2.543,mL,,59.947,g,,59.9470,g,,1.0,g/mL
+7,TANK5,4/8/2024 12:55:31 PM,OK,Unchecked,0,,25.0,°C,,2.552,mL,,60.234,g,,60.2337,g,,1.0,g/mL
+8,TANK6,4/8/2024 1:06:25 PM,OK,Unchecked,0,,25.0,°C,,2.532,mL,,59.750,g,,59.7498,g,,1.0,g/mL
+9,TANK7,4/8/2024 1:17:19 PM,OK,Unchecked,0,,25.0,°C,,2.532,mL,,59.811,g,,59.8106,g,,1.0,g/mL
+10,TANK8,4/8/2024 1:28:09 PM,OK,Unchecked,0,,25.0,°C,,2.530,mL,,59.610,g,,59.6095,g,,1.0,g/mL
+11,TANK9,4/8/2024 1:39:01 PM,OK,Unchecked,0,,25.0,°C,,2.532,mL,,60.057,g,,60.0568,g,,1.0,g/mL
+12,TANK10,4/8/2024 1:49:54 PM,OK,Unchecked,0,,25.0,°C,,2.534,mL,,59.972,g,,59.9723,g,,1.0,g/mL
+13,TANK11,4/8/2024 2:00:44 PM,OK,Unchecked,0,,25.0,°C,,2.536,mL,,60.026,g,,60.0264,g,,1.0,g/mL
+14,TANK12,4/8/2024 2:11:34 PM,OK,Unchecked,0,,25.0,°C,,2.528,mL,,59.927,g,,59.9269,g,,1.0,g/mL
+15,TANK13,4/8/2024 2:22:24 PM,OK,Unchecked,0,,25.0,°C,,2.527,mL,,60.064,g,,60.0644,g,,1.0,g/mL
+16,TANK14,4/8/2024 2:33:25 PM,OK,Unchecked,0,,25.0,°C,,2.531,mL,,60.215,g,,60.2151,g,,1.0,g/mL
+17,TANK15,4/8/2024 2:44:19 PM,OK,Unchecked,0,,25.0,°C,,2.538,mL,,60.357,g,,60.3568,g,,1.0,g/mL
+18,TANK17,4/8/2024 2:55:13 PM,OK,Unchecked,0,,25.0,°C,,2.508,mL,,59.688,g,,59.6878,g,,1.0,g/mL
+19,TANK18,4/8/2024 3:06:03 PM,OK,Unchecked,0,,25.0,°C,,2.518,mL,,59.755,g,,59.7554,g,,1.0,g/mL
+20,TANK19,4/8/2024 3:16:50 PM,OK,Unchecked,0,,25.0,°C,,2.526,mL,,60.011,g,,60.0113,g,,1.0,g/mL
+21,CRM,4/8/2024 3:27:41 PM,OK,Unchecked,0,,25.0,°C,,2.275,mL,,59.711,g,,59.7107,g,,1.0,g/mL
+4/8/2024 4:52:41 PMSystemInternal,,,,,,,,,,,,,,,,,,1/1,,
