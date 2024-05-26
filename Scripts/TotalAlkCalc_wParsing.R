@@ -39,23 +39,23 @@ main<-getwd()
 
 # Until seacarb is updated to include function at() again, use previous version 3.2.14
 #require(devtools)
+#install.packages("remotes")
+#library(remotes)
 #install_version("seacarb", version = "3.2.14", repos = "http://cran.us.r-project.org", dependencies = TRUE)
   
 library(seacarb)#used to calculate TA
 
 library(tidyverse)
 
-
-
 #CHANGE THESE VALUES EVERY DAY----------------------------------------------
 
-path<-"Data/Tena/Meso_20240415"
-massfile<-"Mass_20240415.csv" # name of your file with masses
-titrationfile<-"Titrations-04_15_2024-Silbiger TA (EP)r1.csv" #<-name of last titration file run
+path<-"Data/Intertidal/long_beach_2024-05-25"
+massfile<-"Mass_20240525.csv" # name of your file with masses
+titrationfile<-"Titrations-05_25_2024-Silbiger TA (EP)r1.csv" #<-name of last titration file run
 
 # Date that the data were run
 
-date<- '4/15/2024'
+date<- '5/25/2024'
 
 
 
@@ -225,7 +225,8 @@ for(i in 1:nrows) {
   #d<-(-0.00000410*mean(Data$Temperature[mV], na.rm=T)^2-0.0001069*mean(Data$Temperature[mV], na.rm=T)+1.02888) #03/12/2020
   #d<-(-0.0000040*mean(Data$Temperature[mV], na.rm=T)^2-0.0001108*mean(Data$Temperature[mV], na.rm=T)+1.02878)   #07/22/2021 <-- batch date
   #d<-(-0.0000040*mean(Data$Temperature[mV], na.rm=T)^2-0.0001103*mean(Data$Temperature[mV], na.rm=T)+1.02893)   #08/29/2023 <-- batch number A26 
-  d<-(-0.0000040*mean(Data$Temperature[mV], na.rm=T)^2-0.0001108*mean(Data$Temperature[mV], na.rm=T)+1.02887)   #11/21/2023 <-- batch number A25
+  #d<-(-0.0000040*mean(Data$Temperature[mV], na.rm=T)^2-0.0001108*mean(Data$Temperature[mV], na.rm=T)+1.02887)   #11/21/2023 <-- batch number A25
+  d<-(-0.0000038*mean(Data$Temperature[mV], na.rm=T)^2-0.0001198*mean(Data$Temperature[mV], na.rm=T)+1.02905)   #05/25/2024 <-- batch number A27
   
   #11/27/2019 & 1/7/2020 batch A16
   #9/7/2021 batch A16 (replacing batch opened 11/27/2019)
@@ -233,7 +234,7 @@ for(i in 1:nrows) {
   #07/22/2021 batch A21 replaced with A23 12/19/2022
   #08/29/2023 replaced batch A23 with batch A26 
   # 11/20/2023 replaced with A25
- 
+ #2024-05-25 batch A25 replaced with A27
   
   
   
@@ -247,8 +248,8 @@ for(i in 1:nrows) {
 #  c<-0.099 #8/26/2022
 #  c<- 0.100584 #8/29/2023, changed to new acid batch A26
   #c <- 0.10245 #11/21/2023, changed to batch A25
-  c<-.099977
-  
+ # c<-.099977
+  c<-0.100173  #batch A27
   
   
   #------------------------------------------------------------------------------
