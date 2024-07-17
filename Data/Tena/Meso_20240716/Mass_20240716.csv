@@ -1,0 +1,26 @@
+Results Editor,,,,,,,,,,,,,,,,,,,,
+Result Overview,,,,,,,,,,,,,,,,,,,,
+Sample Index In Scope,Sample ID1,Sample start time,Overall State,Excluded,Correction factor,Unit of Correction factor,Temperature [°C],Unit of Temperature [°C],Comment,Content (R3),Unit of Content (R3),Data markings of Content (R3),Content (R1),Unit of Content (R1),Data markings of Content (R1),Weight [g],Unit of Weight [g],,Density [g/m L],Unit of Density [g/m L]
+1,junk1,7/16/2024 2:41:57 PM,OK,Unchecked,0,,25.0,°C,,2.146,mL,,60.323,g,,60.3229,g,,1.0,g/mL
+2,junk2,7/16/2024 2:52:09 PM,OK,Unchecked,0,,25.0,°C,,2.101,mL,,59.871,g,,59.8714,g,,1.0,g/mL
+3,junk3,7/16/2024 3:02:07 PM,OK,Unchecked,0,,25.0,°C,,2.104,mL,,59.771,g,,59.7713,g,,1.0,g/mL
+4,t8_initial_1b,7/16/2024 3:12:08 PM,OK,Unchecked,0,,25.0,°C,,2.142,mL,,59.980,g,,59.9802,g,,1.0,g/mL
+5,t8_initial_2b,7/16/2024 3:22:14 PM,OK,Unchecked,0,,25.0,°C,,2.152,mL,,60.183,g,,60.183,g,,1.0,g/mL
+6,t8_initial_3b,7/16/2024 3:32:17 PM,OK,Unchecked,0,,25.0,°C,,2.160,mL,,59.935,g,,59.9346,g,,1.0,g/mL
+7,t8_blank_b,7/16/2024 3:42:30 PM,OK,Unchecked,0,,25.0,°C,,2.156,mL,,59.840,g,,59.8401,g,,1.0,g/mL
+8,t8_04,7/16/2024 3:52:39 PM,OK,Unchecked,0,,25.0,°C,,2.155,mL,,59.748,g,,59.7485,g,,1.0,g/mL
+9,t12_initial_1,7/16/2024 4:02:45 PM,OK,Unchecked,0,,25.0,°C,,2.151,mL,,59.855,g,,59.8553,g,,1.0,g/mL
+10,t12_initial_2,7/16/2024 4:12:56 PM,OK,Unchecked,0,,25.0,°C,,2.154,mL,,59.759,g,,59.7589,g,,1.0,g/mL
+11,t12_initial_3,7/16/2024 4:23:01 PM,OK,Unchecked,0,,25.0,°C,,2.164,mL,,59.934,g,,59.9344,g,,1.0,g/mL
+12,t12_blank,7/16/2024 4:33:08 PM,OK,Unchecked,0,,25.0,°C,,2.172,mL,,60.218,g,,60.2181,g,,1.0,g/mL
+13,t12_11,7/16/2024 4:43:13 PM,OK,Unchecked,0,,25.0,°C,,2.165,mL,,59.982,g,,59.9822,g,,1.0,g/mL
+14,t12_14,7/16/2024 4:53:18 PM,OK,Unchecked,0,,25.0,°C,,2.112,mL,,59.751,g,,59.7508,g,,1.0,g/mL
+15,t12_28,7/16/2024 5:03:17 PM,OK,Unchecked,0,,25.0,°C,,2.160,mL,,59.983,g,,59.9834,g,,1.0,g/mL
+16,t9_initial_1,7/16/2024 5:13:20 PM,OK,Unchecked,0,,25.0,°C,,2.176,mL,,60.364,g,,60.3645,g,,1.0,g/mL
+17,t9_initial_2,7/16/2024 5:23:26 PM,OK,Unchecked,0,,25.0,°C,,2.146,mL,,59.773,g,,59.7732,g,,1.0,g/mL
+18,t9_initial_3,7/16/2024 5:33:29 PM,OK,Unchecked,0,,25.0,°C,,2.150,mL,,59.794,g,,59.7937,g,,1.0,g/mL
+19,t9_blank,7/16/2024 5:43:31 PM,OK,Unchecked,0,,25.0,°C,,2.163,mL,,59.958,g,,59.9585,g,,1.0,g/mL
+20,t9_03,7/16/2024 5:53:35 PM,OK,Unchecked,0,,25.0,°C,,2.191,mL,,59.785,g,,59.785,g,,1.0,g/mL
+21,t9_29,7/16/2024 6:03:45 PM,OK,Unchecked,0,,25.0,°C,,2.135,mL,,60.318,g,,60.3183,g,,1.0,g/mL
+22,t9_55,7/16/2024 6:13:49 PM,OK,Unchecked,0,,25.0,°C,,2.150,mL,,60.028,g,,60.0279,g,,1.0,g/mL
+7/16/2024 6:24:39 PMSystemInternal,,,,,,,,,,,,,,,,,,1/1,,
