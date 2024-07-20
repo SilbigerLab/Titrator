@@ -49,13 +49,13 @@ library(tidyverse)
 
 #CHANGE THESE VALUES EVERY DAY----------------------------------------------
 
-path<-"Data/Tena/Meso_20240717"
-massfile<-"Mass_20240717.csv" # name of your file with masses
-titrationfile<-"Titrations-07_17_2024-Silbiger TA (EP)r1.csv" #<-name of last titration file run
+path<-"Data/Tena/Meso_20240719"
+massfile<-"Mass_20240719.csv" # name of your file with masses
+titrationfile<-"Titrations-07_19_2024-Silbiger TA (EP)r1.csv" #<-name of last titration file run
 
 # Date that the data were run
 
-date<- '7/17/2024'
+date<- '7/19/2024'
 
 
 
@@ -235,6 +235,7 @@ for(i in 1:nrows) {
   #08/29/2023 replaced batch A23 with batch A26 
   # 11/20/2023 replaced with A25
  #2024-05-25 batch A25 replaced with A27
+  # 2024-07-19 batch A27 replaced with A24
   
   
   
@@ -249,7 +250,8 @@ for(i in 1:nrows) {
 #  c<- 0.100584 #8/29/2023, changed to new acid batch A26
   #c <- 0.10245 #11/21/2023, changed to batch A25
  # c<-.099977
-  c<-0.100173  #batch A27
+#  c<-0.100173  #batch A27
+   c<-0.099922 #batch A24
   
   
   #------------------------------------------------------------------------------
