@@ -25,11 +25,6 @@
 #------------------------------------------------------------
 
 
-
-rm(list=ls())
-
-
-
 #set working directory---------------------------------------------------------------------------------------------
 
 main<-getwd()
@@ -296,7 +291,7 @@ for(i in 1:nrows) {
 TA[,2:4]<-sapply(TA[,2:4], as.numeric) # make sure the appropriate columns are numeric
 
 # Add line for controlling for evaporation
-salt<-seq(from = 35, length.out = length(sample_names), by = 0.02)
+#salt<-seq(from = 35, length.out = length(sample_names), by = 0.02)
 #TA$TA_evap<-TA$TA*35/salt
 
 #exports your data as a CSV file
