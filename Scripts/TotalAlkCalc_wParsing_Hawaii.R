@@ -44,9 +44,9 @@ library(tidyverse)
 
 #CHANGE THESE VALUES EVERY DAY----------------------------------------------
 
-path<-"Data/Tena/Meso_20240901"
-massfile<-"Mass_20240901.csv" # name of your file with masses
-titrationfile<-"Titrations-09_01_2024-Silbiger TA (EP)r1.csv" #<-name of last titration file run
+path<-"Data/Chapuis/test_20241204"
+massfile<-"Mass_20211204.csv" # name of your file with masses
+titrationfile<-"titrations.csv" #<-name of last titration file run
 
 # Date that the data were run
 
