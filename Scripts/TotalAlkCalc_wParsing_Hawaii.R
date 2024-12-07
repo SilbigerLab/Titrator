@@ -44,8 +44,8 @@ library(tidyverse)
 
 #CHANGE THESE VALUES EVERY DAY----------------------------------------------
 
-path<-"Data/Chapuis/test_20241204"
-massfile<-"Mass_20211204.csv" # name of your file with masses
+path<-"Data/Chapuis/test_20241206"
+massfile<-"Mass_20241206.csv" # name of your file with masses
 titrationfile<-"titrations.csv" #<-name of last titration file run
 
 # Date that the data were run
@@ -221,8 +221,10 @@ for(i in 1:nrows) {
   #d<-(-0.0000040*mean(Data$Temperature[mV], na.rm=T)^2-0.0001108*mean(Data$Temperature[mV], na.rm=T)+1.02878)   #07/22/2021 <-- batch date
   #d<-(-0.0000040*mean(Data$Temperature[mV], na.rm=T)^2-0.0001103*mean(Data$Temperature[mV], na.rm=T)+1.02893)   #08/29/2023 <-- batch number A26 
   #d<-(-0.0000040*mean(Data$Temperature[mV], na.rm=T)^2-0.0001108*mean(Data$Temperature[mV], na.rm=T)+1.02887)   #11/21/2023 <-- batch number A25
-  d<-(-0.0000038*mean(Data$Temperature[mV], na.rm=T)^2-0.0001198*mean(Data$Temperature[mV], na.rm=T)+1.02905)   #05/25/2024 <-- batch number A27
+  #d<-(-0.0000038*mean(Data$Temperature[mV], na.rm=T)^2-0.0001198*mean(Data$Temperature[mV], na.rm=T)+1.02905)   #05/25/2024 <-- batch number A27
+  d<-(-0.00000403*mean(Data$Temperature[mV], na.rm=T)^2-0.0001102*mean(Data$Temperature[mV], na.rm=T)+1.02889)   #12/04/2024 <-- batch number A28 (Hawaii)
   
+   
   #11/27/2019 & 1/7/2020 batch A16
   #9/7/2021 batch A16 (replacing batch opened 11/27/2019)
   #3/12/2020 batch A21 replaced 8/26/2022
@@ -231,6 +233,7 @@ for(i in 1:nrows) {
   # 11/20/2023 replaced with A25
   #2024-05-25 batch A25 replaced with A27
   # 2024-07-19 batch A27 replaced with A24
+  # 2024-12-04 Hawaii - batch A28
   
   
   
@@ -246,7 +249,8 @@ for(i in 1:nrows) {
   #c <- 0.10245 #11/21/2023, changed to batch A25
   # c<-.099977
   #  c<-0.100173  #batch A27
-  c<-0.099922 #batch A24
+  # c<-0.099922 #batch A24
+  c<-0.099983 # batch A28 - Hawaii
   
   
   #------------------------------------------------------------------------------
