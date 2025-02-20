@@ -44,13 +44,13 @@ library(tidyverse)
 
 #CHANGE THESE VALUES EVERY DAY----------------------------------------------
 
-path<-"Data/Chapuis/test_20241206"
-massfile<-"Mass_20241206.csv" # name of your file with masses
-titrationfile<-"titrations.csv" #<-name of last titration file run
+path<-"Data/Chapuis/Sandy_20250216"
+massfile<-"mass20250219.csv" # name of your file with masses
+titrationfile<-"Titration-2_19_2025.csv" #<-name of last titration file run
 
 # Date that the data were run
 
-date<- '9/1/2024'
+date<- '2/19/2025'
 
 
 
@@ -127,7 +127,7 @@ Mass<-Mass[1:nrows,]
 
 Mass <- Mass %>%
   select("Sample.ID1" =`Sample ID1`, "Weight..g." = `Weight [g]`,
-         "Sample.Index.In.Scope" = `Sample Index In Scope`)
+         "Sample.Index.In.Scope" = `Sample index in scope`)
 
 #run a for loop to bring in the titration files one at a time and calculate TA
 
@@ -251,6 +251,7 @@ for(i in 1:nrows) {
   #  c<-0.100173  #batch A27
   # c<-0.099922 #batch A24
   c<-0.099983 # batch A28 - Hawaii
+ # c<-0.096823 # batch A28 - Hawaii
   
   
   #------------------------------------------------------------------------------
