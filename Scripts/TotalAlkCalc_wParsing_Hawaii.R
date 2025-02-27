@@ -45,8 +45,8 @@ library(tidyverse)
 #CHANGE THESE VALUES EVERY DAY----------------------------------------------
 
 path<-"Data/Chapuis/DiamondHead_20250223_HaleyTest"
-massfile<-"Mass_20250226_CRM.csv" # name of your file with masses
-titrationfile<-"Titration-2_26_2025_CRM.csv" #<-name of last titration file run
+massfile<-"Mass_20250226.csv" # name of your file with masses
+titrationfile<-"Titration-2_26_2025.csv" #<-name of last titration file run
 
 # Date that the data were run
 
