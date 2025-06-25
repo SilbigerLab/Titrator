@@ -45,12 +45,12 @@ library(tidyverse)
 #CHANGE THESE VALUES EVERY DAY----------------------------------------------
 
 path<-"Data/Chapuis/Tidepools/Sandy_20250622"
-massfile<-"mass_20250624.csv" # name of your file with masses
-titrationfile<-"Titration-6_24_2025.csv" #<-name of last titration file run
+massfile<-"mass_20250625_CRM.csv" # name of your file with masses
+titrationfile<-"Titration-6_25_2025_CRM.csv" #<-name of last titration file run
 
 # Date that the data were run
 
-date<- '6/24/2025'
+date<- '6/25/2025'
 
 
 
