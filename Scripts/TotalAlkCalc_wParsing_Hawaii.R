@@ -45,8 +45,8 @@ library(tidyverse)
 #CHANGE THESE VALUES EVERY DAY----------------------------------------------
 
 path<-"Data/Chapuis/Tidepools/Summer_Reruns"
-massfile<-"mass_20251124_part1.csv" # name of your file with masses
-titrationfile<-"Titration-11_24_2025_part1.csv" #<-name of last titration file run
+massfile<-"mass_20251124_part2.csv" # name of your file with masses
+titrationfile<-"Titration-11_24_2025_part2.csv" #<-name of last titration file run
 
 # Date that the data were run
 
