@@ -39,7 +39,7 @@ Contents
     1. It's helpful to line any surface that may be touched or affected by HgCl2.
   1. Put stir bar inside the pyrex bottle and place the bottle on the scale without lid and tare.
   1. Fill a clean beaker with 200mL DI water and place near the scale
-  1. Using the scoopula, carefully weigh out 7g of HgCl2 into the bottle, being careful to not spill the powder during the transfer.
+  1. Using the scoopula, carefully weigh out 7.4g of HgCl2 into the bottle, being careful to not spill the powder during the transfer.
   1. Pour the 200mL DI water carefully into the bottle and close the lid on the bottle.
   
 4. <a name="Mixing_HgCl2"></a> **Mixing_HgCl2**
