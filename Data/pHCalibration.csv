@@ -267,3 +267,4 @@ Date,ZeroPoint,Slope,pH4,pH7,pH10,Notes
 8/30/2026,7.277,-56.85,186.5,14.1,-157.7,new buffers opened 8/27/2026 (actually ran on 8/31)
 8/31/2026,7.272,-57.3,187.6,14.2,-159.1,"new buffers opened 8/31/2026, reran bc 8/27 buffers looked super different! Slope ok? But weird to go from -1 to 14 and higher pH value @7 weird also"
 9/1/2026,7.457,-56.32,194.6,24.7,-146.3,same buffers opened 8/31/2026
+9/2/2026,7.39,-57.3,194.6,20.7,-152,same buffers opened 8/31/2026
