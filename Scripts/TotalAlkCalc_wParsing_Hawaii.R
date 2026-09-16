@@ -44,11 +44,11 @@ library(tidyverse)
 
 #CHANGE THESE VALUES EVERY DAY----------------------------------------------
 
-path<-"Data/Okinawa2026_Carreiro_2026.09.10"
-massfile<-"mass_20260910.csv" # name of your file with masses
-titrationfile<-"Titration-9_10_2026.csv" # name of your titration file run
+path<-"Data/Powell/BioFac_25March2026_1200_091526"
+massfile<-"mass_091526.csv" # name of your file with masses
+titrationfile<-"Titration-9_15_2026.csv" # name of your titration file run
 
-date<- '9/10/2026' # Date that the data were run
+date<- '9/15/2026' # Date that the data were run
 
 #DO NOT CHANGE ANYTHING BELOW THIS LINE UNLESS A NEW BOTTLE OF ACID IS USED
 
