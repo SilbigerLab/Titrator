@@ -44,9 +44,9 @@ library(tidyverse)
 
 #CHANGE THESE VALUES EVERY DAY----------------------------------------------
 
-path<-"Data/Powell/BioFac_25March2026_2100_091626"
-massfile<-"mass_091626.csv" # name of your file with masses
-titrationfile<-"Titration-9_16_2026.csv" # name of your titration file run
+path<-"Data/Powell/BioFac_1April2026_1200_091826"
+massfile<-"mass_091826.csv" # name of your file with masses
+titrationfile<-"Titration-9_18_2026.csv" # name of your titration file run
 
 date<- '9/16/2026' # Date that the data were run
 
