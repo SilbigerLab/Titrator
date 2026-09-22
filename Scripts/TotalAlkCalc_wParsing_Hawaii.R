@@ -14,9 +14,6 @@
 
 #3. a subfolder named "TitrationFiles" (where all of your titration files are) directly exported from LabX.
 
-# 
-
-
 
 #Created by Nyssa Silbiger 03/28/2014
 
@@ -44,11 +41,11 @@ library(tidyverse)
 
 #CHANGE THESE VALUES EVERY DAY----------------------------------------------
 
-path<-"Data/Powell/BioFac_1April2026_1200_091826"
-massfile<-"mass_091826_CRM.csv" # name of your file with masses
-titrationfile<-"Titration-9_18_2026_CRM.csv" # name of your titration file run
+path<-"Data/Powell/BioFac_1April2026_2100_092126"
+massfile<-"mass_092126.csv" # name of your file with masses
+titrationfile<-"Titration-9_21_2026.csv" # name of your titration file run
 
-date<- '9/18/2026' # Date that the data were run
+date<- '9/21/2026' # Date that the data were run
 
 #DO NOT CHANGE ANYTHING BELOW THIS LINE UNLESS A NEW BOTTLE OF ACID IS USED
 
