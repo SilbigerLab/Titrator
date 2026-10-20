@@ -19,6 +19,8 @@
 
 #modified 03/18/2018 - N Silbiger
 
+#modified 10/19/2026 - M Powell updates to sample salinity
+
 #------------------------------------------------------------
 
 
@@ -41,11 +43,14 @@ library(tidyverse)
 
 #CHANGE THESE VALUES EVERY DAY----------------------------------------------
 
-path<-"Data/Powell/BioFac_27April2026_1200_092226"
-massfile<-"mass_092226.csv" # name of your file with masses
-titrationfile<-"Titration-9_22_2026.csv" # name of your titration file run
+path<-"Data/Powell/BioFac_13April2026_1200_2100_101926"
+massfile<-"mass_101926.csv" # name of your file with masses
+titrationfile<-"Titration-10_19_2026.csv" # name of your titration file run
 
-date<- '9/22/2026' # Date that the data were run
+date<- '10/19/2026' # Date that the data were run
+
+s<-33.8 #salinity of your samples
+#s<-sample_sal
 
 #DO NOT CHANGE ANYTHING BELOW THIS LINE UNLESS A NEW BOTTLE OF ACID IS USED
 
@@ -249,14 +254,7 @@ for(i in 1:nrows) {
   
   #------------------------------------------------------------------------------
   
-  
-  
-  #Salinity of your samples
-  
-  s<-33.71
-  #s<-sample_sal
-  
-  #s<-Mass[name,2]
+# Mass of your samples
   
   #mass of sample in g: changed with every sample
   
