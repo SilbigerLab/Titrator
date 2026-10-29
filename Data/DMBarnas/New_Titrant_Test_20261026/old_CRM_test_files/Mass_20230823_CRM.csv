@@ -1,0 +1,8 @@
+Results Editor,,,,,,,,,,,,,,,,,,,,
+Result Overview,,,,,,,,,,,,,,,,,,,,
+Sample Index In Scope,Sample ID1,Sample start time,Overall State,Excluded,Correction factor,Unit of Correction factor,Temperature [°C],Unit of Temperature [°C],Comment,Content (R3),Unit of Content (R3),Data markings of Content (R3),Content (R1),Unit of Content (R1),Data markings of Content (R1),Weight [g],Unit of Weight [g],,Density [g/m L],Unit of Density [g/m L]
+1,junk1,8/23/2023 11:25:31 AM,OK,Unchecked,0,,25.0,°C,,2.464,mL,,60.440,g,,60.44,g,,1.0,g/mL
+2,junk2,8/23/2023 11:36:20 AM,OK,Unchecked,0,,25.0,°C,,2.470,mL,,60.171,g,,60.1707,g,,1.0,g/mL
+3,junk3,8/23/2023 11:47:01 AM,OK,Unchecked,0,,25.0,°C,,2.480,mL,,60.170,g,,60.1697,g,,1.0,g/mL
+4,CRM,8/23/2023 11:57:41 AM,OK,Unchecked,0,,25.0,°C,,2.433,mL,,60.173,g,,60.1731,g,,1.0,g/mL
+8/23/2023 12:18:01 PMSystemInternal,,,,,,,,,,,,,,,,,,1/1,,

@@ -43,13 +43,14 @@ library(tidyverse)
 
 #CHANGE THESE VALUES EVERY DAY----------------------------------------------
 
-path<-"Data/Powell/BioFac_20April2026_1200_2100_102026"
-massfile<-"mass_102126.csv" # name of your file with masses
-titrationfile<-"Titration-10_21_2026.csv" # name of your titration file run
+path<-"Data/DMBarnas/Hawaii_BEF/10292026"
+massfile<-"CRM_Mass_10292026.csv" # name of your file with masses
+titrationfile<-"CRM_Titration-10_29_2026.csv" # name of your titration file run
 
-date<- '10/20/2026' # Date that the data were run
+date<- '10/28/2026' # Date that the data were run
 
 s<-33.71 #salinity of your samples
+s<-32.943 # salinity of CRM batch 227
 #s<-sample_sal
 
 #DO NOT CHANGE ANYTHING BELOW THIS LINE UNLESS A NEW BOTTLE OF ACID IS USED
@@ -81,17 +82,17 @@ mod.pH<-lm(c(pHData$pH4, pHData$pH7, pHData$pH10)~c(4,7,10)) # linear model
 
 # print a plot of the relationship between pH and mV
 
-png(paste0(path,"/",Sys.Date(),'pHmvplot.png'), height = 400, width = 400)
-
-plot(c(4,7,10), c(pHData$pH4, pHData$pH7, pHData$pH10), xlab = 'pH', ylab = 'mv')
-
-lines(c(4,7,10), predict(mod.pH))
-
-R2<-summary(mod.pH)$r.squared
-
-legend('topright', legend = bquote(R^2 == .(format(R2, digits = 3))), bty='n')
-
-dev.off()
+# png(paste0(path,"/",Sys.Date(),'pHmvplot.png'), height = 400, width = 400)
+# 
+# plot(c(4,7,10), c(pHData$pH4, pHData$pH7, pHData$pH10), xlab = 'pH', ylab = 'mv')
+# 
+# lines(c(4,7,10), predict(mod.pH))
+# 
+# R2<-summary(mod.pH)$r.squared
+# 
+# legend('topright', legend = bquote(R^2 == .(format(R2, digits = 3))), bty='n')
+# 
+# dev.off()
 
 
 
@@ -129,7 +130,7 @@ Mass <- Mass %>%
 
 #run a for loop to bring in the titration files one at a time and calculate TA
 
-# read in the mega titration filem
+# read in the mega titration files
 
 filename<-file.path(path,titrationfile)
 
@@ -213,14 +214,15 @@ for(i in 1:nrows) {
   
   #d<-100*(-0.00000410*mean(Data$Temperature[mV], na.rm=T)^2-0.0001067*mean(Data$Temperature[mV], na.rm=T)+1.02882)/1000 #03/8/18
   
-  #d<-(-0.00000410*mean(Data$Temperature[mV], na.rm=T)^2-0.0001067*mean(Data$Temperature[mV], na.rm=T)+1.02882) #03/8/18
-  #d<-(-0.00000410*mean(Data$Temperature[mV], na.rm=T)^2-0.0001065*mean(Data$Temperature[mV], na.rm=T)+1.02884) #03/8/18
-  #d<-(-0.00000410*mean(Data$Temperature[mV], na.rm=T)^2-0.0001069*mean(Data$Temperature[mV], na.rm=T)+1.02888) #03/12/2020
-  #d<-(-0.0000040*mean(Data$Temperature[mV], na.rm=T)^2-0.0001108*mean(Data$Temperature[mV], na.rm=T)+1.02878)   #07/22/2021 <-- batch date
-  #d<-(-0.0000040*mean(Data$Temperature[mV], na.rm=T)^2-0.0001103*mean(Data$Temperature[mV], na.rm=T)+1.02893)   #08/29/2023 <-- batch number A26 
+  # d<-(-0.00000410*mean(Data$Temperature[mV], na.rm=T)^2-0.0001067*mean(Data$Temperature[mV], na.rm=T)+1.02882) #03/8/18
+  # d<-(-0.00000410*mean(Data$Temperature[mV], na.rm=T)^2-0.0001065*mean(Data$Temperature[mV], na.rm=T)+1.02884) #03/8/18
+  # d<-(-0.00000410*mean(Data$Temperature[mV], na.rm=T)^2-0.0001069*mean(Data$Temperature[mV], na.rm=T)+1.02888) #03/12/2020
+  # d<-(-0.0000040*mean(Data$Temperature[mV], na.rm=T)^2-0.0001108*mean(Data$Temperature[mV], na.rm=T)+1.02878)   #07/22/2021 <-- batch date
+  # d<-(-0.0000040*mean(Data$Temperature[mV], na.rm=T)^2-0.0001103*mean(Data$Temperature[mV], na.rm=T)+1.02893)   #08/29/2023 <-- batch number A26
   #d<-(-0.0000040*mean(Data$Temperature[mV], na.rm=T)^2-0.0001108*mean(Data$Temperature[mV], na.rm=T)+1.02887)   #11/21/2023 <-- batch number A25
   #d<-(-0.0000038*mean(Data$Temperature[mV], na.rm=T)^2-0.0001198*mean(Data$Temperature[mV], na.rm=T)+1.02905)   #05/25/2024 <-- batch number A27
-  d<-(-0.00000403*mean(Data$Temperature[mV], na.rm=T)^2-0.0001102*mean(Data$Temperature[mV], na.rm=T)+1.02889)   #12/04/2024 <-- batch number A28 (Hawaii)
+  # d<-(-0.00000403*mean(Data$Temperature[mV], na.rm=T)^2-0.0001102*mean(Data$Temperature[mV], na.rm=T)+1.02889)   #12/04/2024 <-- batch number A28 (Hawaii)
+  d<-(-0.0000040*mean(Data$Temperature[mV], na.rm=T)^2-0.00010*mean(Data$Temperature[mV], na.rm=T)+1.0010)   #10/26/2026 <-- Metrohm (Hawaii) for pure water (density delta of 0.0014 from 20-25C)
   
    
   #11/27/2019 & 1/7/2020 batch A16
@@ -232,25 +234,26 @@ for(i in 1:nrows) {
   #2024-05-25 batch A25 replaced with A27
   # 2024-07-19 batch A27 replaced with A24
   # 2024-12-04 Hawaii - batch A28
+  # 2026-10-26 Hawaii - Metrohm Titrant (not Dickson lab); HCl in Water (not NaCl); 0.1N (0.1M): HCl (0.36%) in water (99.64%)
   
   
   
   #concentration of your titrant: CHANGE EVERYTIME ACID IS CHANGED 
   
-  #  c<-0.100010 #11/27/2019 and 9/7/2021
+   # c<-0.100010 #11/27/2019 and 9/7/2021
   # c<-0.0973#10/5 back calculating
   #c<-0.100179 #8/26/2022
   #c<-0.100025 #12/19/2022
-  #  c<-0.1123 ##8/16/2023... changed acid conc
+   # c<-0.1123 ##8/16/2023... changed acid conc
   #  c<-0.099 #8/26/2022
-  #  c<- 0.100584 #8/29/2023, changed to new acid batch A26
-  #c <- 0.10245 #11/21/2023, changed to batch A25
+   # c<- 0.100584 #8/29/2023, changed to new acid batch A26
+  # c <- 0.10245 #11/21/2023, changed to batch A25
   # c<-.099977
   #  c<-0.100173  #batch A27
   # c<-0.099922 #batch A24
-  c<-0.099983 # batch A28 - Hawaii
+  # c<-0.099983 # batch A28 - Hawaii
  # c<-0.096823 # batch A28 - Hawaii
-  
+  c<-0.101125 # Metrohm Titrant - Hawaii
   
   #------------------------------------------------------------------------------
   
