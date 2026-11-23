@@ -43,14 +43,15 @@ library(tidyverse)
 
 #CHANGE THESE VALUES EVERY DAY----------------------------------------------
 
-path<-"Data/DMBarnas/Hawaii_BEF/10292026"
-massfile<-"CRM_Mass_10292026.csv" # name of your file with masses
-titrationfile<-"CRM_Titration-10_29_2026.csv" # name of your titration file run
+path<-"Data/Chapuis/Tiles/Pilot_TA_20260909"
+massfile<-"mass_20261123_CRM3.csv" # name of your file with masses
+titrationfile<-"Titration-11_23_2026_CRM3.csv" # name of your titration file run
 
-date<- '10/28/2026' # Date that the data were run
+date<- '11/23/2026' # Date that the data were run
 
-s<-33.71 #salinity of your samples
-s<-32.943 # salinity of CRM batch 227
+#s<-33.71 #salinity of your samples
+s <- 32.899 # salinity of CRM batch 217
+# s<-32.943 # salinity of CRM batch 227
 #s<-sample_sal
 
 #DO NOT CHANGE ANYTHING BELOW THIS LINE UNLESS A NEW BOTTLE OF ACID IS USED
@@ -253,7 +254,7 @@ for(i in 1:nrows) {
   # c<-0.099922 #batch A24
   # c<-0.099983 # batch A28 - Hawaii
  # c<-0.096823 # batch A28 - Hawaii
-  c<-0.101125 # Metrohm Titrant - Hawaii
+  c<-0.101125 # Metrohm Titrant , not NaCl solution - Hawaii
   
   #------------------------------------------------------------------------------
   
