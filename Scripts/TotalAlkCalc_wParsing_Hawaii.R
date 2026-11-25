@@ -44,10 +44,10 @@ library(tidyverse)
 #CHANGE THESE VALUES EVERY DAY----------------------------------------------
 
 path<-"Data/Chapuis/Tiles/Pilot_TA_20260909"
-massfile<-"mass_20261123_CRM3.csv" # name of your file with masses
-titrationfile<-"Titration-11_23_2026_CRM3.csv" # name of your titration file run
+massfile<-"mass_20261124.csv" # name of your file with masses
+titrationfile<-"Titration-11_24_2026.csv" # name of your titration file run
 
-date<- '11/23/2026' # Date that the data were run
+date<- '11/24/2026' # Date that the data were run
 
 #s<-33.71 #salinity of your samples
 s <- 32.899 # salinity of CRM batch 217
